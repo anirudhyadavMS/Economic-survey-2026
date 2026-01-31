@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "economic-survey-mcp-server"
+version = "1.0.0"
+description = "MCP server providing AI access to India's Economic Survey 2025-26"
+authors = [
+    {name = "Anirudh Yadav", email = "anirudhyadav@microsoft.com"}
+]
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+keywords = ["mcp", "economic-survey", "india", "ai", "claude"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+]
+dependencies = [
+    "mcp>=1.0.0",
+    "PyMuPDF>=1.23.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/anirudhyadavMS/economic-survey-mcp-server"
+Repository = "https://github.com/anirudhyadavMS/economic-survey-mcp-server"
+Issues = "https://github.com/anirudhyadavMS/economic-survey-mcp-server/issues"
+
+[project.scripts]
+economic-survey-mcp = "server:main"
