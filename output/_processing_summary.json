@@ -1,0 +1,131 @@
+{
+  "processed_date": "2026-02-02",
+  "total_chapters": 17,
+  "method": "mcp_raw + ai_intelligent_processing",
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "title": "State of the Economy",
+      "sections": 43,
+      "summary": 5,
+      "file": "C:\\Users\\anirudhyadav\\economic-survey-mcp-server\\output\\chapter_01_state_of_the_economy.json"
+    },
+    {
+      "chapter_id": 2,
+      "title": "Fiscal Policy",
+      "sections": 49,
+      "summary": 9,
+      "file": "C:\\Users\\anirudhyadav\\economic-survey-mcp-server\\output\\chapter_02_fiscal_policy.json"
+    },
+    {
+      "chapter_id": 3,
+      "title": "Monetary & Financial Sector",
+      "sections": 119,
+      "summary": 12,
+      "file": "C:\\Users\\anirudhyadav\\economic-survey-mcp-server\\output\\chapter_03_monetary_and_financial_sector.json"
+    },
+    {
+      "chapter_id": 4,
+      "title": "External Sector",
+      "sections": 94,
+      "summary": 5,
+      "file": "C:\\Users\\anirudhyadav\\economic-survey-mcp-server\\output\\chapter_04_external_sector.json"
+    },
+    {
+      "chapter_id": 5,
+      "title": "Prices & Inflation",
+      "sections": 35,
+      "summary": 5,
+      "file": "C:\\Users\\anirudhyadav\\economic-survey-mcp-server\\output\\chapter_05_prices_and_inflation.json"
+    },
+    {
+      "chapter_id": 6,
+      "title": "Agriculture",
+      "sections": 61,
+      "summary": 7,
+      "file": "C:\\Users\\anirudhyadav\\economic-survey-mcp-server\\output\\chapter_06_agriculture.json"
+    },
+    {
+      "chapter_id": 7,
+      "title": "Services Sector",
+      "sections": 56,
+      "summary": 3,
+      "file": "C:\\Users\\anirudhyadav\\economic-survey-mcp-server\\output\\chapter_07_services_sector.json"
+    },
+    {
+      "chapter_id": 8,
+      "title": "Manufacturing",
+      "sections": 63,
+      "summary": 11,
+      "file": "C:\\Users\\anirudhyadav\\economic-survey-mcp-server\\output\\chapter_08_manufacturing.json"
+    },
+    {
+      "chapter_id": 9,
+      "title": "Infrastructure",
+      "sections": 43,
+      "summary": 1,
+      "file": "C:\\Users\\anirudhyadav\\economic-survey-mcp-server\\output\\chapter_09_infrastructure.json"
+    },
+    {
+      "chapter_id": 10,
+      "title": "Climate & Environment",
+      "sections": 98,
+      "summary": 6,
+      "file": "C:\\Users\\anirudhyadav\\economic-survey-mcp-server\\output\\chapter_10_climate_and_environment.json"
+    },
+    {
+      "chapter_id": 11,
+      "title": "Human Development",
+      "sections": 68,
+      "summary": 3,
+      "file": "C:\\Users\\anirudhyadav\\economic-survey-mcp-server\\output\\chapter_11_human_development.json"
+    },
+    {
+      "chapter_id": 12,
+      "title": "Employment & Skills",
+      "sections": 68,
+      "summary": 11,
+      "file": "C:\\Users\\anirudhyadav\\economic-survey-mcp-server\\output\\chapter_12_employment_and_skills.json"
+    },
+    {
+      "chapter_id": 13,
+      "title": "Social Inclusion",
+      "sections": 93,
+      "summary": 5,
+      "file": "C:\\Users\\anirudhyadav\\economic-survey-mcp-server\\output\\chapter_13_social_inclusion.json"
+    },
+    {
+      "chapter_id": 14,
+      "title": "Artificial Intelligence",
+      "sections": 92,
+      "summary": 8,
+      "file": "C:\\Users\\anirudhyadav\\economic-survey-mcp-server\\output\\chapter_14_artificial_intelligence.json"
+    },
+    {
+      "chapter_id": 15,
+      "title": "Urban Development",
+      "sections": 69,
+      "summary": 5,
+      "file": "C:\\Users\\anirudhyadav\\economic-survey-mcp-server\\output\\chapter_15_urban_development.json"
+    },
+    {
+      "chapter_id": 16,
+      "title": "Strategic Autonomy",
+      "sections": 59,
+      "summary": 1,
+      "file": "C:\\Users\\anirudhyadav\\economic-survey-mcp-server\\output\\chapter_16_strategic_autonomy.json"
+    },
+    {
+      "chapter_id": 17,
+      "title": "State Capacity",
+      "sections": 0,
+      "summary": 187,
+      "file": "C:\\Users\\anirudhyadav\\economic-survey-mcp-server\\output\\chapter_17_state_capacity.json"
+    }
+  ],
+  "statistics": {
+    "total_sections": 1110,
+    "total_summary_paragraphs": 284,
+    "avg_sections_per_chapter": 65.3
+  }
+}

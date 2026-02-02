@@ -1,0 +1,1328 @@
+{
+  "chapter_number": 7,
+  "chapter_title": "Services Sector: From Stability to New Frontiers",
+  "summary": [
+    "This page has been left blank",
+    "This chapter offers a comprehensive analysis of India's evolving services sector, which has become the principal engine of economic growth, resilience, and structural transformation. Against a backdrop of global uncertainty and subdued global industrial activity, the services sector has emerged as a stabilising force, contributing more than half of India’s Gross Value Added and serving as a major driver of exports and employment. The chapter situates India’s performance within global trends, highlighting the sector’s rapid expansion in digitally delivered, knowledge-intensive, and experience-led segments, as well as its comparative strength in trade and foreign direct investment.",
+    "Through a detailed examination of recent developments and high-frequency indicators, the chapter demonstrates how services have underpinned economic momentum, buffered external shocks, and supported urban employment dynamics. Sub-sector analyses-spanning tourism, IT and IT-enabled services, transport, telecommunications, real estate, media and entertainment, and space services-reveal both the diversity and the emerging opportunities within the sector. The discussion brings out critical reform measures, including developing new niche areas like the Orange economy, new hiking trails, marina development and Ocean commercialisation so that India’s services sector remains a powerful engine of sustained and inclusive economic growth in the years ahead."
+  ],
+  "sections": [
+    {
+      "section_id": "7.1",
+      "title": "The global economy is undergoing a structural shift marked by the ascendance",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "of the services sector as the principal engine of growth, resilience, and cross-border integration. In recent years, global output expansion has moderated, constrained by subdued industrial activity, supply-chain realignments, and heightened geopolitical uncertainty. Amid these headwinds, the services sector has emerged as a stabilising force, contributing more to the growth. Notably, while global goods trade has stagnated, services trade has continued to expand, reinforcing its role as a critical buffer against external shocks and volatility.1"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 UN Conference on Trade and Development (UNCTAD). (2025). Global Trade Update - December 2025. https:// unctad.org/system/files/official-document/ditcinf2025d10_en.pdf"
+        }
+      ]
+    },
+    {
+      "section_id": "7.2",
+      "title": "The rapid expansion of digitally and remotely deliverable services has allowed the",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "services sector to scale swiftly by transcending traditional geographical and operational constraints. This has enabled new forms of value creation, particularly in knowledge- intensive and technology-enabled activities, helping even smaller economies leave a global imprint. In contrast to the typical manufacturing-led growth paths followed by other countries at a comparable stage of development, India has experienced service- led growth at a significantly lower level of per capita income."
+        }
+      ]
+    },
+    {
+      "section_id": "7.3",
+      "title": "Currently, India’s services sector contributes more than half of the Gross Value",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Added and serves as a major driver of exports and employment in the country. Not only does it continue to underpin domestic growth, but services have also emerged as the most stable and resilient component of GDP, acting as a high-growth, low-volatility anchor, as is the case across the globe. The sector has recorded average annual growth of around 7-8 per cent year after year, in sharp contrast to the more pronounced cyclical fluctuations observed in agriculture and industry.2 India is the world’s seventh-largest exporter of services, with its share in global services trade more than doubling from"
+        },
+        {
+          "type": "paragraph",
+          "text": "2 per cent in 2005 to 4.3 per cent in 20243, and the sector continues to be the largest recipient of foreign direct investment inflows."
+        }
+      ]
+    },
+    {
+      "section_id": "7.4",
+      "title": "Even as services continue to anchor growth, the rapid technological progress which",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "helped services ascend scales is now outpacing the growth in firm-level and worker- level adaptation, creating skill gaps and disruptions. Coupled with tighter immigration, data protection/localisation norms and remittance rules, the promise of being the"
+        },
+        {
+          "type": "paragraph",
+          "text": "‘stabilising force’ is now under challenge."
+        }
+      ]
+    },
+    {
+      "section_id": "7.5",
+      "title": "Building on this context, the chapter first reviews global trends in the services",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "sector, placing India’s performance in an international context. It then assesses recent developments in India’s services sector during the current year, followed by an analysis of performance across major sub-sectors, highlighting key strengths and emerging opportunities. The chapter concludes with a discussion of the main challenges and policy priorities for sustaining services-led growth."
+        },
+        {
+          "type": "heading",
+          "text": "GLOBAL SERVICES TRENDS AND INDIA’S EXPERIENCE"
+        },
+        {
+          "type": "paragraph",
+          "text": "Structural Rebalancing and Evolving Growth Dynamics"
+        }
+      ]
+    },
+    {
+      "section_id": "7.6",
+      "title": "The COVID-19 pandemic severely disrupted contact-intensive services, such",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "as tourism, hospitality, and transport, while accelerating the expansion of digitally"
+        },
+        {
+          "type": "paragraph",
+          "text": "2 The standard deviation of growth rate for services during FY 05-25 is 1.22 compared to 4.20 for manufacturing,"
+        },
+        {
+          "type": "paragraph",
+          "text": "3.07 for industry and 1.5 for overall GDP."
+        },
+        {
+          "type": "paragraph",
+          "text": "3 As per latest available data from WTO."
+        },
+        {
+          "type": "paragraph",
+          "text": "Services: From Stability to New Frontiers delivered services, including IT, finance, and professional services. This has thereby reshaped the structure and growth dynamics of the services sector. Since the latter is of high value, this compositional shift post-pandemic has raised the share of services in global gross value added, even as overall services growth has moderated relative to the pre-pandemic period (2015-19).4 India has followed this trajectory with greater momentum relative to most peers (Chart VII.1). For instance, as per World Bank data,"
+        },
+        {
+          "type": "paragraph",
+          "text": "India’s share of services in GDP rose by about 1.5 percentage points above its pre- pandemic average to reach 49.9 per cent in 2024, an increase larger than that observed globally and across major advanced economies."
+        }
+      ]
+    },
+    {
+      "section_id": "7.7",
+      "title": "As mentioned above, notwithstanding the rising share of services in GDP, services",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "growth in the post-pandemic period has faced headwinds from slower global growth, weaker expansion of trade and investment-linked services, and subdued productivity gains, particularly in labour-intensive segments. China has experienced the sharpest deceleration among major economies. India, by contrast, has remained relatively resilient, with services growth in 2024 staying close to its pre-pandemic levels"
+        },
+        {
+          "type": "paragraph",
+          "text": "(Chart VII.2)."
+        },
+        {
+          "type": "paragraph",
+          "text": "4 Throughout the chapter, FY16-FY20 is taken as pre-pandemic period (for global comparison the same period corresponds to calendar year 2015-19) and the post-pandemic period is assessed using FY23-FY25, with FY21 and FY22 excluded due to base effects arising from the COVID shock."
+        },
+        {
+          "type": "paragraph",
+          "text": "Shifts in trade and capital flows in the services sector"
+        }
+      ]
+    },
+    {
+      "section_id": "7.8",
+      "title": "These structural shifts are increasingly evident in global services trade patterns. In",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "2024, the share of services trade in GDP rose relative to pre-pandemic levels, signalling a gradual, though uneven, rebalancing of global trade towards services. Underscoring its comparative strength in digitally deliverable and globally tradable services, India recorded a relatively stronger expansion in services trade as a share of GDP compared to its pre-pandemic average (Chart VII.3), while several advanced economies saw only marginal gains or slight declines."
+        },
+        {
+          "type": "paragraph",
+          "text": "Services trade is measured as the sum of services exports and services imports."
+        },
+        {
+          "type": "paragraph",
+          "text": "Services: From Stability to New Frontiers"
+        }
+      ]
+    },
+    {
+      "section_id": "7.9",
+      "title": "This growing role of services in global trade has been mirrored by a corresponding",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "shift in capital allocation. Services accounted for an average 53.5 per cent of global"
+        },
+        {
+          "type": "paragraph",
+          "text": "FDI5 during 2022-2024, up from 50.9 per cent in the pre-pandemic period, with inflows becoming increasingly concentrated. Energy and gas supply, information and communication, construction, and transportation together absorbed over 88 per cent of services FDI, compared to 75.5 per cent before the pandemic (Chart VII.4). Further, it is observed that global services FDI had a relatively balanced structure pre-COVID with allocation reasonably spread out across these sectors. However, post-COVID"
+        },
+        {
+          "type": "paragraph",
+          "text": "(2022-2024), FDI flows have been skewed towards a more energy-centric and strategic profile. This reflects a growing investor preference for services linked to energy security, digital connectivity, infrastructure, and supply chains."
+        }
+      ]
+    },
+    {
+      "section_id": "7.10",
+      "title": "India’s experience broadly mirrors these global trends. Services-sector FDI",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "inflows6 accounted for an average 80.2 per cent of total FDI during FY23-FY25, up from"
+        },
+        {
+          "type": "paragraph",
+          "text": "77.7 per cent in the pre-pandemic period (FY16-FY20), underscoring the growing role of services in attracting foreign investment. These inflows remain highly concentrated, led by information and communication services (25.8 per cent) and professional services (23.8 per cent), reflecting India’s strength in digital and knowledge-intensive activities. Finance and insurance (14.2 per cent), energy and gas (12.8 per cent), and trading (12.2 per cent) also drew significant investment. Together, these segments"
+        },
+        {
+          "type": "paragraph",
+          "text": "5 FDI estimates are based on announced greenfield investment projects, sourced from UNCTAD, and exclude cross-border mergers and acquisitions."
+        },
+        {
+          "type": "paragraph",
+          "text": "6 Services FDI is computed using the UNCTAD sectoral classification, which adopts a broader definition of services compared to the classification used by the DPIIT for reporting FDI equity inflows."
+        },
+        {
+          "type": "paragraph",
+          "text": "accounted for nearly 89 per cent of services FDI, highlighting the dominance of digital, skill-intensive, and infrastructure-linked services in India’s investment profile."
+        },
+        {
+          "type": "heading",
+          "text": "RECENT TRENDS IN INDIA’S SERVICE SECTOR"
+        },
+        {
+          "type": "heading",
+          "text": "PERFORMANCE"
+        },
+        {
+          "type": "paragraph",
+          "text": "Services sector underpins economic growth in H1 FY26"
+        }
+      ]
+    },
+    {
+      "section_id": "7.11",
+      "title": "The discussion so far highlights that, in recent years, India’s services sector",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "has performed relatively strongly in comparison to global developments. The current year, however, has been marked by heightened uncertainty and shifts in geopolitical alignments across countries. Despite these conditions, the services sector in India gained momentum in H1 FY26, with its share in GDP rising to 53.6 per cent, higher than that in H1 FY25 and the pre-pandemic period (H1 FY16-H1 FY20) (Chart VII.5)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Underlying this acceleration is the growth in services GVA by 9.3 per cent in H1 FY26, up from 7.0 per cent in the corresponding period of FY25."
+        },
+        {
+          "type": "paragraph",
+          "text": "Trade, Hotels, Transport, Comm & Services related to Broadcasting Services Sector"
+        }
+      ]
+    },
+    {
+      "section_id": "7.12",
+      "title": "Sub-sector data reveal that the ‘financial, real estate, and professional services’",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "sector remains the key driver of service growth. The growth was supported by sustained demand for credit, business services, and real estate-linked activities, with both growth and GVA share exceeding pre-pandemic levels. ‘Public administration, defence and other services’ have also continued to expand at a pace above pre-pandemic trends, underpinned by steady public spending and service delivery. In contrast, ‘trade, hospitality, transport, communication and related services’ have seen a more gradual normalisation, with growth broadly close to pre-pandemic averages. However, its overall contribution is yet to fully recover, reflecting ongoing adjustments in contact- intensive and mobility-dependent activities."
+        },
+        {
+          "type": "paragraph",
+          "text": "Services: From Stability to New Frontiers Growth rates are calculated using the constant price series; pre-COVID average growth refers to growth during"
+        },
+        {
+          "type": "paragraph",
+          "text": "H1:FY16 to H1:FY20"
+        }
+      ]
+    },
+    {
+      "section_id": "7.13",
+      "title": "While H1 FY26 performance highlights the near-term resilience of services, Box",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "VII.1 situates these developments within a longer-term structural transformation of the sector, drawing on recent evidence from NITI Aayog."
+        },
+        {
+          "type": "paragraph",
+          "text": "NITI Aayog. (2025, October). India’s services sector: Insights from employment trends and state-level dynamics."
+        },
+        {
+          "type": "paragraph",
+          "text": "Government of India. (https://tinyurl.com/56kdzxkp) generated in low-value-added subsectors like trade, hospitality, transport and personal services. Globally, as per ILO data, the share of workers employed in services rose from 35.5 per cent in 1992 to 49.8 per cent in 2022 (14.3 percentage points increase), with sharper increases in upper-middle-income countries (which saw 21.8 percentage point increase)."
+        },
+        {
+          "type": "paragraph",
+          "text": "India’s transition has been more gradual, with services employment rising from 22.1 per cent to 30.0 per cent over the same period (an 8.9 percentage point increase). However, with 51.5 per cent of service workers in regular wage employment, compared with 1 per cent in agriculture and 25.5 per cent in industry, the job quality in services remains superior."
+        },
+        {
+          "type": "paragraph",
+          "text": "Between 2011-12 and 2023-24, traditional segments such as trade and repair, and professional, scientific and business services, maintained GVA shares of around 20 per cent each. In contrast, computer and information services more than doubled their GVA share from 6.0 per cent to 12.2 per cent. Pension and insurance services declined from 1.7 per cent to 1.1 per cent, while other financial services remained stable at about 10 per cent. Education recorded a modest increase from 6.7 per cent to 7.4 per cent; health remained broadly stable at around 2.8 per cent; and sectors such as telecommunications, audiovisual services, postal and courier services, and travel saw marginal declines. Transport, cultural and recreational services experienced sharper reductions in their GVA shares."
+        },
+        {
+          "type": "paragraph",
+          "text": "This diversity is mirrored in state-level performances. Karnataka, Maharashtra, Tamil"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nadu and Telangana together account for nearly 40 per cent of services output, driven by modern, high-productivity services such as IT, finance and professional services, resulting in a concentration of output in highly urbanised states, particularly in southern India.8 At the same time, important contrasts persist. Bihar, despite low per capita income, derives"
+        },
+        {
+          "type": "paragraph",
+          "text": "58.7 per cent of its GVA from services, largely from low-value-added activities. Kerala, with"
+        },
+        {
+          "type": "paragraph",
+          "text": "64.3 per cent of GSVA from services, remains reliant on traditional segments such as trade, tourism and real estate. In some cases, the services share declined, challenging the notion of one-way transition towards services: Odisha’s services share declined from 38.5 per cent to"
+        },
+        {
+          "type": "paragraph",
+          "text": "34.9 per cent, while Assam’s fell from 46.5 per cent to 34.3 per cent over the period."
+        },
+        {
+          "type": "paragraph",
+          "text": "Services employment in India remains predominantly urban, with over 60 per cent of urban workers engaged in services, compared with less than 20 per cent in rural areas. Gender disparities persist, particularly in rural services employment, where only 10.5 per cent of women are engaged in services, compared with nearly 60 per cent in urban areas. At the same time, select sub-sectors show notable reversals in wage gaps. In information and communication services, urban women earn about ₹2,000 per day, compared with ₹729 for men. Similar patterns are observed in healthcare (₹542 for women versus ₹480 for men), and in rural education and public administration, where female wages exceed those of male counterparts."
+        },
+        {
+          "type": "paragraph",
+          "text": "Services sector remains central to urban employment dynamics"
+        }
+      ]
+    },
+    {
+      "section_id": "7.14",
+      "title": "PLFS data for the first two quarters of FY26 show that the share of services in",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "urban employment rose to 61.9 per cent (on average), marginally higher than the FY21-8 Delhi has a higher service share in GVA, however, arising from greater presence of public administration, being the capital city-state."
+        },
+        {
+          "type": "paragraph",
+          "text": "Services: From Stability to New Frontiers FY22 average of 61.7 per cent, a period marked by relatively strong services-sector hiring during the pandemic (Chart VII.7a). Consistent with this, EPFO data for April-July FY26 indicate sustained formal job creation, with services accounting for 51.7 per cent of net employment additions (Chart VII.7b), led by expert services, trading and commercial establishments, and cleaning services. Together, these trends underscore the central role of services in strengthening labour market resilience amid global uncertainty."
+        },
+        {
+          "type": "paragraph",
+          "text": "High-frequency indicators signal steady growth in H2 of FY26"
+        }
+      ]
+    },
+    {
+      "section_id": "7.15",
+      "title": "High-frequency indicators suggest a continued strengthening of service activity",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "in Q3 FY26. The PMI Services Index remained firmly in the expansionary territory"
+        },
+        {
+          "type": "paragraph",
+          "text": "(marked by a reading above 50), averaging 58.9 during Q3 of FY26. This was driven by robust domestic demand, as reflected in the new business intakes that remained well above their long-run average of 53.3 (Chart VII.8). International sales also continued to expand to 53.5, above the long-period average of 48.5, although the pace of growth moderated to a four-quarter low, amid heightened global competition and protectionism."
+        },
+        {
+          "type": "paragraph",
+          "text": "cent year-on-year in October-November 2025. This acceleration was largely driven by a rebound in lending to Non-Banking Financial Companies (NBFCs), supported by rising demand from the retail and MSME segments, aided by the rationalisation of"
+        },
+        {
+          "type": "paragraph",
+          "text": "GST rates. Credit flows to other service segments, such as tourism, hotels, restaurants, and trade, have also gained momentum. Credit growth and GVA growth in services are fairly positively correlated. Overall, these trends indicate that financing conditions have remained responsive to evolving demand conditions in the services sector."
+        },
+        {
+          "type": "paragraph",
+          "text": "Services exports as a buffer amid global uncertainty"
+        }
+      ]
+    },
+    {
+      "section_id": "7.17",
+      "title": "Mirroring global trends, services exports have become a central pillar of India’s",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "external sector and a key driver of growth. Their share in GDP averaged 9.7 per cent during FY23-FY25,9 up from 7.4 per cent in the pre-pandemic period (Chart VII.10a)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Amid subdued global goods trade due to policy uncertainty and geopolitical disruptions, services exports have provided a critical buffer. This role has strengthened further in"
+        },
+        {
+          "type": "paragraph",
+          "text": "H1 FY26, with the share of services exports in GDP rising to 10.0 per cent, from 9.7 per cent in H1 FY25."
+        }
+      ]
+    },
+    {
+      "section_id": "7.18",
+      "title": "The growing role of India’s services exports is reflected in the marked acceleration",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "in its growth over recent years. Average growth in services exports has more than doubled from 7.6 per cent in the pre-pandemic period (FY16-FY20) to 14.0 per cent during FY23-FY25, reflecting strong and broad-based global demand for Indian services. Amid increasingly competitive conditions in global services markets and heightened policy uncertainty, services export growth moderated to 8.0 per cent during"
+        },
+        {
+          "type": "paragraph",
+          "text": "FY26 (April-November). Notwithstanding this moderation, growth has remained above pre-pandemic levels, indicating that the underlying momentum in services exports has been maintained."
+        }
+      ]
+    },
+    {
+      "section_id": "7.19",
+      "title": "The composition of services exports further reinforces this assessment (Chart",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "VII.10b). Software services, accounting for over 40 per cent of total services exports, remain the primary growth driver, expanding at an average rate of 13.5 per cent during FY23-FY25 compared to 4.7 per cent in FY16-FY20, supported by strong global"
+        },
+        {
+          "type": "paragraph",
+          "text": "9 As mentioned in footnote 4 demand for digital services. Professional and management consulting services have emerged as the second-largest contributor, driven by a more than doubled growth rate of 25.9 per cent, resulting in an increase in their share from 10.5 per cent in FY16-FY20 to 18.3 per cent in FY23-FY25. Together, these segments account for over 65 per cent of services exports, highlighting India’s growing specialisation in cross-border, knowledge-intensive activities. Sustaining services export growth will depend on continued diversification within services and further movement up the value chain, in line with evolving global demand patterns and regulatory environments. In this context, Box VII.2 examines the role of artificial intelligence in shaping India’s services export performance, highlighting the differential impact of AI adoption across services segments and its implications for India’s growing specialisation in digitally deliverable, knowledge-intensive exports."
+        },
+        {
+          "type": "paragraph",
+          "text": "exposed services after the AI diffusion phase. The estimated coefficient implies, on average, an approximate 39.5 per cent increase in exports of the AI-exposed (treated) categories relative to the other (control) categories."
+        },
+        {
+          "type": "paragraph",
+          "text": "10 World Trade Organisation. (2025). World Trade Report 2025: Making Trade and AI Work Together to Benefit"
+        },
+        {
+          "type": "paragraph",
+          "text": "All. Geneva: WTO, https://tinyurl.com/mwz3nfwc 11 The regressions were estimated in logarithmic form, allowing coefficients to be interpreted as approximate percentage changes while mitigating scale differences across service categories. Formal tests find no evidence of differential pre-intervention trends between the treatment and control groups, supporting the validity of the"
+        },
+        {
+          "type": "paragraph",
+          "text": "DiD framework."
+        },
+        {
+          "type": "paragraph",
+          "text": "Services: From Stability to New Frontiers Table A: Overall Impact of AI Adoption on Services Exports"
+        },
+        {
+          "type": "paragraph",
+          "text": "Variable Estimate Significance Implied Export Increase Post Treatment 0.333* ~39.5%"
+        },
+        {
+          "type": "paragraph",
+          "text": "The sub-category-wise results show that export gains are higher in software and business services, while the effect for financial services, although positive, is not statistically significant during the period under consideration."
+        },
+        {
+          "type": "paragraph",
+          "text": "Table B: Category-specific Effects of AI Adoption on Services Exports Services Category"
+        },
+        {
+          "type": "paragraph",
+          "text": "Post × Treatment Coefficient Significance Implied Export Increase Software services"
+        },
+        {
+          "type": "paragraph",
+          "text": "0.37* ~44% Business services 0.51* ~67% Financial services 0.12 Insignificant Trade agreements for promoting services"
+        }
+      ]
+    },
+    {
+      "section_id": "7.20",
+      "title": "As India’s services exports expand and move up the value chain, trade policy has",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "become central to facilitating cross-border delivery and reducing regulatory frictions."
+        },
+        {
+          "type": "paragraph",
+          "text": "India has increasingly leveraged free trade agreements, comprehensive economic partnerships, and bilateral engagements to enhance market access and competitiveness, with a focus on professional mobility, regulatory cooperation, and digital trade. Amid the realignment of global trade relationships, ongoing and completed agreements aim to further ease barriers and support services exports. An overview of these initiatives is presented in Box VII.3 below."
+        },
+        {
+          "type": "paragraph",
+          "text": "Strong commitments on digitally delivered services (Mode 1) cover IT, professional consultancy, education and training, and telecom, while Mode 3 commitments (commercial presence) open investment opportunities for Indian firms in areas such as management consultancy, education, and environmental services."
+        },
+        {
+          "type": "paragraph",
+          "text": "CETA is expected to benefit major services segments by enabling deeper collaboration in digital, AI, fintech, and cloud services; supporting innovation-focused partnerships benefiting both large and niche companies; repositioning"
+        },
+        {
+          "type": "paragraph",
+          "text": "India from a low-cost back-office destination to a strategic R&D and technology partner; and expanding opportunities in healthcare and education through institutional collaboration and MRAs."
+        },
+        {
+          "type": "paragraph",
+          "text": "India-Oman CEPA (Concluded Dec 2025)13 Oman has offered commitments in 127 services sub- sectors, covering computer-related services, business and professional services, audio-visual services, R&D, education, and health services, thus unlocking new opportunities and promoting high-value job creation."
+        },
+        {
+          "type": "paragraph",
+          "text": "Enhanced Mode 4 commitments for the mobility of Indian professionals include:"
+        },
+        {
+          "type": "paragraph",
+          "text": "\u0007Higher quota for intra-corporate transferees (raised from 20 per cent to 50 per cent)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Longer permitted stays for contractual service suppliers \u0007More liberal entry and stay conditions for skilled professionals in key sectors such as accountancy, taxation, architecture, medical and allied services."
+        },
+        {
+          "type": "paragraph",
+          "text": "The CEPA further provides for 100 per cent FDI by Indian companies in major services sectors in Oman through commercial presence."
+        },
+        {
+          "type": "paragraph",
+          "text": "India-European Free Trade Association (EFTA) Trade and Economic Partnership Agreement (TEPA) (In force since Oct 2025)14"
+        },
+        {
+          "type": "paragraph",
+          "text": "TEPA will provide opportunities for services sector to access more markets, through digital delivery (Mode 1), commercial presence (Mode 3), and greater certainty for entry and temporary stay of key personnel (Mode 4)."
+        },
+        {
+          "type": "paragraph",
+          "text": "13 https://www.pib.gov.in/PressReleasePage.aspx?PRID=2205889 14 https://www.pib.gov.in/PressReleasePage.aspx?PRID=2173138"
+        },
+        {
+          "type": "paragraph",
+          "text": "Services: From Stability to New Frontiers The agreement will stimulate services exports in sectors such as IT and business services, cultural and recreational services, education, and audio-visual services"
+        },
+        {
+          "type": "paragraph",
+          "text": "MRAs under TEPA open new opportunities in professional services such as nursing, chartered accountancy, and architecture."
+        }
+      ]
+    },
+    {
+      "section_id": "7.21",
+      "title": "The contribution of services exports is well established in terms of output,",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "external balances and competitiveness. A complementary consideration is the nature of their wider institutional spillovers, particularly whether export dynamism creates economy-wide incentives for improvements in execution capacity. Box VII.4 examines this question, focusing on differences in the way goods and services connect to system- wide public infrastructure and regulatory capabilities."
+        },
+        {
+          "type": "paragraph",
+          "text": "BoxVII.4: Can the export of services help improve state capacity?"
+        },
+        {
+          "type": "paragraph",
+          "text": "The claim that services exports cannot play the same disciplining role as goods exports is not a judgment about their economic value or sophistication. It is a claim about how different forms of production interact with institutions, incentives, and state capacity. The distinction is structural, not sectoral."
+        },
+        {
+          "type": "paragraph",
+          "text": "The disciplining effect that matters is whether success and failure in a sector transmit pressure back into the wider system, forcing firms to abandon influence-seeking strategies and compelling the state to upgrade its execution capacity because incompetence becomes fiscally, politically, and macroeconomically costly. Historically, services exports have not transmitted that pressure."
+        },
+        {
+          "type": "paragraph",
+          "text": "The first reason is that services exports are inherently firm-selective rather than system- forcing. A globally competitive services firm can operate at high efficiency while largely bypassing the domestic institutional environment. Software, design, consulting, finance, and digital services rely primarily on human capital, bandwidth, legal contracting, and reputation. They do not require ports to function efficiently, customs to clear on time, industrial land to be assembled at scale, or municipal services to work reliably. As a result, services firms can succeed inside what is otherwise a weak or fragmented state."
+        },
+        {
+          "type": "paragraph",
+          "text": "Because these firms do not depend on the weakest parts of the state, they have little incentive to force improvement in those areas. They adapt around institutional failure instead of confronting it. The state, in turn, faces no compulsion to upgrade because its failures do not immediately threaten export earnings, large-scale employment, or fiscal stability."
+        },
+        {
+          "type": "paragraph",
+          "text": "The second reason is that services exports allow exit without voice. That is, when goods exporters face domestic bottlenecks—such as ports, power, logistics, and inspection regimes—they must address them or fail. Their capital is sunk, their supply chains are rooted, and exit is costly and visible. Services firms, by contrast, can relocate teams, invoice through offshore entities, arbitrage jurisdictions, or simply shift work across borders with relatively low friction. When institutions become burdensome, the most productive firms leave quietly. That behaviour is rational at the firm level but is unhelpful at the system level, because it removes precisely the actors who might otherwise pressure the state to improve."
+        },
+        {
+          "type": "paragraph",
+          "text": "The third reason is that services exports do not impose hard budget constraints on the state."
+        },
+        {
+          "type": "paragraph",
+          "text": "Goods exports typically anchor large employment bases, supplier ecosystems, logistics networks, and regional economies. When they falter, the effects show up quickly in trade balances, employment numbers, bank balance sheets, and political pressure. On the other hand, services exports, even when large in foreign exchange terms, are far less employment- intensive per dollar earned, geographically concentrated, and weakly linked to domestic supply chains. A slowdown hurts incomes in specific urban clusters but does not affect macroeconomic stability in the same way."
+        },
+        {
+          "type": "paragraph",
+          "text": "The fourth and deeper reason is that services competition is skill-based rather than system- based. In services, competitiveness is driven primarily by individual talent, firm culture, client relationships, and reputational capital. System quality matters at the margin, but it is not decisive. In goods manufacturing, competitiveness is inseparable from system performance, encompassing factors such as delivery times, cost discipline, standards compliance, logistics reliability, and infrastructure uptime. System failure translates directly and immediately into lost orders."
+        },
+        {
+          "type": "paragraph",
+          "text": "The empirical record supports this distinction. India is the strongest real-world test. India has built globally competitive service exports over three decades, yet its broader institutional environment, encompassing urban governance, courts, regulatory discretion, land and labour administration, remains weak and uneven."
+        },
+        {
+          "type": "paragraph",
+          "text": "There is also a more uncomfortable implication. Services exports can actively delay reform."
+        },
+        {
+          "type": "paragraph",
+          "text": "By generating foreign exchange, increasing elite incomes, and creating pockets of prosperity, they alleviate balance-of-payments pressure and reduce the urgency for politically difficult changes. They act as a pressure valve, allowing the system to muddle through rather than confront its structural weaknesses. In theory, one could imagine a services-led disciplining path if services exports were mass-employment-intensive, geographically dispersed, heavily regulation-dependent, and if their failure created immediate macroeconomic consequences."
+        },
+        {
+          "type": "paragraph",
+          "text": "In practice, no large economy has met these conditions. Digital services, by their nature, resist them."
+        },
+        {
+          "type": "paragraph",
+          "text": "The conclusion, stated precisely, is not that services exports are inferior or undesirable."
+        },
+        {
+          "type": "paragraph",
+          "text": "They are extremely valuable for growth, foreign exchange, and firm-level excellence. The conclusion is narrower: services exports are structurally incapable of forcing system-wide state upgrading."
+        },
+        {
+          "type": "paragraph",
+          "text": "Servicification of manufacturing"
+        }
+      ]
+    },
+    {
+      "section_id": "7.22",
+      "title": "Beyond direct cross-border delivery, services are increasingly integrated into",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "manufacturing through activities such as design, R&D, logistics, software development, and professional services, reflecting the growing “servicification” of production systems. This is evident in products such as smart devices, whose value is driven by"
+        },
+        {
+          "type": "paragraph",
+          "text": "Services: From Stability to New Frontiers software ecosystems; medical equipment/wearables bundled with diagnostic and remote-monitoring services; and automobiles, which are increasingly described as"
+        },
+        {
+          "type": "paragraph",
+          "text": "“software on wheels”. As manufacturing becomes increasingly technology and data- intensive, services such as ICT, finance, compliance, and after-sales support account for a growing share of value creation. International experience suggests that this integration is a crucial channel for enhancing value addition, export competitiveness, and employment. (see Box VII.5)."
+        },
+        {
+          "type": "paragraph",
+          "text": "added in gross exports” dataset. Services shares are derived as the ratio of services value added embodied in manufacturing exports to total value added in manufacturing exports."
+        },
+        {
+          "type": "paragraph",
+          "text": "16 Ibid 17 S. Miroudot and C. Cadestin (2017). Services in Global Value Chains: From Inputs to Value-Creating Activities,"
+        },
+        {
+          "type": "paragraph",
+          "text": "OECD Trade Policy Papers, No.197, OECD Publishing, Paris. (https://tinyurl.com/vwcxfka2)"
+        },
+        {
+          "type": "paragraph",
+          "text": "18 For instance, logistics, trade finance, legal services, marketing, and distribution services reduce fixed and variable costs of exporting (customs clearance, transport, payments, contracts), making export participation viable for more firms and supporting higher export intensity. Design, engineering, testing, certification, branding, and"
+        },
+        {
+          "type": "paragraph",
+          "text": "R&D services help firms move up the value chain by improving product quality, compliance with standards, and customization-key for entering and sustaining export markets. IT, data analytics, and risk-management services enhance demand forecasting, inventory control, and supplier diversification, helping firms absorb shocks and maintain export relationships-supporting export stability."
+        },
+        {
+          "type": "paragraph",
+          "text": "19 Reddy, K., Sasidharan, S., & Thangavelu, S. (2023). Does servicification of manufacturing increase the GVC activities of firms? Case of India. The World Economy, 46(1), 153-181. (https://doi.org/10.1111/twec.13318)"
+        },
+        {
+          "type": "paragraph",
+          "text": "20 Shingal, A. (2025). Servicification of Manufacturing: India’s Potential and Policy Priorities, Working Paper,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Centre for Social and Economic Progress (CSEP), New Delhi, July 30, 2025. (https://tinyurl.com/ysjnr5xh)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Policy-relevant considerations Both global and Indian evidence underscore that the benefits of servicification depend on the efficiency of the services ecosystem. Improvements in logistics, transport, ICT, warehousing, and business services, along with reduced frictions in services trade, can enhance manufacturing competitiveness, export sophistication, and employment."
+        },
+        {
+          "type": "paragraph",
+          "text": "Servicification thus highlights the complementarity between manufacturing and services, rather than the trade-offs, and offers India a pathway to raise manufacturing value addition while supporting jobs within a services-enabled growth framework."
+        },
+        {
+          "type": "heading",
+          "text": "SUB-SECTORAL PERFORMANCE AND DRIVERS"
+        }
+      ]
+    },
+    {
+      "section_id": "7.23",
+      "title": "While recent trends highlight the increasing role of services in driving growth and",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "exports, variations in demand drivers, exposure to global conditions, and the adoption of technology influence sub-sectoral performance. An examination of key services sub-sectors, therefore, provides deeper insight into the sources of growth, resilience, and emerging structural shifts within the services economy."
+        },
+        {
+          "type": "paragraph",
+          "text": "a. \u0007Tourism Sector: Domestic resilience with emerging high-value segments"
+        }
+      ]
+    },
+    {
+      "section_id": "7.24",
+      "title": "Domestic tourism remained the backbone of the sector, with visits increasing by",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "about 17.5 per cent in 2024 over the previous year (Chart VII.11a) and by nearly 52.7 per cent during January-September 2025 compared with the corresponding period last year. International Tourist Arrivals (ITAs), including foreign tourist arrivals (FTAs) and arrivals of non-resident Indians (NRIs), rose to 20.57 million, marking an increase of 8.9 per cent over 2023 and 14.8 per cent above pre-pandemic levels (2019) (Chart VII.11b)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Foreign tourist arrivals, however, remained below pre-pandemic levels, declining by about 11.8 per cent during January-October 2025 relative to the same period of the previous year (Chart VII.11b). This is in line with trends seen in the broader Asia-Pacific region21 and is also on account of growth weakness and political turmoil in key source destinations. High-frequency hospitality indicators suggest sustained momentum, driven by domestic tourism, with hotel occupancy rates consistently exceeding 60 per cent in recent years (Chart VII.11c)."
+        },
+        {
+          "type": "paragraph",
+          "text": "21 UN World Tourism Organization. (2025, January). World tourism barometer (Vol. 23, Issue 1). UNWTO. https:// en.unwto-ap.org/news/worldtourismbarometer_jan2025/"
+        },
+        {
+          "type": "paragraph",
+          "text": "Services: From Stability to New Frontiers"
+        }
+      ]
+    },
+    {
+      "section_id": "7.25",
+      "title": "As per the estimates of the Ministry of Tourism, in FY24, travel and tourism",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "contributed 5.22 per cent to GDP, close to pre-pandemic levels, while supporting an estimated 8.46 crore direct and indirect jobs22, or about 13.3 per cent of total employment in the overall economy. Consistent with this growth, foreign exchange earnings from tourism rose to USD 35.0 billion in 2024, up 8.8 per cent from 2023.23 This reflects the labour-intensive nature of this sector and its strong linkages with transport, hospitality, trade, and allied services."
+        }
+      ]
+    },
+    {
+      "section_id": "7.26",
+      "title": "Supported by cost competitiveness, skilled medical professionals, and",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "established healthcare infrastructure, medical and wellness tourism has emerged as a key comparative advantage for India, offering high-value and non-seasonal tourism."
+        },
+        {
+          "type": "paragraph",
+          "text": "Medical tourist arrivals increased from about 1.12 lakh in 200924 to over 6 lakh during"
+        },
+        {
+          "type": "paragraph",
+          "text": "2022-2024, implying a CAGR of around 12.4 per cent, significantly above the overall inbound tourism growth of 4.5 per cent for the corresponding period. Consequently, medical tourism’s share in foreign tourist arrivals rose from about 2.2 per cent in 2009 to around 6.5 per cent in 2024.25 Despite accounting for a modest share of total arrivals, medical tourists generate higher per-visitor spending and longer stays. Industry estimates place the medical tourism market at about USD 8.7 billion in 2025, with projections of USD 16.2 billion by 2030.26"
+        },
+        {
+          "type": "paragraph",
+          "text": "22 Inputs received from Ministry of Tourism 23 Ministry of Tourism. https://tinyurl.com/3awa6t63"
+        },
+        {
+          "type": "paragraph",
+          "text": "24 Data on medical tourism is available from 2009 onwards 25 Ministry of Tourism"
+        },
+        {
+          "type": "paragraph",
+          "text": "26 India Medical Tourism Market Size Report (2025), Mordor Intelligence. (https://tinyurl.com/5xb7mz5w)"
+        }
+      ]
+    },
+    {
+      "section_id": "7.27",
+      "title": "Realising tourism potential in different regions and converting it into sustained",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "economic outcomes, however, depends critically on implementation capacity at the State and local levels. Experiences across states underscore the importance of administrative capacity and coordination across districts. Gujarat’s infrastructure-led and event-based tourism initiatives illustrate the gains from coordinated planning and execution across departments,27 while Kerala’s state-led destination management and community participation supported an ecologically appropriate and responsible tourism model.28 Sikkim’s focus on sustainability and regulated visitor numbers illustrates how effective regulation and community involvement can preserve destination quality while supporting steady tourism growth.29 In high-footfall cities such as Varanasi, large-scale investments in urban infrastructure through schemes like the Kashi development programme highlight the role of strengthened municipal capacity in crowd management, sanitation, and last-mile connectivity. 30"
+        }
+      ]
+    },
+    {
+      "section_id": "7.28",
+      "title": "In recent years, the Central Government has strengthened the tourism",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "framework by prioritising experience-based and sustainable destination development."
+        },
+        {
+          "type": "paragraph",
+          "text": "Schemes such as Swadesh Darshan 2.0, the Challenge-Based Destination Development initiative, and continued investments under PRASHAD have shifted the focus towards thematic, visitor-centric tourism. These efforts have been complemented by initiatives such as 'Dekho Apna Desh' and 'Incredible India', as well as improved visa facilitation and expanded regional air connectivity under UDAN, which have boosted tourism demand, particularly for lesser-known Tier 2 and Tier 3 destinations."
+        }
+      ]
+    },
+    {
+      "section_id": "7.29",
+      "title": "Sustaining and broadening this growth will require strengthening state and",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "local capacity for event management, infrastructure upkeep, skills development, and the adoption of best practices. A tourist-centric approach-emphasising ease of travel, accommodation, local mobility, cleanliness, safety, and service quality-along with wider use of digital tools and private sector participation, will support higher-value segments."
+        },
+        {
+          "type": "paragraph",
+          "text": "For medical tourism to thrive, targeted measures such as direct flight connectivity to key source countries, including those in Africa, and priority-based visa facilitation are also critical. Indian airports can aspire to become global aviation hubs by promoting layovers and enhancing the transit experience for international passengers. Sustained global branding and promotion in source destinations will strengthen higher tourism demand."
+        }
+      ]
+    },
+    {
+      "section_id": "7.30",
+      "title": "India also has significant untapped potential in niche tourism segments. The",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "development of long-distance hiking trails, comparable to the Appalachian or Camino"
+        },
+        {
+          "type": "paragraph",
+          "text": "27 https://tinyurl.com/4a5aw5e5 28 https://ecotourism.forest.kerala.gov.in/ 29 https://www.nsws.gov.in/s3fs/2022-12/Sikkim%20Ecotourism%20Policy.pdf"
+        },
+        {
+          "type": "paragraph",
+          "text": "30 https://www.pib.gov.in/PressReleasePage.aspx?PRID=2122058 Services: From Stability to New Frontiers trails, can leverage India’s ecological diversity, cultural heritage, and existing pilgrimage, forest and river corridors. This can support sustainable livelihoods in remote regions through community-managed, eco-friendly infrastructure, such as micro-lodges or homestays, campsites with standalone green energy sources, clean sanitation facilities,"
+        },
+        {
+          "type": "paragraph",
+          "text": "GPS-enabled navigation systems, and rescue & evacuation facilities necessary in such remote locations."
+        }
+      ]
+    },
+    {
+      "section_id": "7.31",
+      "title": "Similarly, India’s vast coastline offers scope to unlock the blue economy through",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "modern marina infrastructure. Marinas, the purpose-built harbours for recreational boats and yachts with moorings, fuel, maintenance, hospitality and water-based tourism facilities, are virtually absent in India. This constrains the growth of pleasure yachting and small-vessel building, limiting a critical first step towards the broader, mass-scale development of shipping infrastructure, a key policy focus of government."
+        },
+        {
+          "type": "paragraph",
+          "text": "A national marina development policy that enables private players to run marinas under a transparent permit regime could support sailing, diving, and leisure cruising."
+        },
+        {
+          "type": "paragraph",
+          "text": "This would help attract high-value tourism and international regatta events such as the Swan Cup National Regatta. Being employment-intensive, it could generate more employment in coastal regions, along with additional income for fishermen. This could also revive uneconomical ports and promote sustainable coastal development."
+        },
+        {
+          "type": "paragraph",
+          "text": "b. \u0007Information Technology and IT-Enabled Services: Adjusting to a New Global Cycle"
+        }
+      ]
+    },
+    {
+      "section_id": "7.32",
+      "title": "In FY25, the IT and IT-enabled services (IT-ITeS) sector reinforced India’s",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "position as a global technology and innovation hub, supported by continued revenue growth, a rising role of Global Capability Centres (GCCs), and deeper engagement in higher-value, complex technology activities. Nasscom estimates IT&ITeS industry revenues at USD 283 billion in FY25, (including hardware) implying a year-on-year growth of 5.1 per cent as against 3.9 per cent in FY24, underscoring resilience amid currency depreciation and subdued global tech spending. IT services exports, a key stabiliser of the external sector, are estimated to grow by 3.7 per cent in FY25."
+        }
+      ]
+    },
+    {
+      "section_id": "7.33",
+      "title": "In recent years, a key structural feature underpinning the IT-ITeS sector’s",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "performance has been the steady expansion of Global Capability Centres (GCCs) - offshore units established by multinational firms to undertake technology development, engineering, analytics and business operations for their global activities. As of FY24,"
+        },
+        {
+          "type": "paragraph",
+          "text": "India hosts over 1,700+ GCCs, employing over 19 lakh professionals, making it the largest global hub for captive centres. GCCs account for a significant share of employment within the IT sector and have contributed meaningfully to incremental hiring in recent years."
+        },
+        {
+          "type": "paragraph",
+          "text": "been driven by the growing participation of more specialised and innovation-focused mid-market GCCs, comprising mid-sized and emerging multinational firms. In parallel, the expansion of GCCs into Tier 2 and Tier 3 cities has supported more geographically dispersed employment and strengthened linkages with local innovation and startup ecosystems."
+        }
+      ]
+    },
+    {
+      "section_id": "7.35",
+      "title": "Driven by surging data consumption, rapid cloud adoption, and the growing use",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "of AI, India’s data centre capacity is projected to reach about 8 GW by 2030 from about"
+        },
+        {
+          "type": "paragraph",
+          "text": "1.4GW as of Q2 of 2025.31 AI data centres are specialised high-performance facilities designed to meet the intensive computational needs of artificial intelligence, machine learning, and deep learning workloads. Despite generating nearly 20 per cent of the world’s data, India hosts only about 3 per cent of global data centres, around 150 out of"
+        },
+        {
+          "type": "paragraph",
+          "text": "11,000 worldwide, according to Nasscom, highlighting both a large growth opportunity and a competitiveness gap. Data centres are also double-edged swords as they are very energy-intensive. With emerging hubs such as Malaysia (Johor), Japan, and Vietnam intensifying competition, addressing structural constraints such as energy shortages will be critical for India to position itself as a global AI data centre hub."
+        },
+        {
+          "type": "paragraph",
+          "text": "31 Source: S&P (https://tinyurl.com/4a5rzwe4); Data centers are commonly measured by gigawatts (GW), as power consumption has become the primary metric for defining their capacity and scale, especially with the rise of AI and high-performance computing."
+        },
+        {
+          "type": "paragraph",
+          "text": "Services: From Stability to New Frontiers"
+        }
+      ]
+    },
+    {
+      "section_id": "7.36",
+      "title": "Another key trend in the IT-ITeS sector is a shift towards higher-value products",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "and capability-driven growth. According to Nasscom, Deep Tech companies experienced a 78 per cent rise in funding in CY2024. India’s technology startup ecosystem, the world’s third largest, now comprises about 32,000-35,000 startups, with over 2,000 added in"
+        },
+        {
+          "type": "paragraph",
+          "text": "CY25, including over 900 funded start-ups in CY25. Within this, the Generative AI segment has expanded rapidly, with active GenAI startups rising more than threefold from about 240 in H1 CY2024 to over 890 by H1 CY2025."
+        }
+      ]
+    },
+    {
+      "section_id": "7.37",
+      "title": "Rising digitalisation, cloud adoption, and data-intensive technologies have also",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "increased the demand for cybersecurity, including threat detection, risk management, compliance, and managed security services. India’s cybersecurity market is estimated at about USD 6.0 billion in 2023, growing at about 30 percent, according to Nasscom-DSCI. India’s strengthening capabilities are also evident in its Tier-1 ranking on the"
+        },
+        {
+          "type": "paragraph",
+          "text": "International Telecommunication Union’s Global Cybersecurity Index in 2024, with a score of 98.49, placing it among the world’s most cyber-resilient countries."
+        }
+      ]
+    },
+    {
+      "section_id": "7.38",
+      "title": "A structural shift, rather than a cyclical disruption, is evident in global demand",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "for productivity-enhancing solutions driven by Generative AI, cloud adoption, cybersecurity, and data engineering. While India has improved its ranking in"
+        },
+        {
+          "type": "paragraph",
+          "text": "UNCTAD’s Frontier Technology Readiness Index, from 48th in 2022 to 36th in the latest assessment (2024) among 170 economies, weaker outcomes in ICT penetration and skills, as reflected in the same index, point to constraints in the wider diffusion of frontier technologies across firms and regions. As the IT-ITeS sector creates new opportunities for productivity gains and movement up the value chain, it is at an inflexion point, with the key challenge lying in timely reskilling and the adaptation of firms and the workforce to evolving business models."
+        }
+      ]
+    },
+    {
+      "section_id": "7.39",
+      "title": "For India, Singapore’s model offers valuable lessons. Since the early 2000s,",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Singapore has implemented successive multi-year Research, Innovation and Enterprise (RIE) plans to align public R&D investment, industry participation and talent development with evolving economic priorities.32 Key features of Singapore’s"
+        },
+        {
+          "type": "paragraph",
+          "text": "R&D framework include focused investment in select domains (such as advanced manufacturing, digital technologies, biomedical sciences, and sustainability);"
+        },
+        {
+          "type": "paragraph",
+          "text": "strong industry-research linkages through co-funded programmes and collaborative platforms; centralised governance to avoid a fragmented approach; predictable multi- year funding to enable long-horizon and high-risk innovation investments; and a talent- centric approach to augment the supply of high-skilled researchers and workforce."
+        },
+        {
+          "type": "paragraph",
+          "text": "This approach has delivered measurable outcomes: gross R&D expenditure rose from about US$7.1 billion in 2012 to US$12.7 billion in 2022, around 65 per cent of which is business-led, alongside a sharp rise in patenting from about 1,722 in 2012 to over 4,107 by 202233 and consistently strong innovation rankings. India’s ongoing initiatives-such as the ANRF & RDI Scheme, mission-based programmes in semiconductors, clean energy, and biotechnology, and PLI schemes-already signal a shift towards mission- driven, industry-linked R&D with the aim of concentrating resources in priority domains."
+        }
+      ]
+    },
+    {
+      "section_id": "7.40",
+      "title": "Looking ahead, the IT-ITeS sector is well-positioned to play a larger role in",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "India’s medium-term growth and productivity. Realising this potential will require strengthening the foundations for innovation-led, capability-intensive growth through a skilled and adaptable workforce, wider diffusion of digital technologies, and a policy environment that supports innovation and scaling. Some interventions can be relatively straightforward, for instance, recognising data centres and cloud service providers as a distinct category, rather than classifying them as “commercial buildings” under"
+        },
+        {
+          "type": "paragraph",
+          "text": "32 National Research Foundation, Singapore, Research, Innovation and Enterprise (RIE) 2025 Plan. https://file."
+        },
+        {
+          "type": "paragraph",
+          "text": "go.gov.sg/rie-2025-handbook.pdf 33 National Research Foundation & Agency for Science, Technology and Research (A*STAR). (2023). 2022 RIE"
+        },
+        {
+          "type": "paragraph",
+          "text": "Survey Publication: Research and Innovation Expenditure in Singapore. Singapore: Government of Singapore."
+        },
+        {
+          "type": "paragraph",
+          "text": "(https://tinyurl.com/sp77v5wd) Services: From Stability to New Frontiers the National Building Code, 2016, which does not account for their specialised design needs. Additional measures could include releasing more anonymised public data to leverage scalable cloud-based Digital Public Infrastructure while maintaining robust security standards; facilitating visas for key professionals; providing tax clarity for data hosted by foreign entities in India; enabling energy-intensive data centres to access renewable power; and establishing centres of excellence within corporate hubs to strengthen research partnerships with academia."
+        },
+        {
+          "type": "paragraph",
+          "text": "c. \u0007Transport Services: Strengthening connectivity and logistics performance"
+        }
+      ]
+    },
+    {
+      "section_id": "7.41",
+      "title": "Transport services directly contribute around 4.5 per cent to GVA34, and form",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "a foundational component enabling services for a wide range of economic activities, including manufacturing, trade, and mobility across the economy. The sub-sector has strengthened in recent years, supported by the Government’s sustained emphasis on infrastructure development."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cargo transport services at ports"
+        }
+      ]
+    },
+    {
+      "section_id": "7.42",
+      "title": "Port capacity has expanded in recent years through modernisation, digitisation,",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "and greater private participation. As a result, cargo handled at Indian ports35 increased from about 1052 million tonnes in FY15 to around 1603 million tonnes in FY25. This momentum continued into FY26, with port cargo traffic at major ports recording an"
+        },
+        {
+          "type": "paragraph",
+          "text": "8.2 per cent growth during April-December, reflecting strengthening trade activity"
+        },
+        {
+          "type": "paragraph",
+          "text": "(Table VII.1). Alongside higher volumes, operational efficiency has also improved, with the average turnaround time of container vessels at major ports declining from approximately 43 hours in FY15 to nearly 30 hours in FY25.36 Complementing port- led gains, cargo movement on national waterways increased from approximately"
+        },
+        {
+          "type": "paragraph",
+          "text": "18.1 million tonnes in FY14 to over 145.5 million tonnes in FY25, reflecting improved integration between ports and inland waterways."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aviation Services for Passenger and Cargo Transport"
+        }
+      ]
+    },
+    {
+      "section_id": "7.43",
+      "title": "Aviation services have continued to play a key role in sustaining passenger",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "mobility and air cargo flows. In FY25, overall air passenger traffic increased by 9.4 per cent, reaching 411.8 million passengers, driven by broad-based demand from both domestic and international travellers (Table VII.1). However, a softening of momentum was observed during April-November 2025, when overall passenger traffic increased by 3.5 per cent (YoY), reflecting flight disruptions and short-term demand adjustments"
+        },
+        {
+          "type": "paragraph",
+          "text": "34 Source: Statement 8.10: Output & Value Added from Transport Services, NAS, MOSPI"
+        },
+        {
+          "type": "paragraph",
+          "text": "35 Including major and non-major ports 36 Inputs received from Ministry of Ports, Shipping & Waterways in the domestic passenger segment. During this period, domestic passenger traffic moderated to 2.6 per cent, while international passenger traffic recorded a relatively strong growth of 7.3 per cent, despite subdued foreign tourist arrivals."
+        }
+      ]
+    },
+    {
+      "section_id": "7.44",
+      "title": "Similar trends were observed in the air cargo segment. After recording a robust",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "growth of 10.5 per cent in FY25, supported by steady trade flows, air cargo growth moderated to about 5.0 per cent during April-November 2025. Industry assessments suggest that this moderation reflects a combination of factors, including higher operating costs, capacity constraints, geopolitical uncertainties affecting international routes, and a normalisation of demand after strong growth in the previous year."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mn stands for million, Mt stands for Million tonnes #Data up to November The data of Railway Freight is Excluding KRCL"
+        },
+        {
+          "type": "paragraph",
+          "text": "Railway freight services"
+        }
+      ]
+    },
+    {
+      "section_id": "7.45",
+      "title": "Rail freight services, a 50 per cent cost-effective cargo route compared to road",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "transport, continue to play a critical role in supporting the bulk and long-distance movement of goods essential for core industrial activity.37 In FY25, freight loading by"
+        },
+        {
+          "type": "paragraph",
+          "text": "Indian Railways exceeded 1.6 billion tonnes, witnessing a slight expansion over FY24."
+        },
+        {
+          "type": "paragraph",
+          "text": "However, it remains 12.5 per cent higher than the average of FY21-FY24, signalling a healthy underlying momentum. This momentum has been sustained into FY26, with freight loading growing by 3.3 per cent and reaching about 1,215 million tonnes (MT)"
+        },
+        {
+          "type": "paragraph",
+          "text": "37 https://www.pib.gov.in/PressReleasePage.aspx?PRID=2214076&utm Services: From Stability to New Frontiers during April-December (Table VII.1). Growth was supported by strong demand from core sectors such as coal (601 MT), iron ore (138 MT), cement (109 MT), container traffic (71 MT), pig iron and finished steel (56 MT), fertilisers (52 MT), mineral oil"
+        },
+        {
+          "type": "paragraph",
+          "text": "(38 MT), foodgrains (36 MT), raw materials for steel plants (approximately 23 MT), and other goods (91 MT)."
+        }
+      ]
+    },
+    {
+      "section_id": "7.46",
+      "title": "Railways’ operational efficiency has also improved, with average daily freight",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "loading rising from 4.2 million tonnes in 2024 to about 4.4 million tonnes in 2025."
+        },
+        {
+          "type": "paragraph",
+          "text": "This has been supported by capacity augmentation through the commissioning of new tracks and the expansion of Dedicated Freight Corridors, which have eased congestion and increased movement speeds. Policy measures, including bulk cement terminals, rationalised freight rates for containerised cement movement, and wider adoption of digital platforms such as the Freight Operation Information System, have further strengthened bulk handling and operational efficiency."
+        },
+        {
+          "type": "paragraph",
+          "text": "d. \u0007Telecommunication:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Expanding Connectivity and Digital Capabilities"
+        }
+      ]
+    },
+    {
+      "section_id": "7.47",
+      "title": "Telecommunications services, which contribute directly to about 1.2 per cent",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "of India’s GVA, form a foundational backbone of the digital economy, supporting productivity and service delivery across sectors through improved access, affordability, and usage. Telecom connectivity has expanded steadily over the past decade. Total telephone connections rose from about 933 million in 2014 to over 1.2 billion by"
+        },
+        {
+          "type": "paragraph",
+          "text": "November 2025, with tele-density increasing from 75 per cent to 86.8 per cent, driven largely by faster growth in rural areas, indicating improved digital inclusion. Internet subscriptions expanded sharply from about 25 crore to 101.8 crore by September 2025, alongside rising broadband penetration.38 Affordability improvements are reflected in average monthly data consumption per subscriber, which increased from 62 MB in 2014 to about 25 GB by mid-2025. This was supported by a steep decline in data prices -from around ₹300 per GB in 2014 to ₹8.3 per GB in 202539, along with steady improvements in digital and communication infrastructure."
+        }
+      ]
+    },
+    {
+      "section_id": "7.48",
+      "title": "This expansion in connectivity has been underpinned by steady improvements",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "in India’s digital and communication infrastructure, combining public R&D with programme-based deployment. India has developed end-to-end indigenous 4G and"
+        },
+        {
+          "type": "paragraph",
+          "text": "5G (NSA) core network technologies, placing it among a small group of countries with domestic telecom capabilities, while national programmes have expanded network reach and capacity. Alongside this, advances in cyber and telecom security have strengthened network reliability, improved disaster-resilient communications,"
+        },
+        {
+          "type": "paragraph",
+          "text": "38 Inputs received from the Department of Telecommunication 39 https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=1864152 and supported progress in next-generation secure technologies, including quantum- secured communication."
+        },
+        {
+          "type": "paragraph",
+          "text": "e. Real estate and housing services"
+        }
+      ]
+    },
+    {
+      "section_id": "7.49",
+      "title": "The ‘real estate and ownership of dwellings’ sector has contributed about 7 per",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "cent to annual GVA, on average, over the past decade, highlighting its importance in services-led growth and strong linkages with construction and financial services."
+        },
+        {
+          "type": "paragraph",
+          "text": "Over this period, policy reforms, including the implementation of the Real Estate"
+        },
+        {
+          "type": "paragraph",
+          "text": "(Regulation and Development) Act (RERA), GST, and the Housing for All mission, have supported greater formalisation of the sector. Demand-side measures, such as interest subvention under PMAY (Urban), the Affordable Housing Fund, lower interest rates, and streamlined credit processes, have further strengthened access to housing finance."
+        },
+        {
+          "type": "paragraph",
+          "text": "Urban initiatives, such as the Smart Cities Mission and the Urban Infrastructure"
+        },
+        {
+          "type": "paragraph",
+          "text": "Development Fund (UIDF), have supported housing demand in Tier 2 and Tier 3 cities."
+        }
+      ]
+    },
+    {
+      "section_id": "7.50",
+      "title": "Backed by these reforms, the sector entered a sustained upcycle from September",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "2021, post-COVID, as reflected in improved sales, driven by higher household savings channelled towards physical assets (Chart VII.14). The momentum has continued in recent quarters, supported by favourable affordability conditions and easing inflation."
+        },
+        {
+          "type": "paragraph",
+          "text": "On average, housing volume sales continue to remain higher compared to FY22-FY24"
+        },
+        {
+          "type": "paragraph",
+          "text": "(Chart VII.15). Housing finance also expanded steadily, with outstanding individual housing loans more than tripling from about ₹10 lakh crore as at the end of March 2015 to over ₹37 lakh crore at end March 202540, raising housing loans from 8.0 per cent to over 11 per cent of GDP, indicating a deeper financialisation of housing demand."
+        },
+        {
+          "type": "paragraph",
+          "text": "engine, contributing approximately one-third of the sector's total revenues, while also driving demand for content production, post-production, Visual Effects (VFX), dubbing, and localisation, all integrated into global distribution networks."
+        }
+      ]
+    },
+    {
+      "section_id": "7.52",
+      "title": "Segment-wise, audio-visual and film services remain central, with India among",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "the world’s largest content producers, and revenues are increasingly driven by digital distribution. Video subscription revenues are estimated at ₹9,200 crore in 2024."
+        },
+        {
+          "type": "paragraph",
+          "text": "Broadcasting and advertising have shifted decisively from linear TV to OTT and mobile platforms, with digital advertising growing faster than traditional formats. High- growth, export-oriented segments, such as animation and VFX, reached a revenue size of approximately ₹103 billion in 2024, supported by skilled manpower and cost competitiveness. The gaming segment, driven largely by mobile platforms and digital payments, expanded rapidly, with industry revenues estimated at around ₹232 billion in 2024, supported by a large and growing user base, even as monetisation models continue to evolve. Live entertainment also rebounded strongly post-pandemic (See"
+        },
+        {
+          "type": "paragraph",
+          "text": "41 The numbers quoted in this section come from the Federation of Indian Chambers of Commerce and Industry"
+        },
+        {
+          "type": "paragraph",
+          "text": "(FICCI) & EY (2025). Shape the future: Indian media and entertainment is scripting a new story. (https://tinyurl."
+        },
+        {
+          "type": "paragraph",
+          "text": "com/jevrj5b7) rising incomes, digital ticketing platforms and improving urban infrastructure. International experience underscores that economic gains depend on urban readiness and facilitative governance, including streamlined permissions, predictable regulations, efficient crowd management, last-mile connectivity and coordination across city authorities and tourism bodies. In India, there is a lack of live event venues and restrictions on the foreign payments that can be made to artists coming from abroad. Opening up heritage monuments for such events and facilitating the visa and foreign exchange permissions for the foreign performers/ artists could be considered in this regard. Considering that anywhere between 10 and 15 clearances are required, the Ministry of I&B is working on a Single Window Mechanism for"
+        },
+        {
+          "type": "paragraph",
+          "text": "Live Entertainment Permissions,45 including those needed from state governments. With"
+        },
+        {
+          "type": "paragraph",
+          "text": "42 Oxford Economics. (2021). The Concerts and Live Entertainment Industry: A Significant Economic Engine"
+        },
+        {
+          "type": "paragraph",
+          "text": "(Report No. 357150). Oxford Economics. (https://tinyurl.com/4d783h4z) 43 UK Music. (2023). Here, There and Everywhere 2023: Music Tourism and Economic Contribution."
+        },
+        {
+          "type": "paragraph",
+          "text": "44 UNCTAD’s Creative Economy Outlook 2024 45 Ministry of Information & Broadcasting, Government of India. (2025). India’s live events economy: A strategic growth imperative (White paper). Government of India. (https://tinyurl.com/47xkpn2w)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Services: From Stability to New Frontiers appropriate facilitation and integration into tourism and city branding strategies, the concert economy can become a meaningful driver of growth for M&E, tourism and allied services."
+        },
+        {
+          "type": "paragraph",
+          "text": "g. Commercialising Space and Ocean Services"
+        }
+      ]
+    },
+    {
+      "section_id": "7.53",
+      "title": "India’s space sector has emerged as a fast-growing, technology-intensive and",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "increasingly commercial segment of the services economy. Valued at about USD 8.4 billion (around 2 per cent of the global space market), it is projected to expand to USD"
+        },
+        {
+          "type": "paragraph",
+          "text": "44 billion over the next decade46, driven by launch services, satellite communications, earth observation, navigation and a rapidly growing private ecosystem. Commercial launches have been a key export source, with India launching 393 foreign satellites for"
+        },
+        {
+          "type": "paragraph",
+          "text": "34 countries between 2015 and 2024. This effort has earned nearly USD 143 million and EUR 272 million47, reflecting its cost-effective and reliable capabilities amid rising global demand for small satellites."
+        }
+      ]
+    },
+    {
+      "section_id": "7.54",
+      "title": "Commercialisation has been strengthened through NewSpace India Limited",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "(NSIL)48, whose revenues rose from ₹322 crore in FY20 to ₹2,940 crore in FY23, with further expansion projected in FY25 to ₹3246.1 crore.49 Profitability has also improved steadily, driven by demand-driven missions, satellite capacity leasing, and end-to-end commercial project execution, including dedicated launch services and the deployment of communication satellites. Satellite-enabled services are expanding rapidly, with"
+        },
+        {
+          "type": "paragraph",
+          "text": "India’s satellite data services market valued at USD 495 million in 202450, driven by applications in defence, climate services, logistics and urban planning. At the same time, India’s private “NewSpace” ecosystem has scaled across manufacturing, launch vehicles, data analytics and downstream services, attracting over ₹1,000 crore in private funding in FY23.51 Commercial leasing of transponder capacity, global sale of"
+        },
+        {
+          "type": "paragraph",
+          "text": "Earth observation imagery, and growing adoption of NavIC52 in navigation and mobility services are expanding downstream service revenues. Policy initiatives such as the"
+        },
+        {
+          "type": "paragraph",
+          "text": "Indian Space Policy (2023), the operationalisation of IN-SPACe, and liberalised FDI norms have lowered entry barriers and enabled a transition towards a mixed public- private services model. This has enabled the space sector to evolve into a high-value, export-oriented and innovation-driven services segment."
+        },
+        {
+          "type": "paragraph",
+          "text": "46 https://www.pib.gov.in/PressReleasePage.aspx?PRID=2068155 47 https://www.pib.gov.in/PressReleasePage.aspx?PRID=2110830&reg=3&lang=2"
+        },
+        {
+          "type": "paragraph",
+          "text": "48 which serves as the central commercial interface for launch services, satellite operations and technology transfer"
+        },
+        {
+          "type": "paragraph",
+          "text": "49 https://www.pib.gov.in/PressReleasePage.aspx?PRID=2115229 50 Grand View Research. (2025). India Satellite Data Services Market Size & Outlook, 2030. (https://tinyurl."
+        },
+        {
+          "type": "paragraph",
+          "text": "com/7pz8kn4f) 51 https://www.pib.gov.in/PressReleasePage.aspx?PRID=1985938 52 Navigation with Indian Constellation"
+        }
+      ]
+    },
+    {
+      "section_id": "7.55",
+      "title": "Just as space, ocean technology and ocean sciences can be scaled through public-",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "private partnerships. Developing heterogeneous Earth-system data products and services across the atmosphere, oceans, cryosphere and geosphere can fundamentally transform the economics of Earth-system science and applications."
+        },
+        {
+          "type": "heading",
+          "text": "CONCLUSION AND WAY FORWARD"
+        }
+      ]
+    },
+    {
+      "section_id": "7.56",
+      "title": "The trajectory of India’s services sector over the past year underscores its",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "significance to the nation’s economic growth, resilience, and structural transformation."
+        },
+        {
+          "type": "paragraph",
+          "text": "Amidst global volatility and shifting geopolitical alignments, the sector has not only maintained robust momentum in output, employment, and exports but has also demonstrated adaptability through diversification into high-value, technology-driven, and experience-led segments."
+        }
+      ]
+    },
+    {
+      "section_id": "7.57",
+      "title": "This performance has been underpinned by a series of far-reaching reform",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "measures and policy initiatives that have systematically addressed legacy bottlenecks and positioned the sector for sustained, inclusive growth. Improvements in digital and physical infrastructure, connectivity, logistics and urban services have broadened the domestic base of services-led activity. The expansion of digitally delivered, knowledge- intensive and experience-based services has strengthened India’s underlying comparative advantages. The government’s proactive approach to trade policy, evident in the negotiation of comprehensive free trade agreements and economic partnerships, has facilitated greater market access, professional mobility, and regulatory cooperation, thereby enhancing the global competitiveness of Indian services. In parallel, targeted interventions in skill development, urban infrastructure, and innovation ecosystems have sought to bridge regional and sectoral disparities, foster entrepreneurship, and align workforce capabilities with evolving market needs."
+        }
+      ]
+    },
+    {
+      "section_id": "7.58",
+      "title": "While technologies are enhancing productivity and enabling new service models,",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "the pace of change is outpacing workforce and firm-level adaptation. As a result, many economies face widening skills gaps, with rising demand for specialised capabilities in areas such as data analytics, cybersecurity, cloud computing, and AI, alongside greater automation of routine service tasks. Tighter immigration regimes in several advanced economies and intensifying global competition for skilled talent are further influencing the cross-border delivery of services. Against this global backdrop, going forward, sustaining India’s position in the global services market will depend on productivity gains, continued innovation, ongoing investment in skills aligned with emerging technologies, and further simplification of regulatory processes. How effectively the sector responds to these factors will shape its contribution to India’s growth trajectory in the years ahead."
+        },
+        {
+          "type": "paragraph",
+          "text": "Services: From Stability to New Frontiers"
+        }
+      ]
+    },
+    {
+      "section_id": "7.59",
+      "title": "The chapter also highlights key areas for improvement across major services",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "segments. For IT and IT-enabled services, the sector’s future hinges on timely reskilling, the wider diffusion of digital technologies, and the creation of a supportive policy environment for innovation and scaling. Key reforms include recognising the unique requirements of data centres, such as access to green energy, facilitating visas for skilled professionals, providing tax clarity for digital services, and the need to promote mission-driven, industry-linked research, as well as predictable funding and strong public-private collaboration. Tourism requires the creation of niche segments, such as long-distance hiking trails, and a national marina development policy to unlock the blue economy. Streamlining permissions for live events, opening up heritage venues, and facilitating foreign artist participation will help realise the potential of the concert and orange economies. Space and ocean services are poised for rapid expansion through commercialisation and public-private partnerships. Collectively, these efforts can enable the services sector to remain competitive, employment-intensive and resilient, while supporting sustained and inclusive economic growth."
+        },
+        {
+          "type": "paragraph",
+          "text": "***"
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "metadata": {
+    "extraction_method": "mcp_raw + ai_intelligent_processing",
+    "pages": {
+      "start": 309,
+      "end": 342
+    },
+    "structure": {
+      "sections_count": 56,
+      "summary_paragraphs": 3,
+      "references": 0
+    }
+  }
+}
