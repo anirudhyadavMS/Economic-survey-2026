@@ -1,0 +1,1153 @@
+37
+37
+C
+H
+A
+P
+T
+E
+R
+FISCAL DEVELOPMENTS: 
+ANCHORING STABILITY 
+THROUGH CREDIBLE 
+CONSOLIDATION
+At a time when public debt remains elevated globally, and fiscal space is under 
+strain across countries, the Central Government’s fiscal trajectory stands out for 
+combining consolidation with sustained public investment. The government’s 
+calibrated fiscal strategy, anchored in credible deficit reduction, resilient 
+revenue mobilisation, and a decisive reorientation of spending toward capital 
+formation, has strengthened macroeconomic stability and supported growth 
+in the post-pandemic period. Importantly, this fiscal resilience reflects prudent 
+fiscal policy choices and careful fiscal management.
+The Centre’s revenue receipts strengthened significantly, rising from an average 
+of about 8.5 per cent of GDP in the pre-pandemic period (FY16-FY20) to around 
+9.1 per cent in the post-pandemic years (FY22-FY25). This improvement was 
+driven primarily by buoyant direct tax collections, supported by tax reforms, 
+technology-enabled compliance, deeper formalisation, and improved corporate 
+profitability. Among indirect taxes, GST collections have recorded multiple 
+all-time highs in absolute terms during FY26, with growth broadly aligned to 
+nominal GDP. The recent GST rate rationalisation reforms are expected to support 
+demand by lowering tax incidence and improving price competitiveness, with 
+volume and compliance effects helping to maintain revenue resilience. High-
+frequency indicators, such as e-way bill generation, PMI readings, automobile 
+sales, UPI transactions, and tractor sales, point to strengthening economic 
+momentum in the recent months following these reforms.
+On the expenditure side, consolidation has been achieved alongside an 
+improvement in expenditure quality. Revenue expenditure moderated from 13.6 
+per cent of GDP in FY22 to 10.9 per cent in FY25, creating space for productive 
+capital outlays. Capital expenditure was scaled up from an average of 1.7 per 
+cent of GDP in the pre-pandemic period to approximately 3 per cent in the years 
+following the pandemic, with effective capital expenditure reaching 4 per cent of 
+GDP in FY25. This rebalancing was supported by subsidy rationalisation reduced 
+leakages from Direct Benefit Transfers, and other public financial management 
+reforms, such as Just-in-Time fund releases. As a result, fiscal indicators remain 
+on track in FY26, indicating adherence to the budgeted consolidation path. 
+The Central Government, through its Special Assistance to States for Capital 
+2
+
+Economic Survey 2025-26
+38
+38
+Expenditure/Investment (SASCI), has successfully incentivised the States to 
+maintain capital expenditure at around 2.4 per cent of GDP in FY25. Further, 
+the emerging fiscal trade-offs at the State level, particularly the rapid expansion 
+of unconditional cash transfers, have been highlighted. While these provide 
+immediate income support, their growing scale risks increasing expenditure 
+rigidity and crowding out resources for capital investments, including human- 
+capital.
+Finally, the chapter demonstrates that, unlike many peer economies where 
+post-pandemic debt unwinding has been limited, India has reduced its general 
+government debt-to-GDP ratio by approximately 7.1 percentage points since 
+2020, while sustaining high public investment. Going forward, the Central 
+Government’s credible medium-term goal to converge towards a debt-to-GDP 
+ratio of 50 ± 1 per cent provides the policy anchor for sustaining this consolidation 
+at the general government level as well.
+The chapter also offers certain reform suggestions for reducing cross-subsidies, 
+stabilising the pipeline for equity monetisation by revising the definition of 
+government companies, advancing the trust and nudge theory in e-way billing, 
+and reaping efficiencies in spending. 
+INTRODUCTION
+2.1	 A key development for the Indian economy in 2025 was the recognition of its fiscal 
+resilience by global rating agencies, reflected in three sovereign credit rating upgrades 
+by Morningstar DBRS, S&P Global Ratings, and Rating and Investment Information, 
+Inc. (R&I). These upgrades were attributed to India’s prudent fiscal management 
+supported by continued deficit reduction, improved revenue buoyancy, and a clear shift 
+in public spending toward growth-enhancing capital investment. Rating agencies also 
+highlighted improved fiscal transparency and a credible medium-term consolidation 
+path as factors that strengthen debt dynamics and reinforce confidence in India’s 
+macroeconomic and fiscal framework.
+2.2	 It is noteworthy that this fiscal resilience has been the outcome of deliberate 
+and sustained policy effort rather than a natural and easy progression. At a time of 
+elevated expenditure pressures and uncertainty around revenue streams, articulating a 
+medium-term consolidation path and adhering to it required strong policy commitment. 
+This chapter examines the fiscal policy choices made over the recent years that have 
+strengthened the fiscal capacity of the Central Government while also encouraging 
+healthier fiscal practices among the States. It begins with an assessment of the fiscal 
+performance of the Centre and the States, followed by an analysis of government debt 
+and the consolidated general government position, and concludes with an assessment 
+of the fiscal outlook. 
+
+Fiscal Developments
+39
+39
+CENTRAL GOVERNMENT FINANCES
+Fiscal policy as a key anchor of macroeconomic stability and confidence
+2.3	 A predictable and credible fiscal trajectory by the Centre over the past years has 
+anchored overall macroeconomic stability by balancing growth imperatives with fiscal 
+sustainability. The Central government’s fiscal consolidation experience underscores 
+the value of clearly defined fiscal targets alongside retained flexibility, thereby allowing 
+fiscal policy to support rather than constrain growth during periods of uncertainty. In 
+this context, the Union Budget for FY22 articulated a medium-term glide path, targeting 
+a fiscal deficit below 4.5 per cent of GDP by FY26, instead of binding annual targets, to 
+ensure that growth-enhancing expenditure, particularly capex, was not compromised.
+2.4	 Accordingly, the fiscal deficit declined from 9.2 per cent of GDP in FY21 to 4.8 
+per cent of GDP in FY25 [Provisional Accounts, (PA)] and is budgeted at 4.4 per cent 
+of GDP in FY26 (Chart II.1). Over the same period, the revenue deficit as a proportion 
+of GDP has narrowed steadily, reaching its lowest level since FY09, thereby leaving 
+a greater allocation for capex (Chart II.2) and reflecting a sustained improvement in 
+the quality of expenditure. The decline in the primary deficit-to-GDP ratio1 during this 
+period (Chart II.1), further indicates that fresh borrowings are now increasingly being 
+used to service past interest obligations rather than to finance current spending. 
+Chart II.1: Trends in deficit indicators 
+of the Centre
+Chart II.2: Decomposition of the 
+fiscal deficit of the Centre2 
+7.3
+1.7
+1.5
+9.2
+4.8
+4.4
+5.7
+1.3
+0.8
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+FY20
+FY21
+FY22
+FY23
+FY24
+FY25PA
+FY26BE
+per cent of GDP
+Revenue Deficit
+Fiscal Deficit
+Primary Deficit
+71.4 79.7 65.1 61.6 46.2 36.0 33.4
+36.0 23.4 37.4 42.6 57.4 66.7 71.5
+-7.3
+-3.2
+-2.5
+-4.2
+-3.6
+-2.7
+-4.8
+-20
+0
+20
+40
+60
+80
+100
+120
+FY20
+FY21
+FY22
+FY23
+FY24
+FY25PA
+FY26BE
+as proportion of fiscal deficit
+Non-Debt capital receipts
+Capital Expenditure
+Revenue Deficit
+Source: Union budget documents and Controller General of Accounts (CGA).
+1 Primary Deficit (PD) = Fiscal Deficit (FD) − Interest Payments; A zero primary deficit means the government’s 
+current revenues are sufficient to meet its non-interest expenditure; borrowing is only to service past debt. 
+2  Fiscal Deficit = Total Expenditure − Total Non-Debt Receipts 
+= (Revenue Expenditure + Capital Expenditure) − (Revenue Receipts + Non-Debt Capital Receipts) 
+= (Revenue Expenditure − Revenue Receipts) + Capital Expenditure − Non-Debt Capital Receipts 
+= Revenue Deficit + Capital Expenditure − Non-Debt Capital Receipts.
+
+Economic Survey 2025-26
+40
+40
+Sustained revenue buoyancy supports consolidation
+2.5	 In an environment of heightened global volatility, government revenues have 
+strengthened fiscal capacity, allowing expenditure needs to be met while following a 
+consolidation path. An assessment of the Central Government’s receipts, comprising 
+revenue receipts (net tax to Centre and non-tax revenues) and non-debt capital receipts, 
+provides insight into the sources of this resilience.
+2.6	 Revenue receipts increased from an average of about 8.5 per cent of GDP during the 
+pre-pandemic period (FY16-FY20) to around 9.1 per cent of GDP in the post-pandemic 
+period (FY22-FY25 PA).3 This improvement was driven primarily by higher gross tax 
+revenue, which rose from an average of 10.8 per cent of GDP to about 11.5 per cent of 
+GDP over the same period. The buoyancy of revenues reflects both the strong growth 
+momentum of the domestic economy and the cumulative impact of tax policy and tax 
+administration reforms implemented by the Government. Within the overall stable tax 
+revenues, the performance of individual tax components reveals notable shifts in the 
+composition and sources of revenue growth.
+Broadening of the Direct Tax Base
+2.7	 The share of direct taxes in total taxes4 has increased in the past years, from 51.9 per 
+cent in the pre-pandemic period to 55.5 per cent in the post-pandemic years, reaching 
+58.8 per cent in FY25(PA). Table II.1 shows the trends in the components of direct taxes. 
+Among these, the non-corporate tax collections5 have recorded a strong performance, 
+with collections increasing from an average of about 2.4 per cent of GDP in the pre-
+pandemic period to around 3.3 per cent of GDP in the post-pandemic period. Even 
+within the post-pandemic years, these collections rose from 3 per cent of GDP in FY22 
+to about 3.7 per cent of GDP in FY25(PA). This momentum is also reflected in the strong 
+average buoyancy6 of 1.8 observed in non-corporate taxes during FY23 to FY25(PA)7 , 
+implying that collections grew faster than nominal GDP.
+3	 Throughout the chapter FY16-FY20 is taken as pre-pandemic period, and FY22-FY25 is taken as the post-
+pandemic period.
+4	 Share of major direct taxes (i.e., Corporate tax + Taxes on income other than Corporate tax) in the total of major 
+direct and indirect taxes (i.e, Corporate tax+ Taxes on income other than Corporate tax + Customs+ Excise+ GST 
++ Service tax).
+5 Taxes on income other than Corporation tax, as reported in the Budget are being termed as Non-corporate tax 
+in the chapter. This includes personal income tax collections, various cesses and surcharges, as well as securities 
+transaction tax (STT).
+6	 Tax buoyancy measures how responsive tax revenues are to changes in overall economic activity, typically GDP. It 
+is measured as follows: Tax Buoyancy = per cent change in tax revenue (non-adjusted for policy or rate changes) 
+÷ per cent change in GDP. Buoyancy value >1 implies that Tax revenue grows faster than GDP.
+7	 Since the data in post post-pandemic period is taken for FY22-FY25, the growth rates/buoyancies during the 
+period are reported for FY23-FY25 (Growth in FY22 was distorted due to a low base in FY21).
+
+Fiscal Developments
+41
+41
+Table II.1: Trends in the components of direct taxes (₹ lakh crore)
+FY22
+FY23
+FY24
+FY25 RE
+FY26 BE
+Gross Tax Revenue, of which
+27.09
+30.54
+34.66
+38.53
+42.70
+	
+Corporate Tax
+7.12
+8.26
+9.11
+9.80
+10.82
+	
+Non-Corporate Tax (Taxes on 
+Income) 	
+6.96
+8.34
+10.45
+12.57
+14.38
+	
+of which
+	
+	 Personal Income Tax
+6.69
+8.04
+10.07
+11.99
+13.57
+	
+	 Security Transaction Tax
+0.23
+0.25
+0.34
+0.55
+0.78
+	
+	 Others
+0.04
+0.05
+0.04
+0.03
+0.03
+Nominal GDP
+235.97
+268.90
+301.23
+330.68
+357.14
+Source: Union Budget documents and MoSPI.
+Note: Corporate Tax and Personal Income Tax include surcharges and cesses.
+2.8	 This improvement has been supported by a steady expansion of the tax base. The 
+number of income tax returns filed increased in the post-pandemic period, from 6.9 
+crore in FY22 to 9.2 crore in FY258, reflecting gains from improved compliance, wider 
+use of technology in tax administration, and a growing number of individuals entering 
+the tax net as their incomes rise. Nudge-based interventions have emerged as a powerful 
+tool for improving tax compliance and enhancing the efficiency of tax administration in 
+India (See Box II.1).
+Box II.1: Nudging Compliance: How Data-Driven Behavioural Interventions 
+Transformed Tax Collection Efficiency in India
+Anchored in behavioural economics, the NUDGE (Non-intrusive Usage of Data to Guide and 
+Enable) approach adopted by the Income Tax Department, focuses on influencing taxpayer 
+behaviour through timely information, gentle prompts, and data-driven insights rather 
+than coercive enforcement. At its core, the NUDGE framework leverages large-scale data 
+analytics to identify potential non-compliance, guide taxpayers with relevant information, 
+and empower them to voluntarily correct or update their filings, without resorting to audits 
+or litigation.  
+For instance, the Foreign Asset Campaign prompted nearly 25,000 taxpayers to revise 
+their returns, with over 61 per cent responding positively to nudges. This resulted in the 
+declaration of foreign assets worth over ₹29,000 crore and foreign income exceeding 
+₹1,000 crore, a significant portion of which was through belated returns. Similarly, nudges 
+related to deductions under Section 80GGC led to a large-scale correction of claims, with 
+over 91,000 taxpayers filing updated returns, a reduction of excessive deductions by nearly 
+₹2,050 crore, and additional tax payments of over ₹680 crore. Similarly, targeted nudges 
+led to a reduction in incorrect House Rent Allowance (HRA) claims, resulting in additional 
+tax collections of over ₹119 crore. 
+8 https://www.pib.gov.in/PressNoteDetails.aspx?id=154926.
+
+Economic Survey 2025-26
+42
+42
+Data-driven nudges also improved third-party reporting and accuracy in TDS filings. More 
+than 8,500 deductors revised their TDS returns, adding over 1.08 crore deductees and 
+bringing additional TDS of nearly ₹4,825 crore into the system. The tool also helped to 
+identify non-genuine agricultural income of ₹2,038.02 crore from 310 entities and capital 
+gains of ₹33,057.28 crore earned through Offer for Sale (OFS) by promoters during Initial 
+Public Offers. 
+Overall, the NUDGE initiative has improved tax collection efficiency by shifting the focus 
+from post-facto enforcement to preventive, technology-enabled compliance. It has reduced 
+friction, litigation, and compliance costs for both taxpayers and the administration, while 
+increasing revenue through voluntary means. By combining data, behavioural insights, 
+and transparent communication, nudge-based tax administration represents a modern, 
+efficient, and citizen-centric approach to revenue mobilisation.
+2.9	 Corporate tax collections also recorded an average buoyancy close to unity during FY23-
+FY25, broadly in line with nominal GDP growth. This reflects the resilience and recovery of the 
+private corporate sector in the post-pandemic period. According to the Reserve Bank of India, 
+aggregate corporate profits of listed companies have increased from around ₹2.5 trillion in 
+FY21 to ₹7.1 trillion in FY25, resulting in a more than 100 per cent increase in corporate tax 
+collections over this period.9
+2.10	During the current fiscal year, the major direct taxes10 reached nearly 53 per cent 
+of the Budget estimates as of November 2025, as against 56.6 per cent during the 
+corresponding period of the previous year. Personal income tax collections grew by 
+6.8 per cent YoY, and corporation tax collections increased by 7.8 per cent YoY during 
+the period, reflecting the various tax concessions granted during this time. The Union 
+Budget 2025-26 ushered in significant income-tax relief for the middle class, with 
+no personal income tax payable for income11 upto ₹12 lakh (₹12.75 lakh for salaried 
+taxpayers) alongside changes in slabs and rates as well as in TDS rules. The new Income 
+Tax Act, 2025, which focuses on simplification, structural clarity, and continuity of tax 
+policy, was enacted on August 21, 2025, and is slated to take effect from the tax year 
+2026-27.
+Excise and Customs Duties: Supporting growth through rate 
+rationalisation
+2.11	 Among major indirect taxes, excise duty collections moderated in the post-
+pandemic period, declining from about 1.7 per cent of GDP in FY22 to around 0.9 per 
+cent of GDP in FY25. This moderation was driven by reductions in excise duty rates on 
+petroleum products in 2021 and 2022, along with relatively moderate growth in petrol 
+and diesel consumption during FY24 and FY25. 
+9 From ₹4.58 lakh crore in FY21 to ₹9.80 lakh crore in FY25.
+10	 See footnote 4.
+11	 other than special rate income such as capital gains.
+
+Fiscal Developments
+43
+43
+2.12	At the same time, the moderate buoyancy of 0.4 in customs duty collections 
+during the post-pandemic period reflects calibrated reductions in basic customs duties 
+on raw materials and essential goods aimed at supporting domestic manufacturing and 
+containing input costs. This trend was further reinforced by softer global commodity 
+prices, including crude oil, as taxes levied on an ad valorem basis move in line with 
+prices.
+2.13	During the current fiscal year, both excise duty and custom duty collections have 
+reached about 60 per cent of their respective Budget estimates as of the end of November 
+2025, as against 55 per cent and 65 per cent, respectively, during the corresponding 
+period of the previous year. While the excise duty collections witnessed a growth of 9.3 
+per cent, the customs collections have reduced by 7.3 per cent on a YoY basis.
+Goods and Services Tax: Revenue stability amid ongoing reform
+2.14	The Goods and Services Tax (GST) has played a stabilising role by strengthening 
+Government revenues, deepening formalisation, and reinforcing the Government’s 
+reform intent. Gross GST revenue during April-December 2025 stood at ₹17.4 lakh 
+crore, recording a YoY growth of 6.7 per cent (Chart II.3). The GST revenue growth has 
+broadly aligned with the prevailing nominal GDP growth conditions, thus influenced 
+in part by lower inflation (Chart II.4a). As a result, while growth rates appear lower in 
+percentage terms, collections in absolute terms have recorded multiple all-time highs 
+during the current fiscal year.
+Chart II.3: Gross GST collections reach all-time highs, even as the growth 
+tracks nominal GDP growth
+ 
+14.9
+18.1
+20.2
+22.1
+13.4
+15.0
+16.3
+17.4
+21.4
+11.7
+9.4
+11.7
+9.1
+6.7
+0
+5
+10
+15
+20
+25
+0
+5
+10
+15
+20
+25
+FY22
+FY23
+FY24
+FY25
+FY23
+FY24
+FY25
+FY26
+April - March
+April - December
+Per cent
+₹ Lakh Crore
+YoY Growth (RHS)
+Source: Ministry of Finance.
+
+Economic Survey 2025-26
+44
+44
+2.15	The underlying strength of GST revenues is reflected in the steady expansion of 
+the tax base, with registered taxpayers increasing from about 60 lakh in 2017 to over 
+1.5 crore at present, indicating deeper formalisation of economic activity. In parallel, 
+high-frequency indicators suggest robust transaction volumes, with cumulative e-way 
+bill volumes during April-December 2025 growing by 21 per cent YoY (Chart II.4b).
+Chart II.4a: GST collection track 
+nominal GDP growth
+Chart II.4b: E-way bill volumes 
+indicate robust transaction 
+momentum under GST
+-20
+-10
+0
+10
+20
+30
+40
+-5
+0
+5
+10
+15
+20
+25
+30
+GST Collection YoY growth (per cent)
+Nominal GDP Growth (Per cent)
+Corr.=0.92
+70.3
+115.0
+26.0
+16.0
+16.6
+21.0
+0
+5
+10
+15
+20
+25
+30
+0
+20
+40
+60
+80
+100
+120
+140
+FY23
+FY24
+FY25
+FY26
+Apr - Dec
+Per cent
+Crore
+E-way bill volume generation
+YoY Growth (RHS)
+Source: GSTN, MoSPI.
+Note: Quarterly data for GST and GDP has been used.
+Source: GST Council, Ministry of Finance.
+2.16	Looking ahead, the recent rationalisation of GST rates is expected to support 
+demand by lowering tax incidence and improving price competitiveness. Since the 
+lower rates are expected to stimulate higher consumption volumes and strengthen 
+compliance, volume effects could offset the impact of rate reductions on revenues. 
+Accordingly, GST collections are expected to remain resilient in the coming quarters. 
+The expected channels of impact of these measures are discussed in Box II.2.
+Box II.2: Expected channels of impact of GST 2.0 reforms
+The 56th meeting of the GST Council has brought in a two-rate structure with a Standard 
+Rate of 18 per cent, a Merit Rate of 5 per cent and a special de-merit rate or sin-good rate 
+of 40 per cent for a select few goods and services (but inclusive of earlier compensation 
+cess rate, and hence with no increase in overall tax burden). The rationalisation of GST 
+with effect from 22.09.2025 came as the third leg of the tripod of tax reforms, following the 
+corporate tax reductions of 2019 and personal income tax reforms w.e.f. April 2025.
+
+Fiscal Developments
+45
+45
+Key Changes introduced in GST 2.0
+Agriculture and related 
+items
+•	
+GST on agricultural goods (tractors, agricultural, 
+horticultural or forestry machinery etc.) lowered to 5 per 
+cent from 12 per cent.
+•	
+GST rates on key fertiliser inputs such as Sulphuric acid, 
+Nitric acid and Ammonia slashed to 5 per cent from 18 
+per cent.
+Auto & Auto Parts
+•	
+GST on small cars, motorcycles (350cc & below) and 
+three-wheelers is reduced to 18 per cent from 28 per 
+cent. GST on buses, trucks and ambulances is reduced to 
+18 per cent from 28 per cent.
+•	
+Uniform 18 per cent GST rate on all auto parts irrespective 
+of their HS code.
+•	
+Motorcycles (>350cc) and cars outside small cars 
+definition have been moved to the 40 per cent slab. 
+However, cess imposed on luxury cars has been removed.
+Electronic Appliances
+•	
+ACs, TVs (larger than 32 inches), dishwashing machines, 
+monitors and projectors set to attract an 18 per cent GST 
+rate compared to 28 per cent earlier.
+Textile & Labour- 
+Intensive Goods
+•	
+GST rate reduction on man-made fibres from 18 per cent 
+to 5 per cent and man-made yarn from 12 per cent to 5 
+per cent.
+•	
+GST on labour-intensive goods such as handicrafts, 
+marble and intermediate leather goods was lowered to 5 
+per cent from 12 per cent.
+Everyday essentials & food
+•	
+5 per cent GST rate on hair oil, toilet soap bars, 
+shampoos, toothbrushes, toothpaste, bicycles, tableware, 
+kitchenware and other household articles; these items 
+were either in the 18 per cent or 12 per cent GST bracket 
+earlier.
+•	
+Zero GST on Ultra-High Temperature (UHT) milk, all 
+Indian breads, and pre-packaged and labelled paneer.
+•	
+GST lowered to 5 per cent on almost all food items such 
+as packaged namkeens, instant noodles, chocolates, 
+coffee, preserved meat, butter, ghee, etc. Earlier, these 
+items were subject to a GST rate of 12 per cent or 18 per 
+cent.
+
+Economic Survey 2025-26
+46
+46
+Medicines &
+Medical
+Equipment
+•	
+Zero GST on select lifesaving drugs & 
+medicines.
+•	
+GST on all other drugs & medicines slashed to 
+5 per cent from 12 per cent.
+•	
+5 per cent GST on (a) Medical apparatus 
+& devices and (b) Medical equipment and 
+supplies.
+Hotel &
+Personal
+Services
+•	
+Hotel accommodation services (value less 
+than or equal to ₹7,500 per unit per day) to be 
+subject to lower GST of 5 per cent from 12 per 
+cent earlier.
+•	
+Beauty and physical well-being services (gyms, 
+salons, barbers, yoga centres, etc.) to see a 
+lower GST rate of 5 per cent from 18 per cent.
+Insurance Policies
+•	
+GST exemption to all individual life and health 
+insurance policies as well as to reinsurance of 
+these individual policies.
+The reduction in the tax burden on essential goods, services, and emerging sectors is expected 
+to lower the cost of living, improve affordability, and stimulate household consumption 
+demand. At the same time, the move towards a simplified two-rate structure is expected 
+to reduce transaction costs, ease compliance, and encourage small businesses to enter the 
+formal sector, thereby supporting greater formalisation and widening of the tax base.
+Through targeted rate reductions across key sectors, the reform is expected to enhance 
+trade competitiveness and support domestic manufacturing. Lowering the GST on cement 
+and construction materials is expected to reduce project costs and support real estate 
+and infrastructure activities. The reduction in GST on small cars, two-wheelers, and auto 
+parts is expected to boost demand and strengthen India’s automotive manufacturing base. 
+Reducing GST to zero per cent on select life-saving drugs and 5 per cent on medical devices 
+is likely to improve healthcare access while encouraging domestic production. Similarly, 
+the shift to a 5 per cent GST rate on toys, handicrafts, and man-made fibres is expected 
+to support labour-intensive MSMEs and expand export potential, collectively reinforcing 
+growth and investment momentum under the reformed GST regime. Beyond growth and 
+formalisation, reduction of GST on solar, wind and related renewable devises from 12 per 
+cent to 5 per cent, in addition to lowering GST on biodegradable bags from 18 per cent to 
+5 per cent is a major push towards advancing India’s climate goals by making renewable 
+energy, waste management, biodegradable products, and green mobility more affordable 
+and within reach. 
+Aligned with the Viksit Bharat 2047 vision, GST 2.0 also strengthens India’s position as a 
+global manufacturing and investment destination. The inverted duty structure (IDS) under
+
+Fiscal Developments
+47
+47
+GST, where tax rates on inputs exceed those on outputs, can be structurally eliminated by 
+taxing inputs and intermediate goods at lower rates and placing items of final consumption 
+at relatively higher rates. Keeping in view the need for a calibrated reform approach, next-
+generation GST reforms have already corrected inverted duty in key labour-intensive and 
+agri-input sectors such as textiles and fertilisers, thereby reducing cost and working capital 
+pressures in these sectors. Further, items rationalised from 12 per cent to 5 per cent or 
+to the nil rate largely pertain to goods of mass and daily consumption. Any residual IDS 
+issues arising from such rationalisation are being addressed through faster, fully automated 
+refunds of unutilised Input Tax Credit (ITC), thereby alleviating working capital stress. 
+Going forward, policy options such as permitting IDS refunds on capital goods and input 
+services may be examined to preserve tax neutrality without significant revenue erosion.
+Recent trends in high-frequency indicators, including higher e-way bill generation, improved 
+Purchasing Managers’ Index (PMI) readings for manufacturing and services, record festive-
+season automobile sales, robust UPI transactions, and increased tractor sales, indicate a 
+strengthening economic momentum during September-December 2025, following the 
+implementation of GST reforms.
+2.17	 With the introduction of GST in 2017, the abolition of physical check-posts across 
+States marked a major structural reform, significantly improving the free movement 
+of goods and reducing transit delays. The e-Way Bill system emerged as an effective 
+digital substitute, enabling online tracking of goods movement while supporting tax 
+administration objectives without reintroducing physical barriers at the State borders. 
+Technology has evolved over time, as have the needs of modern business and logistics. 
+Mobile-based checks of e-Way Bills at interior points may, at times, lead to avoidable 
+disruptions in logistics and compliance friction for bona fide trade.
+2.18	The next wave of GST reforms could, therefore, focus on reimagining the e-Way 
+Bill system as a facilitator of smooth logistics rather than only as a tool for enforcement 
+and control, in line with the changing needs of businesses and supply chains. As in 
+the case of NUDGE (Box II.1), policy design could increasingly rely on trust-based 
+and technology-driven compliance models, such as a “trusted dealer” framework, 
+under which taxpayers with a strong compliance record face minimal physical checks 
+and enjoy greater certainty in the movement of goods. At the same time, wider use 
+of e-seals and electronic locking systems, integrated with e-Way Bills and vehicle-
+tracking technologies, can ensure secure, end-to-end tracking of consignments without 
+routine stoppages on the road. State Governments, which play a key role in field-level 
+enforcement, would be central to this transition by shifting towards risk-based, system-
+generated alerts and limiting discretionary checks. Together, these reforms would 
+amount to a significant deregulation of the logistics ecosystem, reducing costs and delays 
+for trade while maintaining effective, non-intrusive oversight for tax administration.
+
+Economic Survey 2025-26
+48
+48
+Non-tax revenues buoyed by rising dividends and profits
+2.19	The non-tax revenues of the Centre, as a percentage of GDP, have broadly remained 
+stable at around 1.4 per cent of GDP in the post-pandemic period, in line with the pre-
+pandemic average, thereby providing steady support to the Centre’s revenue receipts. 
+This stability has been underpinned largely by a surge in dividends and profits, which grew 
+by over 70 per cent annually during the last two years (Table II.2). The increase reflects 
+higher surplus transfers from the RBI, along with improved financial performance of 
+public sector banks and financial institutions. During FY26, RBI approved a surplus 
+transfer of ₹2.68 lakh crore to the Central Government for the accounting year FY25, 
+which is about 27 per cent higher than the dividend of ₹2.19 lakh crore paid in the 
+previous year. As a result, during April to November 2025, non-tax revenues registered 
+a growth of 20.9 per cent, reaching 88.6 per cent of the Budget Estimates for the year. 
+Among “other” components of non-tax revenue, economic services accounted for a 
+significant share, with major contributions from communication, roads and bridges.
+Table II.2: Trends in non-tax revenue of the Centre (in ₹ lakh crore)
+FY22
+FY23
+FY24
+FY25 PA
+FY26 BE
+Interest receipt
+0.22
+0.28
+0.38
+0.41
+0.48
+Dividends and Profits
+1.61
+1.00
+1.71
+3.08
+3.25
+External grants
+0.01
+0.02
+0.01
+0.01
+0.01
+Others
+1.81
+1.55
+1.92
+1.87
+2.09
+Total
+3.65
+2.85
+4.02
+5.38
+5.83
+Source: Union budget documents and CGA.
+Note: Other non-tax revenues include user charges, licence fees, royalties, fines and penalties, receipts from 
+economic and general services etc.
+2.20	The improved performance of Central Public Sector Enterprises (CPSEs) has 
+also contributed to the growth in the Centre’s non-tax revenues. Between FY20 and 
+FY25, the gross turnover per CPSE increased by approximately 32 per cent, while net 
+profits and dividends per CPSE went up by 174 per cent and 69 per cent respectively 
+(Table II.3), reflecting operational efficiency and effective capital management of 
+PSUs. This has also helped to protect the interests of minority stakeholders in CPSEs.
+Table II.3: Key metrics of CPSEs' performance over 5 years
+FY20
+FY25
+No. of Operating CPSEs
+256
+291
+Total Gross Turnover (₹ lakh crore)
+24.62
+37.01
+Net profit (₹ lakh crore)
+0.93
+2.91
+Dividend (₹ lakh crore)
+0.72
+1.39
+Source: Department of Public Enterprises.
+
+Fiscal Developments
+49
+49
+Non-debt capital receipts
+2.21	Receipts from asset and equity monetisation are an important component of the 
+Government’s non-debt capital receipts. During FY26 (up to 31 December 2025), the 
+disinvestment activity remained focused on market-based transactions aligned with 
+valuation discipline and minimum public shareholding norms. Three OFS transactions 
+were undertaken – in Mazagon Dock Shipbuilders Limited, Bank of Maharashtra and 
+Indian Overseas Bank. These OFS transactions together mobilised around ₹7,717.02 
+crore. In addition, remittances from SUUTI12 totalled approximately ₹1,051 crore 
+during the year. InvIT-based monetisation yielded ₹18,837 crore. 
+2.22	Strategic disinvestment has progressed in a calibrated manner over recent years. 
+Since 2016, in-principle approval has been accorded for strategic disinvestment for 36 
+CPSEs, of which 13 transactions have been completed, with the remainder at various 
+stages of implementation. During FY26, approvals were also accorded for stake dilution 
+or exit from select joint ventures, including NTPC’s divestment from Utility Powertech 
+Limited. These actions were complemented by governance reforms that empowered 
+CPSE Boards to undertake the closure, merger, or disinvestment of subsidiaries. 
+2.23	Going forward, receipts from equity monetisation can be strengthened by 
+selectively reducing Government equity in certain CPSEs beyond the minimum public 
+shareholding norms13, guided by market conditions and enterprise-specific factors. 
+Currently, in about 30 per cent of listed CPSEs, Government shareholding is already 
+below 60 per cent, limiting further disinvestment through OFS, as it is stipulated in 
+the Companies Act that a ‘government company’ must have at least 51 per cent of its 
+stake held by the central or state government. Since effective control requires only 
+about a 26 per cent stake, the Government could consider amending the definition of 
+“Government Company” under the Companies Act, limited to listed entities, to allow 
+them to remain as government companies with a minimum of 26 per cent ownership, 
+thereby retaining special resolution rights, while enabling the government to monetise 
+its stake. Alternatively, if the objective is eventual privatisation, the Government could 
+continue phased OFS below 51 per cent and even towards full exit, without changing 
+the legal definition of “government company”. This would enable CPSEs to function 
+post-disinvestment as professionally managed entities with dispersed ownership, 
+clear governance standards, and transparent succession frameworks. A portion of 
+disinvestment receipts could also be earmarked for strategic investments in emerging 
+technology and innovation-driven companies through professionally managed 
+platforms such as the National Investment and Infrastructure Fund (NIIF), thereby 
+12	 Specified Undertaking of Unit Trust of India (SUUTI) was created during the bifurcation of the erstwhile UTI 
+into two parts i.e. SUUTI & UTI-AMC - with effect from 01.02.2003. SUUTI managed the failed schemes and 
+refund to investors. It still holds some stake in companies like NSDL, ITC etc. 
+13	 Which says that at least 25 per cent of shares in a listed company have to be held by public shareholders.
+
+Economic Survey 2025-26
+50
+50
+recycling public capital toward future growth sectors. This will also ensure a steady 
+stream of disinvestment receipts into the future.14
+Trends in expenditure
+Continued rationalisation in revenue expenditure
+2.24	As fiscal deficits consolidated in the aftermath of successive economic shocks, 
+a significant part of the adjustment has been achieved through the rationalisation of 
+revenue expenditure. The revenue expenditure has moderated from 13.6 per cent of 
+GDP in FY22 to 10.9 per cent in FY25, which is lower than the pre-pandemic average of 
+11.1 per cent of GDP, thereby creating space for more productive capital expenditure.
+2.25	A large share of revenue expenditure, covering salaries, pensions, interest payments, 
+and defence, is committed in nature, highlighting the importance of rationalising 
+discretionary spending, particularly subsidies, to create fiscal space. Expenditure on 
+major subsidies (See Table II.4), which rose during the pandemic, declined from 1.9 per 
+cent of GDP in FY22 to 1.2 per cent in FY25 and is budgeted at 1.1 per cent of GDP in 
+FY26. This consolidation has been achieved alongside a continued commitment to food 
+security, with about 78.9 crore beneficiaries receiving free food grains as of October 
+2025.15 
+Table II.4: Revenue Expenditure (₹ lakh crore)
+FY22
+FY23
+FY24
+FY25 PA
+FY26 BE
+Pay & Allowances
+2.49
+2.69
+2.92
+3.31*
+3.52
+Pension
+1.99
+2.42
+2.38
+2.74
+2.77
+Major subsidies
+4.46
+5.31
+4.12
+3.88
+3.83
+of which
+ 
+ 
+ 
+ 
+	
+Fertilizer
+1.54
+2.51
+1.88
+1.74
+1.68
+	
+Food 
+2.89
+2.73
+2.12
+2.00
+2.03
+	
+Petroleum
+0.03
+0.07
+0.12
+0.14
+0.12
+Interest payments
+8.05
+9.29
+10.64
+11.16
+12.76
+Defence services
+2.29
+2.56
+2.90
+2.91
+4.92
+Others
+12.73
+12.26
+11.98
+12.04
+11.64
+Total
+32.01
+34.53
+34.94
+36.04
+39.44
+Source: Union budget documents and CGA.
+Note: *FY25RE.
+14	 by cashing out when valuations are attractive for such companies as they mature.
+15 Under the NFSA, 2013, with the provision extended for five years from January 2024 to 2029, at an estimated 
+cost of ₹11.80 lakh crore, fully funded by the Central Government.
+
+Fiscal Developments
+51
+51
+2.26 In addition to streamlining the design of subsidy schemes, efficiency gains from 
+the Direct Benefit Transfer (DBT) framework have played a key role in reducing subsidy 
+outlays by curbing fiscal leakages, estimated at ₹3.48 lakh crore over the past decade.16 
+These gains have been made possible by improved targeting, even as beneficiary coverage 
+expanded nearly sixteen-fold from about 11 crore to 176 crore over the past decade. The 
+efficiency gains are evident across major schemes, including PDS, MGNREGA17, PM-
+KISAN and fertiliser subsidies.18 An issue that remains to be addressed is cross-subsidy 
+in the railway traffic and power sectors (See Box II.3). 
+Box II.3: Cross Subsidies in railway traffic and power distribution
+For FY23, freight earnings accounted for about 68 per cent of the gross traffic receipts of 
+Railways, largely reliant on coal transportation. The profit from freight traffic was utilised to 
+offset the loss on passenger and other services, leaving an uncovered loss of ₹5257 crore from 
+passenger operations19. CAG20 has recommended critically analysing the cost of passenger 
+operations, taking steps to reduce its losses, and diversifying its freight basket to enhance 
+freight earnings. During the last 5 years, the passenger fare has been rationalised on three 
+occasions i.e., on 1 January 2020, 1 July 2025 and 26 December 2025, and consequently, the 
+share of freight earnings in gross traffic receipts has declined gradually from 68 per cent in 
+FY 23 to 65 per cent in FY25 and is budgeted to be 62 per cent in FY26. 
+High freight rates, due to cross-subsidisation, distort competition with roads, inflating 
+commodity and consumer prices, as well as logistics costs. Rationalising freight rates could 
+improve revenue buoyancy, incentivise a modal shift of freight from roads to rail, and 
+increase market share. This, in turn, would stimulate economic activity, green the transport 
+sector, and decongest road space.
+In India's power sector, cross-subsidisation primarily involves charging higher tariffs to 
+industrial and commercial consumers (subsidising categories) to offset lower tariffs for 
+domestic and agricultural users (subsidised categories). This is structured through category-
+wise subsidies, where the average billing rate (ABR) for the former category exceeds the average 
+cost of supply (ACoS), while the latter pays below ACoS. The Electricity Act, 2003, requires 
+SERCs to progressively reduce cross subsidies in 10 tariffs so as to ensure that they reflect the 
+cost of supply.21 However, in some states, for certain categories, ACoS coverage exceeds the ±20 
+per cent limit specified in the Tariff Policy.22 
+16 Source: https://tinyurl.com/5n8vjva4.
+17 The Viksit Bharat – Guarantee for Rozgar and Ajeevika Mission (Gramin) (VB-G RAM G) Act, 2025 was enacted 
+in December 2025, replacing the MGNREGA.
+18 See footnote 16.
+19	 According to the Ministry of Railways, based on the operating ratio in 2022-23 (98.1%), net revenue could be 
+treated as (+) ₹2,517 Cr.
+20 Comptroller and Auditor General of India. (2025). Report No. 9 of 2025: Union Government (Ministry of 
+Railways). https://tinyurl.com/3n6s8hye.
+21	 CRISIL Infrastructure Advisory. (2019). Final report of the research study on diagnostic study for power 
+distribution. NITI Aayog. https://tinyurl.com/mrxjyv5c.
+22 Forum of Regulators. (2015). Report on road map for reduction in cross subsidy.  https://tinyurl.com/4eu2znrp. 
+
+Economic Survey 2025-26
+52
+52
+Accordingly, the Electricity (Amendment) Bill, 2025, was introduced to address deep-
+rooted inefficiencies, alleviate financial strain on the power sector, promote competition, 
+and optimise network costs across India’s power distribution sector. It aims to transform 
+the existing market structure by rationalising cross-subsidies, promoting cost-reflective 
+tariffs, and enabling direct power procurement by industrial users. It mandates that the 
+tariff must reflect the cost of supplying electricity.  It also requires that cross-subsidies 
+paid by manufacturing enterprises, railways, and metro railways must be fully eliminated 
+within five years.23 Going forward, a balanced approach could include rationalising tariffs 
+for subsidised categories by introducing phased rates and quotas, as well as voluntary and 
+category- based exclusions.
+2.27	Interest payments, another major component of the Centre’s revenue expenditure, 
+increased from an average of about 3.1 per cent of GDP in the pre-pandemic years to 
+around 3.4 per cent of GDP in the post-pandemic period, reflecting higher borrowing 
+undertaken to support economic recovery during the pandemic. Interest payments 
+account for approximately 36.8 per cent of the net revenue receipts to the Centre24 in 
+FY25(PA). Going forward, interest costs are expected to be contained through active 
+debt management measures being undertaken by the Government, such as switch 
+and buyback operations, and calibrated issuance across the yield curve. In parallel, 
+sustained direct and indirect tax reforms are expected to strengthen revenue flows in 
+the medium term, thereby directly reducing incremental borrowing requirements and, 
+in turn, the interest burden as fiscal consolidation progresses. 
+2.28	The government could also adopt measures to enhance the efficiency of its 
+collections by making them real-time (such as requiring banks to remit TDS on a real-
+time basis instead of in batches) and, if necessary, engage a treasury manager to invest 
+its short-term surpluses in liquid instruments, thereby earning more return on its 
+cash balances. The Government has already undertaken significant process reforms to 
+improve the efficiency, timing, and transparency of fund releases, and while incurring 
+expenditures, details of some of which are outlined in Box II.4 below.
+Box II.4: Tech-driven solutions for improving efficiency in  
+public expenditures
+Just-in-Time (JIT) Fund Release Reforms 
+The Central Government has undertaken a major public financial management reform by 
+shifting to a Just-in-Time (JIT) fund release system to improve cash management, reduce 
+idle balances, enhance transparency, and strengthen expenditure efficiency. This reform
+23	https://tinyurl.com/262nrpsh.
+24 Net revenue receipts to the Centre = Net tax revenue to the Centre + Centre’s non-tax revenue.
+
+Fiscal Developments
+53
+53
+replaces the earlier credit-push model of bulk fund releases with a debit-pull model, under 
+which funds are released only when expenditure is incurred. JIT has been implemented 
+through two key initiatives:
+SNA-SPARSH (Single Nodal Account-Samyochit Pranali Ekikrit Shighra Hastantaran) for 
+Centrally Sponsored Schemes (CSS) and the Treasury Single Account (TSA) and TSA Hybrid 
+models for Central Sector (CS) schemes.
+The reform was necessitated by large idle balances parked with implementing agencies, 
+averaging about ₹1.6 lakh crore under CSS, leading to inefficiencies, fund diversion risks, 
+and high opportunity costs (particularly when government borrowing rates are around 7 per 
+cent per annum). Launched in 2023, SNA-SPARSH enables JIT release of the Central share of 
+CSS directly from RBI accounts against actual expenditure based on prior mother sanctions 
+issued, thereby eliminating bulk transfers and preventing fund diversion. Integrated with 
+Public Financial Management System (PFMS), State FMIS, and RBl's e-Kuber, it now 
+covers all 28 States, 3 UTs, and 73 CSS including umbrella schemes (as of 15.01.2026). SNA 
+balances declined sharply from ₹1.67 lakh crore in April 2024 to ₹1.22 lakh crore in April 
+2025 and to about ₹0.4 lakh crore as on 15.01.2026, generating significant interest savings 
+and reducing reliance on short-term borrowings.
+For Central Sector schemes, TSA extends JIT principles by eliminating advance transfers to 
+implementing agencies, with funds drawn directly from RBI accounts through assignment 
+limits. From FY25, all CS schemes with outlays of ₹100 crore or more are covered. The 
+TSA Hybrid model addresses schemes involving private or lower-tier agencies by ensuring 
+immediate, JIT transfers for payments. As on 15.01.2026 for FY26, 157 schemes are covered 
+under TSA CS, with assignments of ₹3.09 lakh crores issued and ₹2.45 lakh crores of 
+expenditure incurred. For TSA OCE (other central expenditure), the number of schemes 
+covered stands at 93, with assignments of ₹0.9 lakh crore issued and ₹0.79 lakh crores of 
+expenditure incurred, alongside substantial savings in interest costs.
+Tech-driven solutions in the Public Distribution System (PDS) supply chain
+Route Optimisation in the Public Distribution System (RO-PDS) in India is a strategic initiative 
+to improve efficiency and reduce costs by using optimisation algorithms developed by IIT-
+Delhi and the UN World Food Programme. These algorithms define optimal warehouse-to-
+warehouse and warehouse-to-Fair Price Shop (FPS) routes, lowering transportation costs, 
+saving time, and ensuring timely delivery of food grains through operations research.
+Within a year, route optimisation assessments were completed across 31 States/Union 
+Territories (UTs), with estimated annual transportation savings of about ₹250 crore. 
+Interstate optimisation for moving food grains from surplus to deficit states was also 
+achieved by integrating the Freight Operating Information System (FOIS) of Centre for 
+Railway Information Systems (CRIS) with the indigenous PM Gati Shakti Master Plan 
+Platform for distance optimisation.
+The initiative delivers both economic and environmental benefits. Since food miles contribute 
+nearly one-fifth of global food system emissions, optimising PDS routes helps reduce fuel
+
+Economic Survey 2025-26
+54
+54
+use and CO₂ emissions, supporting India’s Paris Agreement and COP commitments, 
+conserving foreign exchange, and promoting a climate-smart food supply chain. States 
+reduced average transport distances by up to 50 per cent and CO₂ emissions by up to 35 per 
+cent.
+Building on these results, optimisation plans for the Kharif Marketing Season 2025–26 
+have been developed for 10 paddy-procuring states. RO-PDS also seeks to minimise human 
+intervention that increases costs and pilferage. State governments have been provided the 
+Anna Chakra Optimisation Tools, while FCI has received the Rake Optimisation Tool to 
+automate and optimise grain supply chain decisions nationwide, aligned with the PM Gati 
+Shakti initiative.
+Capital expenditure
+2.29	The Centre has progressively scaled up capital expenditure from an average of 1.7 
+per cent of GDP in the pre-pandemic period to an average of 2.9 per cent of GDP in 
+the years after the pandemic (Chart II.5). At the same time, effective capex, a broader 
+measure which includes capital expenditure along with grants-in-aid for the creation 
+of capital assets, increased from an average of 2.7 per cent of GDP to 3.9 per cent of 
+GDP over the same period, and further to 4 percent in FY25 (PA). These grants-in-
+aid have supported asset creation in key areas, including urban and housing affairs, 
+the Jal Jeevan Mission, and rural development. The sustained expansion of the capital 
+component, achieved alongside declining revenue and fiscal deficits, reflects a deliberate 
+rebalancing of expenditure towards asset-creating outlays (Chart II.6).
+Chart II.5: Trends in effective capex
+Chart II.6: Capex as a share of total 
+expenditure
+3.4
+10.5 11.2
+1.9
+2.7
+4.3
+4.0
+4.3
+0
+1
+2
+3
+4
+5
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+FY20
+FY21
+FY22
+FY23
+FY24
+FY25PA
+FY26BE
+per cent of GDP
+₹ lakh crore
+Grant-in-aid for capital assets
+Capex
+Effective capex (RHS) as per cent of GDP
+ 
+12.5
+22.1
+19.4
+30.6
+0
+5
+10
+15
+20
+25
+30
+35
+FY20
+FY21
+FY22
+FY23
+FY24
+FY25PA
+FY26BE
+as per cent of TE
+Capex as per cent of TE
+Effective capex as per cent of TE
+Source: Union Budget documents, CGA and MoSPI.
+Source: GST Council, Ministry of Finance.
+Note: TE- Total Expenditure.
+
+Fiscal Developments
+55
+55
+2.30	Emphasis on asset creation is also reflected in the composition of capital expenditure 
+across key infrastructure sectors. Road transport and highways, along with railways, 
+continued to account for over half of total capital expenditure through FY25(PA). At the 
+same time, allocations towards transfers to States, telecommunications, and housing 
+and urban affairs recorded robust double-digit growth, leading to a higher share for 
+these sectors in overall capex.
+Table II.5: Capital expenditure by the Centre
+FY24
+FY25 PA
+₹ lakh crore
+YoY growth
+(per cent)
+Road Transport and Highways
+2.64
+2.85
+8.1
+Railways
+2.43
+2.52
+3.9
+Defence
+1.65
+1.71
+3.7
+Transfer to States
+1.23
+1.66
+34.9
+Telecommunications
+0.59
+0.74
+24.4
+Housing and urban affairs
+0.26
+0.32
+19.6
+Others
+0.69
+0.73
+5.0
+Total
+9.49
+10.52
+10.8
+Source: Union budget documents and CGA.
+Trends in expenditure in FY26
+2.31	During the current fiscal year, capex recorded a strong rebound, rising by 28 per 
+cent YoY as of the end of November 2025 (Chart II.7). This amounted to nearly 59 per 
+cent of the budgeted allocation for capex, which was in line with the trends in FY24 
+(FY25 had a lower expenditure rate in the first half as it was an election year). On 
+the other hand, revenue expenditure grew by only 1.8 per cent during the first eight 
+months of the year, reflecting a continued commitment to fiscal con

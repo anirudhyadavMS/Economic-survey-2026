@@ -1,0 +1,2072 @@
+{
+  "chapter_number": 12,
+  "chapter_title": "Employment & Skills: Skilling Right",
+  "summary": [
+    "11.77. Expanding the scope of Tele-MANAS to address digital addiction represents a natural evolution of India’s national tele-mental health programme. Training dedicated counsellors and integrating Tele-MANAS with school and college systems can improve access, normalise help-seeking, and enable early intervention.",
+    "OUTLOOK 11.78. India's health and education sectors require unwavering focus to unlock the nation's true potential, especially in addressing interconnected new emerging issues such as the double burden of CDs and NCDs, increasing digital addiction, concerning mental health issues, poor nutrition, and increasing obesity. Together, they threaten the demographic dividend by perpetuating cycles of unemployment, inequality, and lost productivity. Open acknowledgement and constructive public discussion are important initial steps in addressing these challenges and promoting effective solutions.",
+    "Normalising conversations around mental health, screen-time habits, and lifestyle- related health issues can help foster collective awareness and action",
+    "11.79. Technology-driven surveys using platforms like the UDISE+, AISHE, ABDM and integration of AI tools can identify 'health hotspots' such as prevalence of obesity in urban slums or rising digital addiction in peri-urban schools. Public-private partnership can help develop frontline workers-led initiatives in India, employing technology like mobile apps, AI chatbots (ASHABot166), and digital dashboards (e.g., ASHA Kirana's",
+    "M-CAT167 and ASHA Digital Health168), to effectively manage chronic conditions such as diabetes, monitor infectious diseases including COVID-19, and enhance maternal and child health outcomes.169 Running nationwide campaigns on Doordarshan and social media to highlight role models who inspire change in health and education efforts can be helpful.",
+    "11.80. In sum, prioritising education, skilling, digital wellness, health, nutrition, and dietary habits through open dialogue, feedback surveys, success stories, and relatable role models will forge resilient citizens. This holistic approach would ensure a healthier, educated, skilled, thriving India.",
+    "*** 166 https://tinyurl.com/23zfftzj 167 \u0007Srinidhi V, Karachiwala B, Iyer A, Reddy B, Mathrani V, Madhiwalla N, et al. ASHA Kirana: when digital technology empowered front-line health workers. BMJ Global Health. 2021;6:e005039. https://doi.org/10.1136/ bmjgh-2021-005039",
+    "168 https://tinyurl.com/3kvabrmy 169 https://tinyurl.com/2pz6zvmj",
+    "India's workforce of over 56 crore holds tremendous potential for its economic growth. Labour market indicators point to a steady job market, with improving labour force participation, declining unemployment, and robust job creation in both the organised and unorganised sectors.",
+    "To fully harness the demographic dividend, creating quality jobs with sustainable livelihoods is essential. The government has been working towards creating decent employment opportunities through structural reforms and targeted interventions. The recently enacted Labour Codes aim to strike a balance between flexibility and workers' rights, focusing on ensuring industry competitiveness while promoting worker welfare. Structural barriers to female participation are being addressed through the provision of safe, affordable accommodation and flexible and hybrid work arrangements. There is a growing focus on expanding social security, income protection, and grievance redressal mechanisms for gig and platform workers to safeguard their well-being. While addressing the quantity of labour, it is equally important to improve its quality, as economic growth relies on both the size and capabilities of its labour force.",
+    "To achieve this, opportunities for vocational education at all levels are vital for strengthening the skill ecosystem and realising the Viksit Bharat's vision."
+  ],
+  "sections": [
+    {
+      "section_id": "12.1",
+      "title": "The labour markets in India are undergoing significant structural transformations",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "driven by digitalisation, green energy transition, and emerging forms of employment such as gig and platform work. In the post-pandemic growth phase, the emphasis has shifted from the quantity of jobs to the quality of work, reflecting a more inclusive and sustainable vision of the labour market. Recent government initiatives aimed at promoting labour-intensive sectors and strengthening skill development underscore this renewed commitment to quality employment and human capital enhancement."
+        }
+      ]
+    },
+    {
+      "section_id": "12.2",
+      "title": "India continues to benefit from a large working-age population (in the age",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "group 15-59), expected to exceed 98 crore in the next 10 years.1 According to the UN"
+        },
+        {
+          "type": "paragraph",
+          "text": "1 Report of the Technical Group on Population Projections for India and States 2011-2036, Ministry of Health &"
+        },
+        {
+          "type": "paragraph",
+          "text": "Family Welfare, July 2020 https://tinyurl.com/bdh9ahwe projections, India’s demographic dividend2 is expected to peak around 2030, when nearly 65 per cent of the population will fall within the 15-59 years group.3 At the same time, the population is gradually ageing: the total fertility rate has fallen below replacement levels and life expectancy has steadily increased, raising the median age and signalling the onset of a demographic transition towards an older population."
+        }
+      ]
+    },
+    {
+      "section_id": "12.3",
+      "title": "While the expansion of the working-age population presents opportunities, the",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "concurrent ageing trend introduces challenges for labour markets and social support systems. This demographic shift also opens the possibility of harnessing the longevity dividend.4 Realising this dividend requires policies that extend health spans through preventive healthcare, healthy lifestyles, and management of non-communicable diseases (NCDs), alongside financial support, accessible healthcare, and social services for older adults. Epidemiological reports also indicate a rise in NCDs such as cardiovascular disorders, diabetes, and mental health challenges among the productive age groups. This concern has been discussed in detail in Chapter 11 of this Economic"
+        },
+        {
+          "type": "paragraph",
+          "text": "Survey. Investments in biomedical research, lifelong learning5, age-friendly work arrangements, and targeted programmes for informal and unorganised workers will ensure that longer life spans translate into sustained productivity and social well-being.6"
+        }
+      ]
+    },
+    {
+      "section_id": "12.4",
+      "title": "The Economic Survey 2024-25 highlighted the need for deregulation in the",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "labour market to enable a virtuous cycle of job creation and the need to address the skill mismatch in the labour market to improve the employability of the workforce. Skilling initiatives in employment not only bridge skill gaps and enhance productivity and decent work opportunities, but they also catalyse social mobility by enabling upward economic progression, thereby fostering greater equality in access to inclusive labour markets. Chapters 11 and 13 of this survey discuss the role of education, healthcare, community development, and infrastructure development in enhancing human capacity and promoting social mobility. It also highlights how the state can effectively utilise these policy tools to achieve more equitable outcomes."
+        }
+      ]
+    },
+    {
+      "section_id": "12.5",
+      "title": "This Chapter concentrates on supply-side policy levers to support inclusive",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "employment development. An analysis of the employment landscape of the economy and the drivers of a more inclusive labour market has been presented. The first section examines the state of employment, focusing on the sectoral and gender distribution"
+        },
+        {
+          "type": "paragraph",
+          "text": "2 The demographic dividend refers to the economic growth potential arising from a shift in a country’s age structure, where the working-age population (15 to 64 years) outnumbers the non-working-age groups."
+        },
+        {
+          "type": "paragraph",
+          "text": "3 World Population Prospects: https://tinyurl.com/5ept2hye 4 The longevity dividend refers to the economic and societal benefits gained from longer, healthier, and more productive lives. ESG Sustainability Directory. (n.d.). Longevity Dividend → Term. https://esg.sustainability- directory.com/term/longevity-dividend/"
+        },
+        {
+          "type": "paragraph",
+          "text": "5 Lifelong learning is the continuous process of acquiring knowledge and skills across all ages, education levels, environments, and purposes. It encompasses formal, non-formal, and informal learning in various settings, including schools, workplaces, communities, and online platforms"
+        },
+        {
+          "type": "paragraph",
+          "text": "6 Scott, A., & Piot, P. (2025, June). The longevity dividend. Finance & Development, International Monetary Fund."
+        },
+        {
+          "type": "paragraph",
+          "text": "https://tinyurl.com/4z2je65v Employment and Skill Development of the workforce. It discusses policy suggestions for boosting female labour force participation and increasing involvement in the manufacturing sector. The second section examines how the recently notified Labour Codes can catalyse job creation. It also discusses the evolving nature of the gig workforce. The third section addresses the challenge of re-strategising the vocational education framework to prepare the youth for the evolving demands of industry. The last section concludes with an outlook for employment and skilling landscape."
+        },
+        {
+          "type": "heading",
+          "text": "EMPLOYMENT OVERVIEW"
+        }
+      ]
+    },
+    {
+      "section_id": "12.6",
+      "title": "Employment is not a standalone metric but a downstream result of a thriving",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "economy. As the 'State of Economy' chapter 1 of the Survey describes, India’s economic growth remains resilient and stable, leading to improved employment opportunities and better labour market parameters. Over the past year, India has introduced several significant reforms, including a major overhaul of its tax regime and various deregulation measures (discussed in Chapter 16, Part II of this survey) aimed at boosting business growth and job creation."
+        }
+      ]
+    },
+    {
+      "section_id": "12.7",
+      "title": "As a result of these reforms, the labour market continues to show steady activity",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "as revealed by official monthly and quarterly Periodic Labour Force Survey (PLFS) data alongside the establishment-level data from the Annual Survey of Industries (ASI) for the manufacturing sector and the Quarterly Bulletin of Unincorporated Sector"
+        },
+        {
+          "type": "paragraph",
+          "text": "Enterprises (QBUSE) for the non-agricultural sector. Together, these sources highlight improving labour force participation, falling unemployment, and strong job creation in both the organised and unorganised sectors."
+        }
+      ]
+    },
+    {
+      "section_id": "12.8",
+      "title": "The quarterly and monthly PLFS data show a steady labour market with seasonal",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "variations.7 It indicates that the period from April to September 2025 (H1 FY26) saw a declining unemployment rate (UR)8 in the current weekly status (CWS)9 with a stabilising labour force participation rate (LFPR)10, and substantial employment levels, signalling an improvement in employment conditions. A total of 56.2 crore people (aged"
+        },
+        {
+          "type": "paragraph",
+          "text": "15 years and above) were employed in Q2 (July to September 2025) FY26, reflecting a creation of 8.7 lakh new jobs in Q2 compared to Q1 (April to June 2025) of FY26.11"
+        },
+        {
+          "type": "paragraph",
+          "text": "7 The Ministry of Statistics and Programme Implementation (MoSPI) published the first monthly bulletin of the revised PLFS in April 2025. The bulletin presents key labour market indicators, for both rural and urban areas, based on the Current Weekly Status (CWS) of individuals. Along with the monthly PLFS, MoSPI has revamped the quarterly survey to include all-India and rural estimates, as well as urban estimates. https://tinyurl.com/ ap6twwkw"
+        },
+        {
+          "type": "paragraph",
+          "text": "8 UR is defined as the percentage of persons unemployed among the persons in the labour force."
+        },
+        {
+          "type": "paragraph",
+          "text": "9 The activity status determined on the basis of a reference period of the last 7 days preceding the date of the survey is known as the CWS of the person."
+        },
+        {
+          "type": "paragraph",
+          "text": "10 LFPR is defined as the percentage of persons in the labour force (i.e. working or seeking or available for work) in the population."
+        },
+        {
+          "type": "paragraph",
+          "text": "11 PLFS Quarterly bulletin July- September 2025: https://tinyurl.com/3bn85esj Chart XII. 1: Labour market dynamics for H1 FY26"
+        },
+        {
+          "type": "paragraph",
+          "text": "FY26 56.1 55.0 55.1 April May June July August September October November December"
+        },
+        {
+          "type": "paragraph",
+          "text": "Labour force participation rate ( per cent) LFPR Q1 FY26 Q2 FY26 5.1 5.6 5.6 5.2"
+        },
+        {
+          "type": "paragraph",
+          "text": "5.1 5.2 5.2 4.7 4.8 5.4 5.2 April May June July August September October November"
+        },
+        {
+          "type": "paragraph",
+          "text": "December Unemployment rate ( per cent) Q1 FY26 Q2 FY26 FY26 Chart XII. 2: Labour market dynamics in H1 FY26: Industry distribution"
+        },
+        {
+          "type": "paragraph",
+          "text": "31.9 34.8 56.6 59.1 39.5 42.4 31.1 28.5 16.6 14.6 26.6 24.2 37.1 36.7 26.7 26.3 33.9"
+        },
+        {
+          "type": "paragraph",
+          "text": "33.5 Q1 FY26 Q2 FY26 Q1 FY26 Q2 FY26 Q1 FY26 Q2 FY26 Male Female Person Indstry distribution ( per cent of workforce)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Agriculture sector Secondary sector along with mining and quarrying Tertiary sector"
+        },
+        {
+          "type": "paragraph",
+          "text": "Chart XII. 3: Labour market dynamics in H1 FY26: Status 41.3 43.2 33.7 34.7 39.0"
+        },
+        {
+          "type": "paragraph",
+          "text": "40.6 7.5 7.8 28.8 28.8 14.1 14.3 27.3 27.2 21.4 21.3 25.5 25.4 22.4 20.8 15.1 14.6"
+        },
+        {
+          "type": "paragraph",
+          "text": "20.1 18.9 Q1 FY26 Q2 FY26 Q1 FY26 Q2 FY26 Q1 FY26 Q2 FY26 Male Female Person Employment status ( per cent of workforce)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Own account worker and employer Helper in household enterprise Regular wage/salary"
+        },
+        {
+          "type": "paragraph",
+          "text": "Casual labour Employment and Skill Development"
+        }
+      ]
+    },
+    {
+      "section_id": "12.9",
+      "title": "The PLFS data reveal a distinct and layered employment structure in India,",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "marked by rural-urban differences. Rural employment is dominated by agricultural workers (57.7 per cent) and self-employment (62.8 per cent), with women workers showing relatively higher participation in them. In contrast, urban employment is primarily concentrated in the services sector (62.0 per cent), with regular wage or salaried jobs making up the largest share (49.8 per cent). At the aggregate level, in Q2"
+        },
+        {
+          "type": "paragraph",
+          "text": "FY26, agriculture and self-employment accounted for 42.4 per cent and 55.8 per cent of total employment, respectively, while casual labour constituted 18.9 per cent."
+        }
+      ]
+    },
+    {
+      "section_id": "12.10",
+      "title": "As per the latest PLFS data for Q2 FY26, despite some shifts towards non-farm",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "activities, agriculture still employs a significant share of rural workers, showing a seasonal increase tied to agrarian cycles. This highlights the crucial role of agriculture in rural employment and the necessity of designing policies that focus on decent work in this sector, particularly given its seasonal nature and the movement of workers between farm and non-farm activities.12"
+        }
+      ]
+    },
+    {
+      "section_id": "12.11",
+      "title": "These employment patterns have important gender dimensions. The proportion",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "of women engaged in self-employment or contributing to household enterprises, especially in rural areas, is relatively high. Women’s participation in regular wage jobs is 10.8 per cent in Q2 FY26 in rural areas, coinciding with a major share of women working as ‘own account workers/employers’ (37.5 per cent) or ‘helpers in household enterprises’ (34.2 per cent). These patterns highlight a tendency among female workers towards independent work and entrepreneurship, which offers flexibility. The findings of the Time Use Survey (TUS) conducted by the Ministry of Statistics and Programme"
+        },
+        {
+          "type": "paragraph",
+          "text": "Implementation (MoSPI) highlight the dual burden that female workers face in terms of caregiving activities and unpaid work, which may explain their desirability or inclination towards flexible work models (Box XII.1)."
+        },
+        {
+          "type": "paragraph",
+          "text": "females aged 15-59 years participated in caregiving for their household members; male participation in this age group was 21.4 per cent. Female participants spent about 140 minutes daily in caregiving activities, compared to 74 minutes spent by male participants aged 15-59 years.18"
+        },
+        {
+          "type": "paragraph",
+          "text": "More of the female activity time remains unpaid: Evidence from the survey highlights gender differences in participation in paid and unpaid activities. For all persons aged 6 years and above participating in unpaid activities, the average time spent on these activities per day was 278 minutes, whereas for paid activities, it was 386 minutes per day.19 Females spent, on average, 363 minutes a day on unpaid activities, while males spent only around"
+        },
+        {
+          "type": "paragraph",
+          "text": "123 minutes a day on unpaid activities. Consequently, male participants spent 414 minutes a day in paid activities, against 302 minutes spent by female participants."
+        },
+        {
+          "type": "paragraph",
+          "text": "Females balanced dual work burden: The combined time spent on paid and unpaid activities by female members is higher than that of men. Female household members spend significantly more time on unpaid activities than men. While women participating in paid work contribute a considerable amount of time, their overall participation remains lower than that of men. The estimates highlight the dual burden of work on female participants."
+        },
+        {
+          "type": "paragraph",
+          "text": "(refer to the chart below)."
+        },
+        {
+          "type": "paragraph",
+          "text": "14 In TUS, 2024, respondents were asked about their activities performed in the designated time slots of 30 minutes and the same was recorded against the corresponding slot. In case of multiple activities in a time slot, a maximum of three activities performed for 10 minutes or more were recorded. Information on time use was collected for persons aged 6 years and above with a reference period of 24 hours. This survey covered 1,39,487 households"
+        },
+        {
+          "type": "paragraph",
+          "text": "(rural: 83,247 and urban: 56,240). Information on time use was collected from each member aged 6 years and above of the selected households."
+        },
+        {
+          "type": "paragraph",
+          "text": "Time Use Survey Factsheet; January - December, 2024:"
+        },
+        {
+          "type": "paragraph",
+          "text": "https://tinyurl.com/3u6nzjhb 15 The activities reported by the respondents were codified following the International Classification of Activities for Time-Use Statistics 2016 (ICATUS 2016)."
+        },
+        {
+          "type": "paragraph",
+          "text": "16 Participation rate in a day in any activity is calculated as the percentage of persons performing that activity during the day."
+        },
+        {
+          "type": "paragraph",
+          "text": "17 Ibid note 14 above 18 Ibid note 14 above."
+        },
+        {
+          "type": "paragraph",
+          "text": "19 Average time spent in a day per participant is defined as the average time spent in an activity by those participating in that activity. It is derived by considering only the participants for those activities."
+        },
+        {
+          "type": "paragraph",
+          "text": "Employment and Skill Development prohibitions on women’s employment in designated ‘hazardous’ industries by 17 states/"
+        },
+        {
+          "type": "paragraph",
+          "text": "UTs and permitting night-time work for women in factories by around 22 states/UTs, as well as in commercial establishments by 33 states/UTs, thereby expanding employment opportunities for women while improving labour market flexibility. Chapter 16, Part II of this Economic Survey provides a detailed examination of the efforts undertaken by states to remove regulatory frictions in the labour market and unlock economic potential."
+        }
+      ]
+    },
+    {
+      "section_id": "12.12",
+      "title": "India’s vision for Viksit Bharat 2047 places women at the core of the national",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "development agenda, with progress envisioned to be women-led. Estimates suggest that increasing participation to around 55 per cent by the 2050 could be critical for maintaining a high annual GDP growth trajectory.22 While women’s participation in paid work is rising slowly, the imbalance underscores the need for policies that promote shared domestic responsibilities and better care infrastructure. Box XII.2 discusses key policy lessons for enhancing the FLFPR."
+        },
+        {
+          "type": "paragraph",
+          "text": "20 Economic Survey 2023-24: https://tinyurl.com/yty7akva 21 Economic Survey 2024-25: https://tinyurl.com/4sawwuex"
+        },
+        {
+          "type": "paragraph",
+          "text": "22 World Bank. (2024). India Country Economic Memorandum: Becoming a High-Income Economy in a Generation https://tinyurl.com/yeef6m2d care responsibilities, early marriage, and higher education costs.29 Encouraging women’s participation in STEM disciplines can help bridge the skills gap and expand their access to employment opportunities30, including white-collar services and modern manufacturing."
+        },
+        {
+          "type": "paragraph",
+          "text": "Improving urban mobility: Urban areas offer higher returns to education and better job quality. However, mobility-related barriers restrict women’s ability to take up urban employment. The use of public transportation by women in India differs significantly from that of men. Women often travel during off-peak hours, accompanied by children, and make multiple short trips to handle household chores or perform caregiving activities.31"
+        },
+        {
+          "type": "paragraph",
+          "text": "According to a World Bank study (2021), 31 per cent of women cited commuting as a barrier to working, 13 per cent reported childcare responsibilities were a barrier to commuting for"
+        },
+        {
+          "type": "paragraph",
+          "text": "23 Annual PLFS report. Reference period July-June."
+        },
+        {
+          "type": "paragraph",
+          "text": "24 MoSPI released the 26th edition of its publication titled ‘Women and Men in India 2024: Selected Indicators and"
+        },
+        {
+          "type": "paragraph",
+          "text": "Data’, in April 2025 https://tinyurl.com/yymu9m39."
+        },
+        {
+          "type": "paragraph",
+          "text": "25 Source: Annual survey of unincorporated sector enterprises (ASUSE) 2021-22 with the reference period April"
+        },
+        {
+          "type": "paragraph",
+          "text": "2021 - March 2022."
+        },
+        {
+          "type": "paragraph",
+          "text": "26 Source: Annual survey of unincorporated sector enterprises (ASUSE) 2023-24 with the reference period October"
+        },
+        {
+          "type": "paragraph",
+          "text": "2023- September 2024."
+        },
+        {
+          "type": "paragraph",
+          "text": "27 Key Employment Unemployment Indicators, PLFS 2023-24 MoSPI."
+        },
+        {
+          "type": "paragraph",
+          "text": "28 AISHE 2021-22: https://aishe.gov.in/aishe-final-report."
+        },
+        {
+          "type": "paragraph",
+          "text": "29 Women in STEM: Challenges and Opportunities in India: IWWAGE (2024)."
+        },
+        {
+          "type": "paragraph",
+          "text": "30 A Braided River: The Universe of Indian Women In science, (2021). UNESCO."
+        },
+        {
+          "type": "paragraph",
+          "text": "31 World Bank. (2023). Designing public transport in India that works for all: https://tinyurl.com/mr22s6rf."
+        },
+        {
+          "type": "paragraph",
+          "text": "Employment and Skill Development work, and 19 per cent indicated that domestic duties were a barrier to commuting for work.32"
+        },
+        {
+          "type": "paragraph",
+          "text": "The study also highlighted that a lack of security leads women to choose safer but more expensive modes of transport, a phenomenon known as the ‘Pink Tax.’33"
+        },
+        {
+          "type": "paragraph",
+          "text": "To overcome the systemic barriers women face in urban mobility, policy must focus on extending safety infrastructure and providing affordable intermediate transport to cover women's entire travel chain, from doorstep to destination. Key policy interventions could include enhancing visible women police presence for patrols in high traffic and pedestrian areas, especially during off-peak hours (like Kochi's Women Police Control Room vans and"
+        },
+        {
+          "type": "paragraph",
+          "text": "Hyderabad's SHE Teams), and increasing women drivers through targeted recruitment and training programmes (like National Capital Region Transport Corporation’s initiative to train women aged 18-35 in professional driving through a structured 21-day course, combining classroom instruction, simulators, on-road training, and licensing support)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Furthermore, the prioritisation of safe and accessible walking and cycling infrastructure in urban areas with gender-responsive elements like adequate lighting and safe crossings, and enhanced safety features (such as emergency buttons in vehicles and police verification of drivers, Chennai's inclusive street design manual and Bhubaneswar's Janpath Street) is required at scale through sustained efforts.34"
+        },
+        {
+          "type": "paragraph",
+          "text": "Affordable housing for working women: Expanding secure hostels and affordable rental housing can improve women’s access to urban jobs. At the same time, women- centric industrial clusters and manufacturing hubs can create targeted avenues for female employment. The Sakhi Niwas scheme of the Ministry of Women and Child Development is a gender-inclusive infrastructure intervention designed to create a supportive ecosystem for women navigating work and mobility. Another example is Tamil Nadu’s Working Women’s"
+        },
+        {
+          "type": "paragraph",
+          "text": "Hostels Corporation (‘Thozhi Hostels’), set up through Public Private Partnerships (PPPs), with gender-responsive design, furnished rooms, crèches, kitchens, and shared spaces, which offers a practical blueprint for states seeking to expand women’s workforce participation."
+        },
+        {
+          "type": "paragraph",
+          "text": "Care economy: Expanding the network of Anganwadi centres, integrating community crèches, and incentivising employer-linked childcare can ease the unpaid care burden."
+        },
+        {
+          "type": "paragraph",
+          "text": "Professionalising care work can also generate formal employment for women within the social sector."
+        },
+        {
+          "type": "paragraph",
+          "text": "Skill development: Aligning training programmes with industry demand, particularly in manufacturing, renewable energy, digital services, and agro-processing, can ensure that women are equipped for emerging opportunities. Initiatives such as ‘Back to Work’ and"
+        },
+        {
+          "type": "paragraph",
+          "text": "‘Returnship programmes’ for women who have taken career breaks can bridge re-entry barriers. Integrating self-help groups (SHGs) with the Micro, Small and Medium Enterprises"
+        },
+        {
+          "type": "paragraph",
+          "text": "32 World Bank. 2021. Closing the Gap: Gender, Transport, and Employment in Mumbai. https://tinyurl.com/ a6kwr93h"
+        },
+        {
+          "type": "paragraph",
+          "text": "33 The pink tax refers to the extra amount that women pay for certain products (such as used cars, personal care products, and clothing) and services (such as mortgages and dry cleaning). The pink tax on mobility refers to the fact that women may have to pay a higher price to reach the same destinations because of gender-specific needs that are not addressed by the transport system."
+        },
+        {
+          "type": "paragraph",
+          "text": "34 Udaiti Foundation. (2025). Bridging gendered gaps in first and last mile connectivity across Indian cities."
+        },
+        {
+          "type": "paragraph",
+          "text": "https://tinyurl.com/maat3jtz."
+        },
+        {
+          "type": "paragraph",
+          "text": "(MSMEs) ecosystem can further facilitate women's transition into formal enterprises, increase access to markets, and help them move from subsistence entrepreneurship to growth-oriented businesses."
+        },
+        {
+          "type": "paragraph",
+          "text": "Flexibility in employment: Policies should promote flexible work, hybrid models, and gender-responsive standards, including maternity benefits, equal pay, and harassment protection. The newly enacted Labour Codes now allow women workers to work from home"
+        },
+        {
+          "type": "paragraph",
+          "text": "(Section 59(5), Code on Social Security 2020) after availing themselves of the maternity benefit (Section 60, Code on Social Security 2020)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Public-private partnership: Several states are promoting women’s participation in the workforce through innovative, partnership-based models. Telangana’s WE-Hub connects women with start-up ecosystems and investors.35 Kerala’s Kudumbashree integrates microfinance and collective enterprises to engage women in non-traditional roles, such as construction, logistics, and facility management.36 Maharashtra’s Mahila Arthik Vikas"
+        },
+        {
+          "type": "paragraph",
+          "text": "Mahamandal links SHG to formal credit and enterprise support. Scaling these context- specific approaches can expand women’s opportunities and accelerate their entry into higher-value work.37"
+        },
+        {
+          "type": "paragraph",
+          "text": "Efforts to challenge restrictive social norms must continue through awareness campaigns, gender sensitisation in schools, and community-led initiatives that promote shared caregiving and domestic responsibilities. In addition, it is essential to expand women’s access to credit and procurement opportunities. Mentorship and future-oriented skills such as digital literacy, hybrid work capabilities, and green job training can further enhance female workforce participation."
+        },
+        {
+          "type": "paragraph",
+          "text": "Increasing women’s participation in the labour market is not merely a matter of inclusion but a key driver of India’s long-term economic transformation, as higher female employment supports fairer labour market outcomes, strengthens household welfare and contributes to building a more inclusive, resilient, and productive economy on the path to Viksit Bharat by"
+        },
+        {
+          "type": "paragraph",
+          "text": "2047."
+        },
+        {
+          "type": "paragraph",
+          "text": "The unorganised workforce"
+        }
+      ]
+    },
+    {
+      "section_id": "12.13",
+      "title": "Recent policy initiatives have prioritised identifying unorganised workers and",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "enhancing their integration with the formal economy through the welfare and skill development systems. The Code on Social Security, 2020 (CSS) defines unorganised workers as home-based, self-employed or wage workers in the unorganised sector and includes a worker in the organised sector who is not covered by the Industrial Disputes"
+        },
+        {
+          "type": "paragraph",
+          "text": "35 https://wehub.telangana.gov.in/ 36 https://www.kudumbashree.org/pages/171 37 https://mavimindia.org/en/overview"
+        },
+        {
+          "type": "paragraph",
+          "text": "38 ‘Unorganised worker’ means a home-based worker, self-employed worker or a wage worker in the unorganised sector and includes a worker in the organised sector who is not covered by the Industrial Disputes Act, 1947 or"
+        },
+        {
+          "type": "paragraph",
+          "text": "Chapters III to VII of the CSS (Section 2 (86))."
+        },
+        {
+          "type": "paragraph",
+          "text": "Employment and Skill Development"
+        }
+      ]
+    },
+    {
+      "section_id": "12.14",
+      "title": "In this context, the e-Shram portal is steadily bridging the gap between informal",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "and formal employment, serving as a key institutional mechanism for extending social protection to unorganised workers.39 The portal serves as a National Database of"
+        },
+        {
+          "type": "paragraph",
+          "text": "Unorganised Workers, which includes data on construction workers, migrant workers, gig and platform workers, street vendors, domestic workers, and agriculture workers."
+        },
+        {
+          "type": "paragraph",
+          "text": "As of January 2026, the portal has successfully registered over 31 crore unorganised workers, marking a significant advancement in India’s efforts to formalise and support its informal workforce. Notably, women account for 54 per cent of total registrants, substantially strengthening the reach of gender-focused welfare schemes. Each registrant is assigned a Universal Account Number (UAN), which is linked to their"
+        },
+        {
+          "type": "paragraph",
+          "text": "Aadhaar and mobile number, ensuring the portability of scheme benefits when workers move across platforms, locations, or employment arrangements."
+        }
+      ]
+    },
+    {
+      "section_id": "12.15",
+      "title": "e-Shram is evolving into a comprehensive platform for unorganised workers.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "It facilitates the identification of job opportunities, apprenticeship opportunities, and skilling linkages, helping workers transition to improved employment prospects. These efforts align with the broader vision of enhancing productivity and social protection for"
+        },
+        {
+          "type": "paragraph",
+          "text": "India’s informal workforce."
+        }
+      ]
+    },
+    {
+      "section_id": "12.16",
+      "title": "The platform facilitates the delivery of social security and welfare schemes to",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "registrants. Eighteen (18) social security schemes, including ‘One-Nation- One-Ration"
+        },
+        {
+          "type": "paragraph",
+          "text": "Card’, National Social Assistance Programme, National Career Service (NCS), Pradhan"
+        },
+        {
+          "type": "paragraph",
+          "text": "Mantri Shram Yogi Maandhan (PMSYM). etc, have been integrated with e-Shram. The portal also shares details of e-Shram registrants with all states/UTs, which helps them ensure targeted delivery and widespread coverage of welfare schemes for unorganised workers."
+        }
+      ]
+    },
+    {
+      "section_id": "12.17",
+      "title": "Launched in 2015, the NCS is a one-stop solution connecting job seekers,",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "employers, training providers and career guidance and counselling agencies.40 It offers a range of services, including free registration, job application processing, interview assistance, and other employment-related services, and a multi-lingual helpline."
+        },
+        {
+          "type": "paragraph",
+          "text": "The portal has a job fair module to streamline recruitment activity by engaging all stakeholders, i.e., model career centres, nodal officers, job seekers and employers at one platform. The portal’s integration with the Ministry of External Affairs’ eMigrate system enables certified recruiting agencies to post verified international job vacancies and provides job seekers with access to global opportunities under safe and monitored conditions."
+        },
+        {
+          "type": "paragraph",
+          "text": "39 e-Shram portal: https://eshram.gov.in/ 40 NCS portal: https://www.ncs.gov.in/"
+        }
+      ]
+    },
+    {
+      "section_id": "12.18",
+      "title": "Additionally, its integration with the Skill India Digital Hub (SIDH) enables",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "candidates to enhance their skill sets before applying for jobs. The portal is partnering with private portals to provide free online training on 'career skills' and ‘digital skills’. It is also linked with the Employees' Provident Fund Organisation (EPFO), the Employees'"
+        },
+        {
+          "type": "paragraph",
+          "text": "State Insurance Corporation (ESIC), DigiLocker, e-Shram, Udyam and SIDH, ensuring seamless access to workforce data. Currently, the portal is integrated with 30 State employment portals, including seven states/UTs, which are directly using it for job seeker registrations."
+        }
+      ]
+    },
+    {
+      "section_id": "12.19",
+      "title": "Since its launch, the portal has evolved into a key employment facilitation",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "platform, with over 5.9 crore registered job seekers and 53 lakh job providers across diverse sectors and mobilising approximately 8 crore vacancies. It recorded over a 200 per cent increase in job vacancies in FY24 compared to FY23. Vacancies mobilised exceeded 2.8 crore in FY25 and have already crossed 2.3 crore by September 2025."
+        },
+        {
+          "type": "paragraph",
+          "text": "Employment in the organised manufacturing sector"
+        }
+      ]
+    },
+    {
+      "section_id": "12.20",
+      "title": "The ASI conducted by MoSPI, covers the organised manufacturing sector and",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "provides insight into employment trends in the sector.41,42 The ASI results for FY24 highlight the manufacturing sector’s resilience, showing a 6 per cent YoY increase in employment over the previous year.43 This translates to an addition of over 10 lakh jobs in FY24 compared to FY23. The sector added more than 57 lakh jobs over the past decade, between FY15 and FY24, with a compound annual growth rate (CAGR) of 4 per cent."
+        }
+      ]
+    },
+    {
+      "section_id": "12.21",
+      "title": "The survey highlights rising net value added (NVA) per person engaged in",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "the organised manufacturing sector. This signals improved labour productivity and output efficiency, with each employed person contributing substantially more to total value creation than in previous years. The sector also experienced positive growth in emoluments per person."
+        },
+        {
+          "type": "paragraph",
+          "text": "41 The ASI coverage extends to the entire Factory Sector comprising industrial units (called factories) registered under the Sections 2(m)(i) and 2(m)(ii) of the Factories Act, 1948, with ten or more workers with electricity or 20 or more workers without electricity. (https://tinyurl.com/ycxvk3w8)"
+        },
+        {
+          "type": "paragraph",
+          "text": "42 The reference period of the survey is April 2023 to March 2024. The field work for this survey was carried out from October 2024 to June 2025."
+        },
+        {
+          "type": "paragraph",
+          "text": "43 Employment refers to total persons engaged (TPE), which includes the employees (which include workers and clerical/administrative staff) and all working proprietors and their family members who are actively engaged in the work of the factory even without any pay, and the unpaid members of the cooperative societies who worked in or for the factory in any direct and productive capacity."
+        },
+        {
+          "type": "paragraph",
+          "text": "Employment and Skill Development accounted for 77 per cent of the total factories and only 21 per cent of the workforce."
+        },
+        {
+          "type": "paragraph",
+          "text": "(employing more than 100 workers) also pay higher wages and have a higher NVA per person engaged, signalling higher labour productivity in larger factories."
+        }
+      ]
+    },
+    {
+      "section_id": "12.24",
+      "title": "Compared to a 26 per cent increase in the number of smaller factories, the number",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "of large factories has almost doubled over the last decade (increasing by 97 per cent between FY14 and FY24). Thus, in terms of total persons engaged (TPE), employment has been rising in larger factories at a CAGR of 6 per cent compared to a CAGR of 2 per cent in smaller ones. This represents an improvement in employment quality, as large factories are associated with higher wages and greater worker productivity."
+        },
+        {
+          "type": "paragraph",
+          "text": "Employment and Skill Development"
+        }
+      ]
+    },
+    {
+      "section_id": "12.26",
+      "title": "According to the QBUSE, the unincorporated non-agricultural sector comprises",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "a total of 7.9 crore establishments, employing 12.9 crore individuals.44 The share of working owners45 among total employed workers in the sector increased from 58.9 per cent in 2023-2446 to 60 per cent in Q2 FY26, indicating a shift towards self-employment and entrepreneurial activities. The rural workforce in the sector was six crore in Q2"
+        },
+        {
+          "type": "paragraph",
+          "text": "FY26, indicating the significant contribution of unincorporated enterprises to rural economic activities. Additionally, women represent 28.7 per cent of the workforce in the sector. The increasing trend of digitisation in the unincorporated non-agricultural"
+        },
+        {
+          "type": "paragraph",
+          "text": "44 QBUSE July to September 2025: https://tinyurl.com/p769y4a9 QBUSE presents key estimates at more frequent intervals based on data collected during the quarters covered by ASUSE."
+        },
+        {
+          "type": "paragraph",
+          "text": "45 Working Owners are individuals who own and operate their unincorporated businesses, and either work in them themselves or are involved in their management."
+        },
+        {
+          "type": "paragraph",
+          "text": "46 Annual Survey of Unincorporated Sector Enterprises (ASUSE) 2023-2024 (October 2023 – September 2024)."
+        },
+        {
+          "type": "paragraph",
+          "text": "https://tinyurl.com/48xrv97w Employment and Skill Development sector is reflected in the rising use of the internet among business units, which increased steadily from 26 per cent in 2023-24 to 39 per cent in Q2 FY26."
+        },
+        {
+          "type": "paragraph",
+          "text": "Boosting manufacturing workforce participation"
+        }
+      ]
+    },
+    {
+      "section_id": "12.27",
+      "title": "The manufacturing sector is critical for national self-reliance and strategic",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "resilience, serving as a central pillar of India’s growth and strengthening its role in global value chains. Competing globally requires not only capital and technology but also a focus on labour, including worker well-being, gender inclusivity, and harnessing the demographic dividend. Labour is crucial to the sector’s expansion, with 11.4 per cent of total employment in the manufacturing sector in 2023-24.47 About 1.9 crore persons are employed in the organised manufacturing sector48, while about 3.3 crore persons are employed in the unorganised manufacturing sector.49 Enhancing worker participation is essential for enhancing productivity and sustainable long-term growth."
+        }
+      ]
+    },
+    {
+      "section_id": "12.28",
+      "title": "Evidence from civil society-private sector partnerships shows that targeted",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "interventions in worker well-being drive both business competitiveness and national prosperity. Some of these interventions are discussed in Box XII. 3."
+        },
+        {
+          "type": "paragraph",
+          "text": "(from January 2023 to December 2024) by pairing new migrant women workers in factories in Bangalore with experienced peers or ‘buddies’ who share a similar language and background. Buddies were trained in basic cognitive-behavioural techniques to provide emotional first-aid and help newcomers navigate workplace and community life. This simple, low-cost intervention demonstrated remarkable success, showing a 5.3 per cent reduction in anxiety and a 5.9 per cent reduction in depression among workers. From the firm’s perspective, while there was a marked productivity increase of 6.4 per cent among new workers, paired with a senior buddy, a more surprising 12 per cent increase in worker productivity was observed among senior buddies. 53"
+        },
+        {
+          "type": "paragraph",
+          "text": "Financial well-being with earned wage access (EWA): EWA, also known as on-demand pay, is a service designed to meet the immediate short-term liquidity needs of workers. It allows users to access part or all of their wages as they earn them, before their next scheduled payday. Financial stress among workers can be a significant barrier to productivity. Research shows that financial pressures reduce cognitive bandwidth and are nearly five times more likely to be a source of distraction at work.54,55,56 To address this, an EWA intervention could help manage financial stress, improve employee retention and worker welfare.57 Evidence from a randomised controlled trial (RCT) from March 2023 to October 2024, involving over 800 women workers, found that access to liquidity led to substantial gains in well-being. The study found a reduction in high-interest informal borrowings, alongside a 20 per cent decline in the likelihood of workers forgoing essential expenditures. This improved financial stability resulted in a reduction in worker turnover"
+        },
+        {
+          "type": "paragraph",
+          "text": "50 Weziak-Bialowolska et al (2022) Prospective Associations Between Social Connectedness and Mental Health."
+        },
+        {
+          "type": "paragraph",
+          "text": "Evidence From a Longitudinal Survey and Health Insurance Claims Data. Int J Public Health. 2022 Jun"
+        },
+        {
+          "type": "paragraph",
+          "text": "9;67:1604710. doi: 10.3389/ijph.2022.1604710 https://tinyurl.com/swzwfays 51 World Health Organization. (2025). From loneliness to social connection: Charting a path to healthier societies https://tinyurl.com/bdfu4evc"
+        },
+        {
+          "type": "paragraph",
+          "text": "52 Battling anxiety and depression among migrant workers: Increasing peer support for migrant garment workers improved mental health and productivity. Good Business Lab (GBL) (2024). https://tinyurl.com/4nc4hk2d"
+        },
+        {
+          "type": "paragraph",
+          "text": "53 The experiment was conducted by the Good Business Lab as a pilot study in 14 garment factory units in Bengaluru with 1,098 participants over the period of eight weeks."
+        },
+        {
+          "type": "paragraph",
+          "text": "54 Mani et al. (2013). Poverty impedes cognitive function. Science, 341(6149), 976–980. https://doi.org/10.1126/ science.1238041"
+        },
+        {
+          "type": "paragraph",
+          "text": "55 PWC (2023) Employee Financial Wellness Survey: Guiding your employees through uncertain economic times."
+        },
+        {
+          "type": "paragraph",
+          "text": "https://tinyurl.com/y6wfnp4h 56 Earned wage access: Facilitating early withdrawal of earned wages can transform household finances for blue- collar workers. Good Business Lab. https://tinyurl.com/cm4ns6x3"
+        },
+        {
+          "type": "paragraph",
+          "text": "57 Murillo et al. (2025) Fintech to the (Worker) Rescue: Earned Wage Access and Employee Retention http:// dx.doi.org/10.2139/ssrn.4067701"
+        },
+        {
+          "type": "paragraph",
+          "text": "Employment and Skill Development and an increase in worker productivity, positioning financial well-being as a factor yielding clear returns for both employees and employers.58"
+        },
+        {
+          "type": "paragraph",
+          "text": "Physical well-being through sexual and reproductive health (SRH) awareness:"
+        },
+        {
+          "type": "paragraph",
+          "text": "The physical well-being of women workers is often impacted by low awareness and social norms surrounding SRH, which limit their access to information and care. This can be addressed through a capacity-building programme at the workplace. Evidence suggests that SRH training can improve general health behaviours and result in a higher rate of contraceptive use. Notably, there was also a significant increase in the reporting of sexual harassment experienced in public spaces, reflecting greater awareness and confidence.59"
+        },
+        {
+          "type": "paragraph",
+          "text": "These models demonstrate the effectiveness of workplace-based programs in overcoming information barriers, offering a scalable pathway to improve women's health and well- being.60"
+        },
+        {
+          "type": "paragraph",
+          "text": "These examples demonstrate that a focus on holistic well-being (mental, financial, and physical) creates a more resilient, secure, and productive workforce. Such a foundation of a supported and healthy workforce is a critical prerequisite for tackling broader national priorities, such as increasing women’s participation in manufacturing sectors, and ensuring"
+        },
+        {
+          "type": "paragraph",
+          "text": "India's industrial growth is both sustainable and inclusive."
+        },
+        {
+          "type": "heading",
+          "text": "CATALYSING JOB GROWTH"
+        }
+      ]
+    },
+    {
+      "section_id": "12.29",
+      "title": "The four Labour Codes- Code on Wages 2019, Industrial Relations Code",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "2020, CSS and Occupational Safety, Health and Working Conditions Code 2020 have consolidated 29 central laws to streamline regulations and extend protections to workers. The implementation of these Codes was notified on 21 November 2025."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Codes have attempted to strike a balance between regulation and flexibility, while protecting worker rights and ensuring social security for workers. They are a result of the deliberations held in the tripartite meeting of the government, employers, industry representatives, and various trade unions from 2015 to 2019. 61"
+        }
+      ]
+    },
+    {
+      "section_id": "12.30",
+      "title": "The Codes have introduced formal recognition for gig workers (CSS) (Sections",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "2(35) & 2(60)), mandatory appointment letters for all (Occupational Safety, Health and"
+        },
+        {
+          "type": "paragraph",
+          "text": "Working Condition Code,2020), portable social security for migrant workers (CSS), equal benefits (including gratuity and leave after one year) for fixed-term and contract"
+        },
+        {
+          "type": "paragraph",
+          "text": "58 The study was conducted by GBL. GBL developed a simple, Android-based tablet application for the workplace, which enabled workers to withdraw their earned wages via direct transfer to their bank account with just a few taps. It also conducted an RCT with 408 women in the treatment group and 426 women in the control group, along with baseline, midline, and endline surveys to assess the state of household finances. Furthermore, GBL analysed worker-level administrative data, including tenure, daily attendance, wages, and output, as well as an analysis of EWA tool utilisation, including per-worker transaction frequency and transaction size."
+        },
+        {
+          "type": "paragraph",
+          "text": "59 GBL (2025). Sexual and reproductive health program. https://tinyurl.com/ycy3s9kh"
+        },
+        {
+          "type": "paragraph",
+          "text": "60 The Programmes | Sexual Reproductive Health Training. (2021). UNFPA. https://tinyurl.com/fdcz4bpz"
+        },
+        {
+          "type": "paragraph",
+          "text": "61 PIB release dated 21 November 2025: https://tinyurl.com/2s7er4sa workers, a minimum wage, and timely payments, as well as a national floor wage (Code on wages, 2019). The simplified compliance with a single licence for contract staffing is poised to accelerate formalisation and inclusive growth."
+        }
+      ]
+    },
+    {
+      "section_id": "12.31",
+      "title": "Complementing the roll-out of the Centre’s Labour Codes, 32 states/UTs have",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "published draft rules under the Codes. Notably, the Uttar Pradesh (UP) government has recently notified new rules allowing women to work night shifts, provided they are accompanied by mandatory safeguards, including employer-provided transportation, health facilities, CCTV surveillance, security personnel, and double wages for overtime work. The quarterly overtime cap has been raised to 144 hours."
+        }
+      ]
+    },
+    {
+      "section_id": "12.32",
+      "title": "In UP, the amendment to the Factories Act, 1948, enables women to work in",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "all 29 hazardous sectors, promoting gender equality, industrial modernisation, and increased female workforce participation. The reform is supported by enhanced safety infrastructure, including helplines, police beats, and dedicated anti-harassment squads.62"
+        }
+      ]
+    },
+    {
+      "section_id": "12.33",
+      "title": "Implementing the Codes marks the first step towards the labour market",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "transformation. The transition will require coordination and investment from the private sector. Companies must enhance their systems, update policies, reevaluate workforce models, and improve their digital readiness to remain competitive. While the Codes offer a unified framework, it is up to the private sector to integrate this framework into daily operations. The impact of the Labour Code on the labour market is discussed in Box XII.4."
+        },
+        {
+          "type": "paragraph",
+          "text": "States with flexible labour laws show significantly higher employment, fixed capital, and output compared to those with inflexible laws.65"
+        },
+        {
+          "type": "paragraph",
+          "text": "Thus, amid external headwinds, India’s push for global competitiveness hinges on reforms that simplify business processes and labour regulations. The government’s step to consolidate"
+        },
+        {
+          "type": "paragraph",
+          "text": "29 central laws into four comprehensive Labour Codes would simplify compliance, update outdated provisions, and create a streamlined, effective framework that enhances ease of doing business while protecting workers’ rights and welfare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Impact on female labour force participation: Research shows that fewer restrictions correlate with a lower female unemployment rate, higher FLFPR, more women in management roles, and a smaller wage gap compared to states with stricter restrictions on women's labour.66 Further, removing legal restrictions on women’s employment benefits women and economies. Allowing women to work at night is associated with a higher likelihood of women becoming top managers.67 The new Labour Codes enable women to work across all establishments, including those with night shifts, with the necessary safety measures in place. They promote gender equality through equal wages68, provision of creches69, flexibility through work-from-home provision70 and expansion of maternity benefits71, thereby supporting higher participation in the workforce. According to the Indian"
+        },
+        {
+          "type": "paragraph",
+          "text": "Staffing Federation estimates, the gender provisions, including consensual night work, could elevate FLFPR to 33.7 per cent."
+        },
+        {
+          "type": "paragraph",
+          "text": "Impact on formalisation: The Labour Codes mandate the issuance of appointment letters for all, with the provision of equal benefits (including gratuity after one year) for fixed-term and contract workers, and a single pan-India registration/license/return, thereby reducing redundancy and the compliance burden. The provision of the National Floor Wage ensures"
+        },
+        {
+          "type": "paragraph",
+          "text": "64 Besley, T., & Burgess, R. (2004). Can Labour Regulation Hinder Economic Performance? Evidence from India."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Quarterly Journal of Economics, 119(1), 91–134. https://tinyurl.com/72f7xsz3"
+        },
+        {
+          "type": "paragraph",
+          "text": "65 Debroy, B., De, S., Aditya, Dudani, C., & K. R., J. (2025). Impact of state-level labour law reforms in India: an empirical analysis. Journal of the Asia Pacific Economy, 30(4), 1199–1227. https://tinyurl.com/54ukd9t5"
+        },
+        {
+          "type": "paragraph",
+          "text": "66 Anand, B., and Kaur, S. (2022) State of Discrimination Report: Sub-national comparison of legal barriers to women’s right to choose work in India. New Delhi: Prosperiti. https://tinyurl.com/2xejvd6h The report presents a comparison of 23 Indian states on the extent of sex-based legal discrimination using 48 Acts, 169 Rules, and"
+        },
+        {
+          "type": "paragraph",
+          "text": "20 Notifications/Orders."
+        },
+        {
+          "type": "paragraph",
+          "text": "67 Islam et al. (2019). Unequal Laws and the Disempowerment of Women in the Labour Market: Evidence from"
+        },
+        {
+          "type": "paragraph",
+          "text": "Firm-Level Data. The Journal of Development Studies, 55(5), 822–844. https://tinyurl.com/ykma5ab5"
+        },
+        {
+          "type": "paragraph",
+          "text": "68 Section 3, Code On Wages, 2019 69 Sec. 67, CSS 2020 70 Section 60(5), CSS 2020"
+        },
+        {
+          "type": "paragraph",
+          "text": "71 Sec. 60, CSS 2020 uniformity and adequacy nationwide, while the traditional role of ‘Inspector’ is replaced with"
+        },
+        {
+          "type": "paragraph",
+          "text": "‘Inspector-cum-Facilitator,’ emphasising guidance, awareness, and advisory roles alongside enforcement to improve compliance (Code on Wages, 2019). In addition, recognising fixed- term employment (FTE) as a formal engagement could benefit MSMEs in particular by allowing them to hire workers for seasonal or project-based needs without committing to long-term employment and incurring overhead costs. It would promote direct hiring over a contractual one. According to a study by SBI, the implementation of labour laws can increase the formalisation in the economy from 60.4 per cent to 75.5 per cent.72"
+        },
+        {
+          "type": "paragraph",
+          "text": "Impact on employment: The SBI projects medium-term employment gains of 1.0–2.2 per cent in the organised sector through the implementation of the Labour Codes, resulting from reduced compliance costs and expanded formal hiring, though short-term frictions are likely. This can lead to a reduction in UR, bringing it down to 1.9- 2.9 per cent and generating"
+        },
+        {
+          "type": "paragraph",
+          "text": "~77 lakh jobs. Overall, post-transition, unemployment could decrease by 0.3-1.3 per cent, depending on the implementation, firm costs, and state policies. Simplified processes lower costs for SMEs, enabling scalability, and promote gender-neutral policies (e.g., night shifts for women), thereby expanding talent pools. Compliance simplification is expected to reduce costs by 30-40 per cent, fostering SME hiring.73 With the higher thresholds for layoff, retrenchment, and closure under the Industrial Relations Code, incentives for firms to remain small have been reduced. Direct hiring, including FTE, aligns workers with organisational goals and encourages employer investment in training, boosting productivity and increasing hiring."
+        },
+        {
+          "type": "paragraph",
+          "text": "Expansion of social security: CSS mandates aggregators' contribution to 1-2 per cent of annual turnover (capped at 5 per cent of worker payouts) to fund life/health insurance, as well as pensions for gig workers, potentially covering 2.35 crore workers by 2030. Portable benefits via UAN ensure interstate mobility, which is vital for the migrant gig workers."
+        },
+        {
+          "type": "paragraph",
+          "text": "These Codes balance worker rights with business ease. For example, Industrial Tribunals expedite disputes (from years to months), and the Wages Code's floor wage (₹178-500 daily) standardises earnings, curbing exploitation."
+        },
+        {
+          "type": "paragraph",
+          "text": "Impact on incomes and growth: These reforms address key challenges, such as income volatility and benefit gaps, potentially contributing 1.25 per cent to GDP by 2029-30 through enhanced worker welfare and business agility.74 SBI estimates that the implementation of the ‘Code on Wages’ would increase the disposable income of workers and has the potential to boost consumption by approximately ₹75,000 crore, in turn enhancing economic growth."
+        },
+        {
+          "type": "paragraph",
+          "text": "Thus, the newly notified Labour Codes hold particular promise for boosting female LFPR, enhancing employment and formalisation, spurring inclusive growth and productivity amid"
+        },
+        {
+          "type": "paragraph",
+          "text": "India's demographic dividend."
+        },
+        {
+          "type": "paragraph",
+          "text": "72 State Bank of India. (25 November 2025). Ecowrap: https://tinyurl.com/mtmcdzsy"
+        },
+        {
+          "type": "paragraph",
+          "text": "73 Indian staffing federation 74 Ibid note 73 above Employment and Skill Development"
+        },
+        {
+          "type": "paragraph",
+          "text": "Gig economy and informal workforce dynamics"
+        }
+      ]
+    },
+    {
+      "section_id": "12.34",
+      "title": "India's labour market is transforming due to factors such as economic policies,",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "technological progress, and the evolving demands of the labour market. As a result, traditional employment paradigms are yielding to hybrid models that blend contract and formality. These factors also shape the way key players in the labour market interact, specifically the employer and the employee. The changing dynamics of this interaction occur in the context of the preferences of these two agents, where one wants to maximise its revenue and minimise cost, and the other wants to maximise its pay."
+        }
+      ]
+    },
+    {
+      "section_id": "12.35",
+      "title": "The employer-worker relationship is shaped by factors such as the directness of",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "the employer-employee connection (bipartite or tripartite), the nature of work (ongoing or task-based), the terms and frequency of payment, the work location and hours, and access to benefits such as social security or paid leave. Understanding these features is crucial for identifying the diverse categories of workers in India, which range from permanent and regular employees to casual, contract, self-employed, and gig workers and is essential for framing policies that ensure economic security and fair treatment for all in a changing labour market. With the growth of the gig economy, these features are evolving further: jobs are more flexible, payments are digital, and traditional employer- employee interactions are less defined."
+        },
+        {
+          "type": "paragraph",
+          "text": "75 \u0007PLFS definition; ILO 2025 report on gig economy (https://tinyurl.com/49e39z7a) & Indian Flexi Staffing"
+        },
+        {
+          "type": "paragraph",
+          "text": "Employment Trends Annual Report 2025 https://indianstaffingfederation.org/"
+        }
+      ]
+    },
+    {
+      "section_id": "12.36",
+      "title": "In general parlance, gig work refers to short-term, task-based or project-based",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "work carried out on a freelance or independent basis, often mediated through digital platforms. According to the ILO, gig work is typically performed by self-employed or independent contractors who obtain clients and projects through online platforms or applications and are paid upon completion of tasks or projects rather than receiving a regular wage.76 Due to its task-based and independent nature, gig work offers flexibility by allowing workers to choose when, where, and how much they work, making it particularly attractive to those seeking to balance employment with personal responsibilities such as caregiving or education."
+        }
+      ]
+    },
+    {
+      "section_id": "12.37",
+      "title": "Against this backdrop, the recent developments in digital platforms and",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "policy reforms are reshaping work structures, fostering flexibility while promoting formalisation. Gig workers continue to engage on a task-by-task basis with flexible hours and pay. The gig economy, encompassing delivery, ridesharing, and freelancing, has witnessed structural growth, transitioning informal jobs into ecosystem-integrated roles. From 77 lakh workers in FY21, the sector witnessed a 55 per cent increase to"
+        },
+        {
+          "type": "paragraph",
+          "text": "120 lakh workers in FY25, driven by smartphone penetration among over 80 crore users and 15 billion UPI transactions per month. Now representing over 2 per cent of the total workforce in India, growth of gig workers outpaces overall employment, with non-agricultural gigs projected to constitute 6.7 per cent of the workforce by 2029-30, contributing ₹2.35 lakh crore to GDP.77"
+        },
+        {
+          "type": "paragraph",
+          "text": "(https://indianstaffingfederation.org/) (As of end of March 2025)"
+        }
+      ]
+    },
+    {
+      "section_id": "12.38",
+      "title": "While the gig economy is booming, income volatility persists, leading to challenges",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "in accessing credit. Financial inclusion also lags behind for gig workers. They have"
+        },
+        {
+          "type": "paragraph",
+          "text": "76 Exploring the gig economy: Challenges and opportunities (ILO 2025) https://tinyurl.com/49e39z7a"
+        },
+        {
+          "type": "paragraph",
+          "text": "77 https://indianstaffingfederation.org/ Employment and Skill Development ‘thin-file’ credit access, which remains a concern.78 Platform algorithms control work allocation, performance monitoring, wages, and supply-demand matching, raising concerns about algorithmic biases and burnout. About 40 per cent of gig workers report earnings below ₹15,000 per month.79 Limited skilling and fears of job losses due to technological advances such as artificial intelligence (AI) and machine learning (ML) add to worker vulnerability. Chapter 14 of the Economic Survey provides a detailed examination of the implications of the AI ecosystem for India. Strengthening social security, such as provident fund, insurance, and maternity benefits for this sector, is essential."
+        }
+      ]
+    },
+    {
+      "section_id": "12.39",
+      "title": "As the gig economy expands, its impact on employment and economic growth will",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "become increasingly evident. While it offers unprecedented opportunities for revenue creation and economic diversification, addressing its challenges is crucial to ensuring long-term and equitable growth. The Labour Codes have formally recognised gig and platform workers, expanding social security, welfare funds, and benefit portability.80"
+        },
+        {
+          "type": "paragraph",
+          "text": "Going forward, ensuring algorithmic transparency and promoting worker-friendly practices will be crucial, as highlighted in Box XII.5."
+        },
+        {
+          "type": "paragraph",
+          "text": "82 Chapter I, Sec. 2(2), Sec. 2(35), Sec 2(61) and Sec 2(60) of the CSS."
+        },
+        {
+          "type": "paragraph",
+          "text": "rather than self-employed contractors, and establishing rules for the use of algorithms in the workplace.83 The European Union Platform Workers' Directive (2024) was implemented to correct the employment status of gig workers who are misclassified as self-employed, improve transparency, and regulate the use of algorithms and data in decision-making processes involving platform workers.84 In 2025, the ILO initiated formal discussions on establishing international standards for decent work in the platform economy, with a focus on fair wages, working conditions, and social protections.85 Over the years, cities such as"
+        },
+        {
+          "type": "paragraph",
+          "text": "Seattle86 and New York87 have implemented worker protections, including anti-retaliation measures, deactivation appeals, and minimum wage laws, for app-based workers."
+        },
+        {
+          "type": "paragraph",
+          "text": "Historically, in India, gig and platform workers have been classified as informal labour, often not covered by existing labour laws. The CSS provides legal acknowledgement to these workers and lays the foundation for establishing their rights and protections."
+        },
+        {
+          "type": "paragraph",
+          "text": "While the law recognises gig and platform workers as a distinct category, it treats them as a largely homogeneous group, whereas in practice the workforce is highly segmented by skill."
+        },
+        {
+          "type": "paragraph",
+          "text": "According to a NITI Aayog report, the share of high-skilled gig workers is expected to be 27.5 per cent by 2030, while for low-skilled workers, it is projected to be 33.8 per cent by 2030. 88"
+        },
+        {
+          "type": "paragraph",
+          "text": "McKinsey categorises gig workers in the US and EU into four categories based on income reliance and preference.89 These included i) Free agents (primary income and prefer gig work); ii) Casual earners (gig work for supplementary income or skills); iii) Reluctants (rely on gig work but prefer regular jobs), and iv) the financially strapped (gigs to make ends meet)."
+        },
+        {
+          "type": "paragraph",
+          "text": "While preferences shape the labour supply of gig work, demand is driven by task type and skill level, ranging from low-skill-high turnover (jobs like retail, food service, etc) to middle- skilled generalists (e.g., taxi drivers, beauticians) and highly specialised professionals (e.g., programmers, physicians, lawyers) serving multiple employers. Policy should aim to move gig workers from categories ‘iii’ and ‘iv’ to ‘i’ and ‘ii’, making gig work a choice rather than a necessity. The CSS formally recognises gig workers; policy should now prioritise upward mobility of low‑skilled workers through upskilling, move into better-paying jobs, and make gig work a stable, reliable income source."
+        },
+        {
+          "type": "paragraph",
+          "text": "Another major challenge for gig workers is limited access to credit and productive assets needed to move into better gigs. Many cannot upgrade from low- to medium-skilled gigs"
+        },
+        {
+          "type": "paragraph",
+          "text": "83 Spain’s rider law. https://tinyurl.com/mrxw3jyu 84 \u0007Directive (EU) 2024/2831 of the European Parliament: https://tinyurl.com/bdzvj7mh"
+        },
+        {
+          "type": "paragraph",
+          "text": "European Parliament. Gig economy: How the EU improves platform workers’ rights. https://tinyurl.com/4x5f4bv8"
+        },
+        {
+          "type": "paragraph",
+          "text": "85 Decent work in the platform economy (ILO, 2025). https://tinyurl.com/ykecu9zw"
+        },
+        {
+          "type": "paragraph",
+          "text": "86 Seattle, Office of Labour Standards (2025): https://tinyurl.com/mrxbn88w 87 New York City council (2025): https://tinyurl.com/fh9p5xmw"
+        },
+        {
+          "type": "paragraph",
+          "text": "88 NITI Aayog. (2022). India's booming gig and platform economy: Perspectives and recommendations on the future of work: https://tinyurl.com/chct6udx"
+        },
+        {
+          "type": "paragraph",
+          "text": "89 Manyika et al. (2016). Independent work: Choice, necessity, and the gig economy. McKinsey Global Institute."
+        },
+        {
+          "type": "paragraph",
+          "text": "https://tinyurl.com/3tnvswyv Employment and Skill Development because they lack tools (for example, a bike, car, or specialised equipment). Encouraging platforms and employers to co-invest in assets and training could help workers progress into more secure, higher-quality jobs.90 It is important to help gig workers manage unstable incomes. They require basic financial planning support, including access to low-cost emergency savings schemes, portable social security benefits, and budgeting or financial- literacy programmes. The market should be encouraged to offer more flexible and agile financial products that consider the income patterns of gig workers."
+        },
+        {
+          "type": "paragraph",
+          "text": "Platforms have become essential gig-market infrastructure for finding workers and work."
+        },
+        {
+          "type": "paragraph",
+          "text": "This concentration of power raises concerns over fees, algorithms, and worker protections."
+        },
+        {
+          "type": "paragraph",
+          "text": "Policy should address this through competition rules, data access, and algorithmic transparency, while reorganising the social contract so that gig work benefits workers more fairly. Policy can reduce the cost gap between regular and gig work by limiting incentives to avoid mandatory benefits and by setting minimum per-hour or per-task earnings (including waiting time), encouraging formal employment and raising incomes for low- and medium- skilled gig workers. Taken together, the goal of gig-economy policy should be to reshape the terms so that workers exercise real choice rather than being pushed into gigs due to weak demand, skill mismatch, or the absence of a safety net."
+        },
+        {
+          "type": "heading",
+          "text": "SKILL ECOSYSTEM OVERVIEW"
+        }
+      ]
+    },
+    {
+      "section_id": "12.40",
+      "title": "Expanding access to skills and improving their quality requires a well-integrated",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "skilling ecosystem. Skills policy sits at the crossroads of education, labour markets, and industry, making close coordination and collaboration essential among a broad range of stakeholders, including multiple institutions, ministries, government at various levels, students, educators, workers, employers, trade unions, and other relevant actors. As"
+        },
+        {
+          "type": "paragraph",
+          "text": "India seeks to harness its demographic dividend and respond to evolving labour market needs, a well-integrated and forward-looking skilling system is critical to enabling the workforce to capitalise on emerging economic opportunities."
+        }
+      ]
+    },
+    {
+      "section_id": "12.41",
+      "title": "The PLFS 2023-24 findings show that the share of individuals (in the 15–59 age",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "group) having acquired some form of vocational or technical training has increased from 8.1 per cent in 2017-18 to 34.7 per cent in 2023-24, reflecting the positive impact of skilling initiatives in India.91 However, there is a need to expand access to formal skilling as only 4.9 per cent of the youth (in the 15-29 age group) have received formal vocational or technical training, while another 21.2 per cent received training through informal sources. Estimates from a 2025 study suggest that a 12-percentage-point increase in skilled workforce through investment in formal skilling could lead to more"
+        },
+        {
+          "type": "paragraph",
+          "text": "90 Ibid note 88 above."
+        },
+        {
+          "type": "paragraph",
+          "text": "91 Annual PLFS report 2023-24."
+        },
+        {
+          "type": "paragraph",
+          "text": "than a 13 per cent increase in employment in the labour-intensive sectors by 2030.92"
+        },
+        {
+          "type": "paragraph",
+          "text": "This highlights the need to expand the coverage of skill training programmes while ensuring quality and alignment with market demands."
+        }
+      ]
+    },
+    {
+      "section_id": "12.42",
+      "title": "As India’s skill landscape expands with a growing working-age population, skilling",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "programmes need to work together in a mutually reinforcing way. Internationally, countries are shifting towards a whole-of-government approach in skilling that enables coordination across ministries (‘horizontal coordination’) and across different levels of government (‘vertical coordination’). Many countries have adopted inter- ministerial platforms and unified governance arrangements to enhance coherence while maintaining flexibility for regional and sectoral priorities.93,94"
+        }
+      ]
+    },
+    {
+      "section_id": "12.43",
+      "title": "The Ministry of Skill Development and Entrepreneurship (MSDE) serves as the",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "nodal body for national skill development, along with many sectoral skilling schemes being designed and implemented independently by other ministries. This presents an opportunity for convergence through uniform standards, guidelines, shared platforms, and coordinated planning, which can reduce duplication, streamline implementation, optimise resource utilisation and enable programmes to operate in a complementary manner. Enhanced coordination across ministries and levels of government would enable the diverse skilling initiatives to improve employability, expand coverage, and better equip the workforce for technological and economic changes."
+        }
+      ]
+    },
+    {
+      "section_id": "12.44",
+      "title": "In this regard, the SIDH of the MSDE represents a major governance reform by",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "providing a centralised information hub for all government initiatives in the domains of skill, education, employment, and entrepreneurship, all in a single portal.95 SIDH meets the diverse skilling needs of the labour market by offering digital skilling through a learning management system, portable verified credentials and multilingual options to ensure inclusivity. It also brings together skilling programmes across central and state governments, allowing citizens to choose from multiple skilling options based on their preferences. It has streamlined processes such as registration, course delivery, credentialing, and job matching, thus reducing duplication across schemes and improving administrative efficiency. SIDH data enhances the monitoring of training quality and outcomes, supporting evidence-based policy decisions.96 The integration of"
+        },
+        {
+          "type": "paragraph",
+          "text": "92 National Council of Applied Economic Research. (2025). India’s employment prospects: Pathways to jobs:"
+        },
+        {
+          "type": "paragraph",
+          "text": "https://tinyurl.com/578vpbu7 93 OECD. (2020). Strengthening the governance of skills systems: Lessons from six OECD countries. OECD https:// tinyurl.com/bd4r49rx"
+        },
+        {
+          "type": "paragraph",
+          "text": "94 OECD. (2019). OECD skills strategy 2019: Skills to shape a better future. https://tinyurl.com/3ac35uxz"
+        },
+        {
+          "type": "paragraph",
+          "text": "95 PIB release of Ministry of Skill Development and Entrepreneurship dated 7 August 2024: https://tinyurl.com/ yytj43va"
+        },
+        {
+          "type": "paragraph",
+          "text": "96 Bhatnagar, A. (2024). Digitally skilling India: The SIDH implementation journey—Approach & solution (Case study). National e-Governance Division (NeGD), Ministry of Electronics & Information Technology. https:// tinyurl.com/5y5upktr"
+        },
+        {
+          "type": "paragraph",
+          "text": "Employment and Skill Development industry-aligned courses, including those linked to Industry 4.0, directly connects skill training with labour-market demand."
+        }
+      ]
+    },
+    {
+      "section_id": "12.45",
+      "title": "Along with enhancing horizontal and vertical coordination, it is also essential to",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "redesign the policies to address the evolving needs of the labour market. There is a need to shift the focus from outputs, such as the number of programmes and enrolments, towards outcomes in terms of employability, improved earnings, and job quality"
+        },
+        {
+          "type": "paragraph",
+          "text": "(Box XII.6)."
+        },
+        {
+          "type": "paragraph",
+          "text": "participating in assessment, ensuring that certification signals competence rather than attendance. This is especially important in India’s labour market, which remains dominated by small and informal firms with limited human resource capabilities; without such linkage, trainees may complete courses only to discover that their skills are either mismatched or undervalued. The section titled 'Supply-Driven to Industry-Driven Skilling' elaborates on how skill initiatives in India are strengthening these linkages."
+        },
+        {
+          "type": "paragraph",
+          "text": "Third, local labour market intelligence must inform course portfolios. The failure of many skilling efforts lies less in the quality of training than in an inappropriate mix of courses relative to district-level demand. A dynamic mapping of vacancies, investment pipelines, migration corridors and sectoral shifts can inform which roles merit expansion and which should be sunset. Short, stackable modules that allow workers to accumulate capabilities over time, including through recognition of prior learning, can support mobility and wage progression rather than creating a brittle one-shot credential."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fourth, placement must be professionalised as a service. Counselling that clarifies aptitude, wage expectations and likely job locations is essential to avoid disillusionment and premature quitting. Verified interview pipelines, job fairs with real openings, and mobility support for inter-district or inter-state placements can materially improve retention. In many cases, small frictions, such as the cost of relocation, a lack of accommodation, or weak social support, undermine otherwise sound training-to-job transitions. Acknowledging and addressing these realities is part of making skilling effective."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fifth, the credibility of the entire enterprise depends on integrity in attendance, assessment and verification. When ghost centres, inflated numbers or weak assessments creep in, they erode trust among employers, trainees and the public, and crowd out more sincere providers. Strong digital attendance with audit trails, third-party assessment integrity checks and transparent grievance redress processes are not administrative niceties; they are foundational to establishing the signal value of a certificate. The section titled ‘From challenges to accountability via skilling scorecard’ highlights the importance of strengthening assessment and accountability frameworks in the skill ecosystem."
+        },
+        {
+          "type": "paragraph",
+          "text": "Within this broader effort to improve employability, the question arises whether upgrading"
+        },
+        {
+          "type": "paragraph",
+          "text": "Industrial Training Institutes (ITI) diplomas into bachelor-level degrees would help to make vocational pathways more attractive and valued. There are two distinct effects to consider. On the positive side, degree-equivalent recognition can enhance the reputation and social prestige of vocational tracks in a country where families often equate degrees with status and opportunities. It may also enhance academic mobility, enabling lateral entry into higher education, professional certifications or engineering pathways that were previously closed to vocational graduates. For some trainees, this can reduce the perceived risk of choosing a skills-first route. Box XII.9 highlights the success of Odisha’s skill development initiatives in strengthening ITIs and short-term training programmes by reshaping perceptions around skilling, offering a replicable template for other states."
+        },
+        {
+          "type": "paragraph",
+          "text": "A prudent approach is to view the degree upgrade as a complementary instrument, not a substitute for outcome-oriented reform. Where ITI programmes already demonstrate strong employer linkage, workplace learning and high retention, a degree-equivalent qualification can reinforce status and mobility. Where these conditions are absent, changing the credentials risks cosmetic improvement without real gains in employability. The test of success should remain the same: higher and more sustained employment, better match quality, and measurable earnings trajectories for graduates."
+        },
+        {
+          "type": "paragraph",
+          "text": "In sum, making skilling work in India requires aligning institutional incentives, employer partnerships, course portfolios, placement services, and integrity mechanisms around the lived outcomes of trainees. If this alignment is achieved, the attractiveness and dignity of skills-based pathways, whether labelled diplomas or degrees, will follow from their demonstrated value in the labour market rather than from optics alone."
+        },
+        {
+          "type": "paragraph",
+          "text": "Employment and Skill Development"
+        },
+        {
+          "type": "heading",
+          "text": "SKILLING STRATEGIES FOR YOUTH"
+        }
+      ]
+    },
+    {
+      "section_id": "12.46",
+      "title": "The aspirational youth of the country need to be equipped to navigate the",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "evolving dynamics of the job market. For building a skilled workforce, there is a felt need for vocational education to start early, as strong foundational skills can enable young people to acquire new skills, adapt to technologies, and progress over time. The"
+        },
+        {
+          "type": "paragraph",
+          "text": "Economic Survey 2024-25 highlighted the mismatch between educational attainment and occupational skill requirements, underscoring the need to integrate vocational education within the schooling system, enabling the development of relevant skills from an early stage and fostering an efficient alignment between education and labour market requirements.97 The importance of early exposure to skills has also been highlighted in"
+        },
+        {
+          "type": "paragraph",
+          "text": "Chapter 11 of the Economic Survey."
+        }
+      ]
+    },
+    {
+      "section_id": "12.47",
+      "title": "Vocational education and training constitute a critical component of the",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "education-employment interface, equipping individuals with occupation-specific skills required for effective labour market participation. By aligning learning with labour-market needs, vocational tracks have the potential to enhance employment prospects, facilitate smoother school-to-work (STW) transitions, strengthen workforce participation, and reduce unemployment, thereby contributing to broader economic and social development outcomes."
+        }
+      ]
+    },
+    {
+      "section_id": "12.48",
+      "title": "A 2025 National Skill Gap Study indicates that India still experiences a skill",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "mismatch caused by several factors, such as weak foundational skills, a mismatch between industry needs and the training provided, and the inability to adapt to emerging technologies and processes.98 Research suggests that school curricula focused on academic and college-preparatory tracks can lead to weaker STW transitions, skills mismatches, and differentiated outcomes. The returns to vocational education are higher compared to those of general education at the secondary level, and students who already express a preference for the vocational track experience greater benefits from vocational education at the upper-secondary stage.99,100,101 For India, the PARAKH"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rashtriya Sarvekshan 2024 findings show that only 47 per cent of schools offer skill- based courses at grade IX and above, and that participation remains low (29 per cent). Taken together, the evidence suggests that a narrow academic focus can lead to unintended outcomes, highlighting the need to integrate broader vocational learning into general education from an early stage."
+        },
+        {
+          "type": "paragraph",
+          "text": "97 Economic Survey 2024-25: https://tinyurl.com/24xa3p4b 98 MSDE. (2025). National skill gap study for high-growth sectors. https://tinyurl.com/32ukesfp"
+        },
+        {
+          "type": "paragraph",
+          "text": "99 Alon, T. M. (2018). Earning more by doing less: Human capital specialisation and the college wage premium"
+        },
+        {
+          "type": "paragraph",
+          "text": "(Doctoral dissertation). Northwestern University, Evanston, IL. https://tinyurl.com/y7fryzc5"
+        },
+        {
+          "type": "paragraph",
+          "text": "100 Zimmermann, M. (2021). Postsecondary and labour market outcomes of vocational vs. general higher track secondary pupils. Education Economics, 29(2), 213–231.https://tinyurl.com/fr2evysx"
+        },
+        {
+          "type": "paragraph",
+          "text": "101 \u0007Silliman, M., & Virtanen, H. (2022). Labour market returns to vocational secondary education. American"
+        },
+        {
+          "type": "paragraph",
+          "text": "Economic Journal: Applied Economics, 14(1), 197–224. https://tinyurl.com/2wbvzjpe"
+        }
+      ]
+    },
+    {
+      "section_id": "12.49",
+      "title": "A World Bank Report highlights the need to develop effective strategies to",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "enhance STW transition programmes. It suggests that agriculture and services are two key sectors with high potential for job creation. In the agricultural sector, the job opportunities have been identified in input companies, agro-processing supervisor, and advisory roles, all of which require high employability skills. Similarly, the service sector offers significant opportunities in retail, IT, banking, and other roles that require a multi-skilled approach.102,103 Given this landscape, strengthening skilling at an early stage is essential to ensure that young people are equipped to fully benefit from this emerging job potential. Box XII.7 discusses this aspect."
+        },
+        {
+          "type": "paragraph",
+          "text": "structured employment-support services, and Australia’s flexible qualification frameworks."
+        },
+        {
+          "type": "paragraph",
+          "text": "Finally, these systems ensure flexible education routes, such as Korea’s ‘Job First, University"
+        },
+        {
+          "type": "paragraph",
+          "text": "Later’ model and Germany’s provisions granting vocational graduates access to general or"
+        },
+        {
+          "type": "paragraph",
+          "text": "102 World Bank. (2024). Jobs at your doorstep https://tinyurl.com/ansd6uvn 103 \u0007A multi-skilled approach allows students to cover multiple skills, covering multiple job roles, which aligns with the industry's needs to be able to deploy its entry-level hires in a variety of roles."
+        },
+        {
+          "type": "paragraph",
+          "text": "104 \u0007National Skill Development Corporation. (2020). Best global practices in technical and vocational education and training. NSDC. https://tinyurl.com/4pez2ste"
+        },
+        {
+          "type": "paragraph",
+          "text": "105 Park, J. et al. (2018). Apprenticeship in Korea 2018. KRIVET. Sejong. https://tinyurl.com/5n72ahz3"
+        },
+        {
+          "type": "paragraph",
+          "text": "106 \u0007Hippach-Schneider, U., Krause, M., & Woll, C. (2007). Vocational education and training in Germany: short description. https://tinyurl.com/mruvyt4e"
+        },
+        {
+          "type": "paragraph",
+          "text": "Employment and Skill Development subject-specific higher education.107 Overall, these features underscore that strong vocational pathways within schools are shaped by early skill education, coordinated school-workplace training, sustained industry involvement, strong policy support, and flexibility between educational routes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Some states in India have also taken steps to strengthen vocational education within schools."
+        },
+        {
+          "type": "paragraph",
+          "text": "Under the Strengthening Teaching-Learning and Results for States (STARS) programme supported by the World Bank, some states have introduced a range of initiatives to strengthen STW transitions.108 Madhya Pradesh’s Skill GPS app, Rajasthan’s Comprehensive"
+        },
+        {
+          "type": "paragraph",
+          "text": "Career Education Programme, and Maharashtra’s Career Portal together expand data- driven career guidance and counselling for students in grades IX-XII.109 Odisha enhances experiential learning through structured industrial visits, mapping nearby industries to ensure regular exposure to real work environments. Kerala’s ESTEEM initiative and"
+        },
+        {
+          "type": "paragraph",
+          "text": "Himachal Pradesh’s skill labs further support vocational training for targeted cohorts, such as learners with special needs and out-of-school youth. Meghalaya is enhancing vocational orientation through programmes that equip students with career-ready skills. Across 183 schools, more than 15,000 students in grades IX and X receive project-based training in IT, electronics, beauty and wellness, tourism, and plumbing, supported by digital tracking on the PRABANDH (Project Appraisal, Budgeting, Achievements and Data Handling System) portal.110 These interventions aim to ensure that students gain both technical familiarity and applied learning experience during their formative years. Complementing these efforts is SPARK (School Programmes in Articulation, Resilience and Kindness) launched in 2024 by the Meghalaya government to strengthen students’ communication, resilience, and emotional well-being.111 Targeting grades VIII, IX and X, SPARK empowered 6,048 students across 28 institutions, logging 1,20,960 training hours in its pilot year (4 April 2024 – 20"
+        },
+        {
+          "type": "paragraph",
+          "text": "June 2025).112 The government is implementing the Vocationalisation of School Education scheme under the Samagra Shiksha scheme for integrated school education aligned with the National"
+        },
+        {
+          "type": "paragraph",
+          "text": "Education Policy (NEP) 2020.113 The scheme seeks to integrate vocational learning with general academic education to develop educated, employable and competitive individuals for a changing economy. The Employability Skills module, which covers communication, self-management, ICT, entrepreneurship and green skills, has been made mandatory across vocational courses. The CBSE has also introduced early vocational exposure by mandating"
+        },
+        {
+          "type": "paragraph",
+          "text": "Skill Education in grades VI-VIII, starting from the 2025-26 academic year, through the"
+        },
+        {
+          "type": "paragraph",
+          "text": "NCERT Kaushal Bodh textbooks. Schools are required to adopt a project-based learning"
+        },
+        {
+          "type": "paragraph",
+          "text": "107 \u0007Ibid note 104 above 108 WB and MoE. STARS. School-to-Work Transition Achievement Booklet: https://tinyurl.com/3t6ztrfv"
+        },
+        {
+          "type": "paragraph",
+          "text": "109 Ibid note 108 above 110 \u0007Education Department, Meghalaya. (2025). Initiatives under Samagra Shiksha. YouTube. https://tinyurl.com/ mwrt8f5p"
+        },
+        {
+          "type": "paragraph",
+          "text": "111 SPARK: https://www.sparkindia.org/ 112 https://www.sparkindia.org/sparkpilot"
+        },
+        {
+          "type": "paragraph",
+          "text": "113 Section 16.4 of NEP 2020 emphasises that vocational exposure will begin in middle and secondary school so that vocational learning is integrated early, ensuring every child learns at least one vocation and is exposed to several more. https://tinyurl.com/2255c8k9 approach that engages students in hands-on work across different domains, utilising available Composite Skill Labs, relevant tools, and support from local experts.114 To reinforce experiential learning, schools are also encouraged to organise an annual Kaushal Mela (Skill"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fair) to showcase students’ projects and the skills acquired during the year."
+        },
+        {
+          "type": "paragraph",
+          "text": "Strengthening vocational education at the school level requires ensuring that curriculum structures allow adequate time for hands-on, project-based activities along with general education. This can be supported through enhanced teacher preparation, improved school equipment, and structured opportunities to build students’ social and self-management skills. Schools also need access to suitable resources and flexible learning spaces for vocational training. Engagement with industry resource persons and community skill partners can enhance the practical relevance of learning and familiarise students with real work contexts. Additionally, creating spaces and platforms within schools for showcasing skills and reflecting on learning can make vocational education aspirational across the school ecosystem. Collectively, such measures will ensure that vocational learning is meaningfully integrated into schooling, creating a stronger pipeline of skill-ready learners."
+        }
+      ]
+    },
+    {
+      "section_id": "12.50",
+      "title": "Just like school education, vocational education in the higher-education",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "ecosystem has also undergone a series of reforms aimed at improving flexibility and industry alignment. The National Credit Framework (NCrF) has enabled the accumulation and transfer of credits across academic, vocational, and work-based learning routes, thereby expanding mobility for students and improving the integration of skill-based components within degree programmes.115 Further, the operationalisation of multiple entry-exit provisions allows learners to re-enter higher education with prior credits and accumulate qualifications in a modular manner. Additionally, the expansion of apprenticeship-embedded undergraduate degrees has strengthened industry linkages by incorporating structured on-the-job training into the curricula. Further, the launch of SWAYAM Plus in February 2024 has facilitated the delivery of industry- aligned digital courses in emerging areas such as artificial intelligence, data analytics, and robotics.116 The National Apprenticeship Training Scheme (NATS) 2.0 has scaled apprenticeship support through over 12 lakh DBT stipend transfers.117 Collectively, these measures reflect an ongoing transition toward a more flexible, modular, and"
+        },
+        {
+          "type": "paragraph",
+          "text": "114 \u0007Central Board of Secondary Education. (2025). Mandatory implementation of Skill Education and Kaushal"
+        },
+        {
+          "type": "paragraph",
+          "text": "Bodh textbooks in Grades VI–VIII in CBSE schools w.e.f. academic session 2025–2026. CBSE. https://tinyurl."
+        },
+        {
+          "type": "paragraph",
+          "text": "com/3r85st79 115 PIB release dated 29 July 2025: https://tinyurl.com/mvcfh2sm 116 \u0007PIB release of Ministry of Education dated 27 February 2025: https://tinyurl.com/mr3n8njt SWAYAM is the Ministry of Education’s (MoE) Massive Open Online Course platform that provides wide access to quality teaching and learning resources, particularly for learners with limited access to the digital knowledge economy."
+        },
+        {
+          "type": "paragraph",
+          "text": "117 PIB release dated 29 July 2025: https://tinyurl.com/3pnbv6ar Employment and Skill Development labour-market-responsive education framework. More details are presented in Box"
+        },
+        {
+          "type": "paragraph",
+          "text": "XII.8."
+        },
+        {
+          "type": "paragraph",
+          "text": "SMEs were to enrol even two apprentices, the total number of apprentices could increase by over 10 lakh. The limited number of active establishments underscores the need to increase awareness of the scheme among industry partners, particularly SMEs.123"
+        },
+        {
+          "type": "paragraph",
+          "text": "Additionally, the presence of multiple overlapping programmes, such as NAPS and NATS, with responsibility split between the MSDE and the Ministry of Education, makes it difficult for industry players to navigate the different processes and portals, resulting in a compliance"
+        },
+        {
+          "type": "paragraph",
+          "text": "118 \u0007Kuczera, M. (2017). Striking the right balance: Costs and benefits of apprenticeship (OECD Education Working"
+        },
+        {
+          "type": "paragraph",
+          "text": "Paper No. 153). OECD https://tinyurl.com/4sws52sd 119 \u0007The KPMG Report titled ‘Data Analysis: National Apprenticeship Promotion Scheme (Feb 2018-April 2025)’ provides a comprehensive review of apprenticeship data. PIB of MSDE dated 26 May 2025: https://tinyurl."
+        },
+        {
+          "type": "paragraph",
+          "text": "com/59zb875p 120 NATS dashboard: https://nats.education.gov.in/dashboards/pub_dashboard.php"
+        },
+        {
+          "type": "paragraph",
+          "text": "121 NAPS dashboard: https://tinyurl.com/3r5h67s7 (as of 24 January 2026) 122 MSME dashboard: https://dashboard.msme.gov.in/"
+        },
+        {
+          "type": "paragraph",
+          "text": "123 \u0007UNDP (2024) Unlocking opportunities: How embracing apprenticeships can shape India’s youth employment."
+        },
+        {
+          "type": "paragraph",
+          "text": "https://tinyurl.com/bde5fcvn burden.124 Regional disparities also persist in candidate registrations across states. While"
+        },
+        {
+          "type": "paragraph",
+          "text": "Maharashtra and Uttar Pradesh report over 10 lakh registered apprentices each, many"
+        },
+        {
+          "type": "paragraph",
+          "text": "North-Eastern states have only a few hundred to a few thousand registrations.125"
+        },
+        {
+          "type": "paragraph",
+          "text": "To address these gaps, a unified apprenticeship mission may be needed to bring NAPS,"
+        },
+        {
+          "type": "paragraph",
+          "text": "NATS, and similar schemes under a single framework, ensuring better policy alignment and closer integration between education, skilling, and employment.126 Strengthening"
+        },
+        {
+          "type": "paragraph",
+          "text": "District Skill Committees as local anchors can enable targeted outreach in states with low registrations, aspirational districts, and the North-Eastern region. Building on the pilot apprenticeship initiative in the North-Eastern Region, there is need to scale similar efforts to increase participation by establishments and apprentices across other regions.127"
+        },
+        {
+          "type": "paragraph",
+          "text": "Apprenticeship opportunities should also expand into new-age and gig economy sectors, including green manufacturing, logistics, and digital services, to meet emerging industry demands. Finally, enhanced industry participation can be encouraged through MSME cluster models and graded incentives tailored to companies based on their size.128 There is a need to ensure continuity and support for apprentices by providing insurance coverage, travel and accommodation assistance, and linkages to post-apprenticeship employment or entrepreneurship schemes, making participation safer and more rewarding. Additionally, strengthening recognition of prior learning under Pradhan Mantri Kaushal Vikas Yojana"
+        },
+        {
+          "type": "paragraph",
+          "text": "(PMKVY) by linking it to formal learning pathways will allow apprentices to receive credit for their existing skills and experience, promoting lifelong skill development and mobility. 129"
+        },
+        {
+          "type": "paragraph",
+          "text": "By driving unified governance, localised implementation, and industry partnerships, India can transform its apprenticeship ecosystem to meet the evolving needs of the labour market and promote inclusivity, security, and aspiration. The convergence of policy reforms, institutional coordination, and industry engagement will position apprenticeships as a strategic lever for generating sustainable employment."
+        },
+        {
+          "type": "paragraph",
+          "text": "Supply-driven to industry-driven skilling"
+        }
+      ]
+    },
+    {
+      "section_id": "12.51",
+      "title": "As learners advance, education and vocational pathways must be closely",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "aligned with industry, ensuring that curricula, pedagogy, and assessment reflect the real-world requirements and evolving demands of the workplace. Industry-driven skilling has become central to effective workforce development. Industry involvement in curricula, training, apprenticeships, and assessments aims to make skilling more market-responsive. Embedding industry participation across institutions, standards, and programme oversight can enhance the relevance and credibility of training."
+        },
+        {
+          "type": "paragraph",
+          "text": "124 \u0007ILO 2022. Good practices in Apprenticeships in India: Challenges and opportunities. https://tinyurl."
+        },
+        {
+          "type": "paragraph",
+          "text": "com/5n8n5pdr."
+        },
+        {
+          "type": "paragraph",
+          "text": "125 Ibid note 121 above 126 Ibid note 124 above 127 PIB of MSDE dated 28 July 2025: https://tinyurl.com/yeytdpd8"
+        },
+        {
+          "type": "paragraph",
+          "text": "128 \u0007Ibid note 124 above. Small companies, where the requirement of apprentices is low, should be given more incentives to promote their participation in apprenticeship training."
+        },
+        {
+          "type": "paragraph",
+          "text": "129 MSDE (2022) Recognition of Prior Learning (RPL) booklet https://tinyurl.com/u7pvajwa"
+        },
+        {
+          "type": "paragraph",
+          "text": "Employment and Skill Development"
+        }
+      ]
+    },
+    {
+      "section_id": "12.52",
+      "title": "In recognition of this, under PMKVY 4.0, training is imparted in NSQF-aligned",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "job roles developed by industry-led Sector Skill Councils (SSC), and several courses are delivered directly within industrial premises with trainers sourced from the employer ecosystem.130 Furthermore, regular Rozgar Melas and National Apprenticeship Melas enhance the interface between employers and job seekers. Under PMKVY 4.0, the sectoral focus on digital technologies, green energy, healthcare, advanced agriculture, financial services, and e-commerce reflects a calibrated effort to steer skilling investments toward India’s long-term growth drivers and emerging opportunities in the global economy."
+        }
+      ]
+    },
+    {
+      "section_id": "12.53",
+      "title": "Mechanisms such as the Flexi-MoU scheme further support this shift by allowing",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "firms to customise training and introduce courses aligned with their evolving skill needs."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prominent enterprises have been onboarded as industrial training partners, enabling the training of nearly 10,000 trainees so far."
+        }
+      ]
+    },
+    {
+      "section_id": "12.54",
+      "title": "Complementing firm-led training models, industry and market linkages are also",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "being strengthened for traditional occupations through the PM Vishwakarma Kaushal"
+        },
+        {
+          "type": "paragraph",
+          "text": "Samman Yojana, launched in September 2023. The scheme aims to uplift the lives of traditional artisans and craftsperson by enhancing their skills and increasing the reach of their products and services. It seeks to provide end-to-end holistic support to artisans and craftspeople of 18 traditional trades who work with their hands and tools."
+        },
+        {
+          "type": "paragraph",
+          "text": "As of 1 December 2025, 30 lakh beneficiaries have been registered, out of which 23.09 lakh beneficiaries have been trained.131 Beneficiaries receive a PM Vishwakarma digital certificate and ID, enabling access to all scheme benefits, including skill upgradation, tool kit incentives (e-voucher up to ₹15,000), digital transaction incentives, and collateral- free loans up to ₹3 lakh at concessional interest rates.132 Also, online marketing support is being provided to PM Vishwakarma beneficiaries through various e-commerce platforms to promote the sale of their products in the domestic as well as international markets. Additionally, over 30,000 Vishwakarma beneficiaries have been successfully onboarded on the Government e-Marketplace, enhancing their access to institutional buyers."
+        }
+      ]
+    },
+    {
+      "section_id": "12.55",
+      "title": "The skilling ecosystem at the ITI level is being strengthened by reforms focused",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "on improving training quality, industry relevance, and institutional capacity. The"
+        },
+        {
+          "type": "paragraph",
+          "text": "National Scheme for Upgradation of ITIs proposes to upgrade 1,000 government ITIs, including 200 hub ITIs and 800 spoke ITIs, through smart classrooms, modern labs,"
+        },
+        {
+          "type": "paragraph",
+          "text": "130 PIB release of MSDE dated 15 December 2025: https://tinyurl.com/57eacyrb 131 PIB release of M/o MSME dated 4 December 2025: https://tinyurl.com/2ayrsnxy"
+        },
+        {
+          "type": "paragraph",
+          "text": "132 PIB release dated 16 September 2025: https://tinyurl.com/2uv6f5tm digital content, and industry-aligned long- and short-term courses.133 In addition, the establishment of five sector-specific National Centres of Excellence for advanced training of trainers in partnership with global institutions would further enhance skill training. Implementation through special-purpose vehicles with anchor industry partners will enable outcome-based training and stronger industry linkages. Further, the NSQF-compliant training has been expanded by developing 169 trades, which include 31 future-skills courses in areas such as AI, internet of things (IoT), renewable energy and 3D printing, delivered through the nationwide network of ITIs and National"
+        },
+        {
+          "type": "paragraph",
+          "text": "Skill Training Institutes.134 Together, these measures aim to reposition ITIs as modern, industry-integrated institutions that deliver high-quality, demand-driven vocational training. In this regard, the success achieved in Odisha can offer valuable lessons for others. These are presented in Box XII.9."
+        },
+        {
+          "type": "paragraph",
+          "text": "4-2’ formula focused on highlighting alumni success (10 successful alumni- six of whom are employed out of Odisha, four are women, and two are entrepreneurs). Confidence-building was done through changes in uniforms, ITI fests, and through global exposure."
+        },
+        {
+          "type": "paragraph",
+          "text": "133 \u0007Recently launched as PM skilling and Employability Transformation through Upgraded ITIs (PM SETU)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Guidelines: https://tinyurl.com/wxkb98fm 134 PIB release of MSDE dated 1 December 2025: https://tinyurl.com/2p9n36t8"
+        },
+        {
+          "type": "paragraph",
+          "text": "135 NITI Aayog. (2023). Transforming Industrial Training Institutes. https://tinyurl.com/5crcx7x7."
+        },
+        {
+          "type": "paragraph",
+          "text": "Employment and Skill Development The key elements of the model such as image reinvention, alumni engagement, and success stories- are learnings that can be adapted by other states. Such campaigns can contribute to changing public perception, boosting enrolment, and improving employer connections."
+        },
+        {
+          "type": "paragraph",
+          "text": "Going forward, at the district level, local ITIs and polytechnics should be revamped in a substantial, visible, and aspirational manner, making them attractive for students."
+        },
+        {
+          "type": "paragraph",
+          "text": "Scaling short-term training expansion:"
+        },
+        {
+          "type": "paragraph",
+          "text": "To strengthen the supply side, short-term skilling programmes such as Deen Dayal"
+        },
+        {
+          "type": "paragraph",
+          "text": "Upadhyaya Grameen Kaushalya Yojana (DDU-GKY) were scaled up in both volume and quality. Efforts were focused on improving trainee well-being at training centres, expanding outreach in rural areas, and using alumni role models to raise awareness. Urban events were organised to celebrate skilled workers and shift social perceptions about vocational training."
+        },
+        {
+          "type": "paragraph",
+          "text": "Information gaps about future work pathways were addressed by highlighting examples such as DDU-GKY-trained sewing machine operators employed in Tata Aerospace for aircraft manufacturing."
+        },
+        {
+          "type": "paragraph",
+          "text": "Efforts to scale short-term training courses should prioritise raising awareness of the benefits and returns of skilling, improving trainee mobilisation, and elevating trainer standards."
+        },
+        {
+          "type": "paragraph",
+          "text": "Courses must align with local labour market demands, backed by trainer development and performance-based incentives."
+        },
+        {
+          "type": "paragraph",
+          "text": "Accelerate the establishment of the Advanced Training Institute The third arm of the strategy was to establish a world-class training institute in collaboration with the Institute of Technical Education - Education Services (ITEES), Singapore,136 though the initial target was to establish eight of these. The Odisha World Skill Centre in Bhubaneswar, inaugurated in 2021, features Schools of Engineering and Services. It offers scholarships, training from basic to advanced levels (including safety and life skills), and leverages ITEES collaboration for teacher training. Similar centres, built with robust industry and international partnerships, can function as apex skilling institutions."
+        },
+        {
+          "type": "paragraph",
+          "text": "Taken together, the ‘Fix; Scale; Accelerate’ approach, inspired by Odisha’s experience137, provides an adaptable template for strengthening the skill ecosystem and ITIs, transforming them from underutilised institutions into aspirational, high-quality institutions that can strengthen India’s skill ecosystem."
+        },
+        {
+          "type": "paragraph",
+          "text": "Innovative financing mechanisms for skill development"
+        }
+      ]
+    },
+    {
+      "section_id": "12.56",
+      "title": "As skilling gains priority, public funding alone is insufficient to meet diverse",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "needs, highlighting the need for alternative mechanisms. Varied and uncertain returns to skill investments combined with market failures, such as information gaps and credit constraints, hinder skill acquisition, underscoring the need for government-designed"
+        },
+        {
+          "type": "paragraph",
+          "text": "136 ITEES, Singapore: https://itees.com.sg/about-us/ 137 Bagchi, S. (2025). The day the chariot moved: How India grows at the grassroots. Penguin Business."
+        },
+        {
+          "type": "paragraph",
+          "text": "financing models that expand access, encourage private sector participation, and ensure broad-based economic benefits.138"
+        }
+      ]
+    },
+    {
+      "section_id": "12.57",
+      "title": "Under NAPS 2.0, the government now transfers 25 per cent of the prescribed",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "stipend directly to apprentices through DBT enhancing transparency, reducing administrative burden, and improving cash-flow predictability for establishments. As of 31 October 2025, an amount of ₹1,110.64 crore has been released as stipend support directly to apprentices under this framework."
+        }
+      ]
+    },
+    {
+      "section_id": "12.58",
+      "title": "International experience suggests that loan systems can incorporate incentives",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "that encourage learners to pursue skill training or occupations aligned with national priorities.139 Designing such systems with appropriate incentives can help ensure expanding access to skill training. In India, the modified Credit Guarantee Fund Scheme for Skill Development (CGFSSD), operationalised as the Model Skill Loan Scheme in 2024, aims to strengthen the credit-based route for skill acquisition by increasing the maximum loan limit and expanding the pool of eligible lending institutions.140"
+        },
+        {
+          "type": "paragraph",
+          "text": "The scheme also extends coverage to non-NSQF courses offered by training entities registered on MSDE’s SIDH."
+        }
+      ]
+    },
+    {
+      "section_id": "12.59",
+      "title": "Beyond traditional grants and credit-based instruments, outcomes-based",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "financing models offer a complementary approach to mobilising private capital while retaining public accountability. India’s Skill Impact Bond (SIB), implemented by MSDE through NSDC, demonstrates how performance-linked payment mechanisms can align public objectives with private investment by linking funding to independently verified placement and retention outcomes. By de-risking private participation and rewarding sustained employment rather than enrolments alone, such models can expand the financing envelope for skilling while incentivising quality, employer alignment, and long-term labour-market impact.141"
+        }
+      ]
+    },
+    {
+      "section_id": "12.60",
+      "title": "Other than government financing, co-investing in training through mandatory",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "or voluntary contributions by employers offers an alternative approach to financing skill development. It is used in countries such as Belgium, Cyprus, Denmark, France,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Greece, Hungary, Ireland, Italy, Korea, Malaysia, the Netherlands, Singapore, and"
+        },
+        {
+          "type": "paragraph",
+          "text": "Spain.142 Ireland’s Skillnet training networks bring together private firms to undertake"
+        },
+        {
+          "type": "paragraph",
+          "text": "138 \u0007OECD (2017), Financial Incentives for Steering Education and Training, Getting Skills Right, OECD Publishing,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Paris https://tinyurl.com/3p2uhh35 139 \u0007Ibid note 138 above 140 PIB release of MSDE dated 25 July 2024: https://tinyurl.com/2mz4rvf6"
+        },
+        {
+          "type": "paragraph",
+          "text": "141 NSDC Portal: https://nsdcindia.org/sib 142 \u0007Dickinson, P., & Marsden, J. (2013). International evidence review on co-funding for training https://tinyurl."
+        },
+        {
+          "type": "paragraph",
+          "text": "com/mvbw88y3 Employment and Skill Development collaborative training activities that are otherwise difficult to implement individually."
+        },
+        {
+          "type": "paragraph",
+          "text": "A broad network of Skillnet groups across Ireland is funded by the government and the National Training Fund, with support from employer contributions. These models help address sector-specific skill gaps while ensuring deeper employer engagement in the skilling ecosystem.143 Similarly, in India, employers support workforce training. For example, certain companies provide paid education leave and sponsor higher education for permanent employees, while IT firms often fund online courses and training programmes.144 The SSCs under NSDC further facilitate industry-led investments in skill development, helping address sector-specific gaps and strengthen employer engagement. In FY25, almost 1.13 lakh candidates were trained through industry funding under SSCs.145"
+        }
+      ]
+    },
+    {
+      "section_id": "12.61",
+      "title": "Learner choice, quality, and affordability are vital to effective vocational",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "education. Allowing learners more control over course selection can enhance engagement and completion rates. At the same time, social and institutional factors may limit participation, emphasising the need for inclusivity. Maintaining high quality is crucial for the credibility and relevance of training, while affordability ensures access and informed choices. Together, these factors create a more inclusive and balanced vocational skilling system. Box XII.10 discusses how skill vouchers can be an effective lever in exercising individual choice for skilling."
+        },
+        {
+          "type": "paragraph",
+          "text": "programme. Non-redemption is not penalised; instead, the unused voucher simply lapses."
+        },
+        {
+          "type": "paragraph",
+          "text": "This ensures that trainees only enrol in courses that match their expectations, while encouraging training institutes to maintain and improve the quality of their programmes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Evidence suggests that the provision of appropriate counselling, assessment, and the availability of performance information are essential for the success of the programmes.151,152"
+        },
+        {
+          "type": "paragraph",
+          "text": "In India, both state governments and civil society organisations have implemented skill- voucher initiatives. The Adi Dravidar and Tribal Welfare Department of the government of"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tamil Nadu launched a skill voucher scheme in 2024 for Adi Dravidar, Tribal, and Christian"
+        },
+        {
+          "type": "paragraph",
+          "text": "Adi Dravidar students who pass their graduation, post-graduation, and technical courses with 60 per cent or more marks.153 Under the scheme, eligible students received vouchers valued at ₹12,000, ₹15,000, or ₹25,000 to enrol in training programmes in emerging fields, offered by training institutions listed on approved platforms."
+        },
+        {
+          "type": "paragraph",
+          "text": "In Maharashtra’s Vikalp Skill Voucher Programme, redeemable skill vouchers were provided, allowing students to select accredited training institutes. Payments to trainers were linked to specific outcomes, including course completion, certification, and job placement.154 The model enhanced cost efficiency, strengthened trainee commitment and ownership, and achieved a job-retention rate of 60 per cent among those who completed the training within the prescribed time.155"
+        },
+        {
+          "type": "paragraph",
+          "text": "These initiatives and international experience provide valuable lessons in designing inclusive, accountable, and effective skill voucher programmes. For states implementing these programmes, expanding vouchers beyond targeted groups and conducting regular impact assessments would provide valuable insights for scaling, enhancing choice, equity, and overall effectiveness across the skilling ecosystem. In addition, empanelment of training providers based on quality standards, combined with performance-based monitoring, ensures that meaningful outcomes are achieved."
+        },
+        {
+          "type": "paragraph",
+          "text": "From challenges to accountability via skilling scorecard"
+        }
+      ]
+    },
+    {
+      "section_id": "12.62",
+      "title": "Skill training programmes assume a baseline level of readiness, but weak",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "foundational skills, such as literacy, numeracy, and soft skills, create employability"
+        },
+        {
+          "type": "paragraph",
+          "text": "149 \u0007Hicks, J. et al. (2011). Vocational Education Voucher Delivery and Labour Market Returns: A Randomised"
+        },
+        {
+          "type": "paragraph",
+          "text": "Evaluation among Kenyan Youth (Final Report for the Spanish Impact Evaluation Fund – SIEF Phase II). World"
+        },
+        {
+          "type": "paragraph",
+          "text": "Bank https://tinyurl.com/5f96yp59 150 https://tinyurl.com/5xpwyvv5 151 Ibid note 148 above."
+        },
+        {
+          "type": "paragraph",
+          "text": "152 Kaplan et al. (2015). Training Vouchers and Labour Market Outcomes in Chile. https://doi.org/10.18235/0011685"
+        },
+        {
+          "type": "paragraph",
+          "text": "153 \u0007Adi Dravidar & Tribal Welfare Department, Tamil Nadu. (2025). Policy note 2025-26. Government of Tamil"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nadu (https://tinyurl.com/4uyvj2y5 ) 154 A joint initiative of the NSDC, BARTI (Dr Babasaheb Ambedkar Research and Training Institute), the Centre for"
+        },
+        {
+          "type": "paragraph",
+          "text": "Civil Society, and the Michael & Susan Dell Foundation, which was piloted in Mumbai and Pune. Accelerating skills through vouchers: An implementation guide. Centre for Civil Society. https://tinyurl.com/5ymzdua7"
+        },
+        {
+          "type": "paragraph",
+          "text": "155 Ibid note 154 above."
+        },
+        {
+          "type": "paragraph",
+          "text": "Employment and Skill Development mismatches that vocational training alone cannot remedy.156 These gaps are compounded by regional disparities in employability (Northern and Southern states performing better), demographic disparities (the 22–25 age group dominates youth employability), and low overall employability (56.3 per cent).157"
+        }
+      ]
+    },
+    {
+      "section_id": "12.63",
+      "title": "Furthermore, weak technical and vocational education and training (TVET)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "quality, resulting from inadequately trained instructors, outdated curricula, and limited practical exposure, means that even certified candidates often fail to meet firms’ expectations. Local skilling remains inadequately aligned with industry needs, traditional sectors (such as weaving, dairy and entry-level manufacturing) are perceived as low status and not well-paid, and youth wage aspirations frequently exceed what firms can offer, resulting in high early turnover and limited adaptability to rapid technological change.158 Infrastructure gaps, insufficient industry-academia collaboration, and financial limitations further compound these challenges.159 Within this broader context, PMKVY faces significant implementation challenges, including inconsistencies in beneficiary and data management, delays in disbursing funds, gaps in monitoring systems, and low placement outcomes.160"
+        }
+      ]
+    },
+    {
+      "section_id": "12.64",
+      "title": "The chapter has already discussed solutions like programme convergence,",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "early vocational education, strengthening industry linkages, and alternative financing."
+        },
+        {
+          "type": "paragraph",
+          "text": "However, a comprehensive evaluation of the skilling system is essential to benchmark performance across regions, enforce outcome metrics, and drive demand-led reforms."
+        },
+        {
+          "type": "paragraph",
+          "text": "Evaluation of skill initiatives must move beyond compliance-based metrics such as enrolments and certifications, towards assessing whether skilling programmes generate sustained labour-market value in terms of employability, earnings, and job retention."
+        },
+        {
+          "type": "paragraph",
+          "text": "Critically, evaluation should follow the trainee’s post-training trajectory rather than the administrative cycle of the scheme. The third-party assessments of flagship schemes, such as PMKVY, Jan Shiksha Sansthan, ITIs, and NAPS, indicate positive outcomes in terms of trainee income, placements, and employer demand.161 Most of these evaluations date back to 2020-21. Given rapid technological change and evolving"
+        },
+        {
+          "type": "paragraph",
+          "text": "156 MSDE (2025). National skill gap study for high-growth sectors. https://tinyurl.com/2hh25vkp"
+        },
+        {
+          "type": "paragraph",
+          "text": "157 \u0007India Skill Report 2026. https://wheebox.com/india-skills-report.htm Employability is measured by drawing insights from over 1 lakh candidates who participated in the Global Employability Test (G.E.T.) The ETS Wheebox"
+        },
+        {
+          "type": "paragraph",
+          "text": "Global Employability Test is a standardised online skill evaluation designed to measure the job readiness of"
+        },
+        {
+          "type": "paragraph",
+          "text": "India’s youth in alignment with evolving global workforce demands. The 2026 test was conducted across higher education institutions, technical universities, vocational centres, and polytechnic institutions, as well as in select international partner regions."
+        },
+        {
+          "type": "paragraph",
+          "text": "158 Ibid note 156 above."
+        },
+        {
+          "type": "paragraph",
+          "text": "159 \u0007Mehta, J et al (2024). Skill development in India: Challenges, current, and future perspectives. The Scientific"
+        },
+        {
+          "type": "paragraph",
+          "text": "Temper, 15(spl-2):116-122. https://tinyurl.com/u5u2d396 160 \u0007CAG (2025). Report No. 20 of 2025: Performance audit of Pradhan Mantri Kaushal Vikas Yojana (PMKVY)."
+        },
+        {
+          "type": "paragraph",
+          "text": "https://tinyurl.com/4xs6bpf3 161 PIB release of MSDE dated 1 December 2025: https://tinyurl.com/2dddv268 local labour-market demand, a fresh and outcome-oriented reassessment, anchored in medium-term employment and earnings outcomes, is therefore essential."
+        }
+      ]
+    },
+    {
+      "section_id": "12.65",
+      "title": "The integration of SIDH, NCS and e-Shram portal has created a robust digital",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "infrastructure that can be leveraged for real-time monitoring and assessment, linking training records with employment outcomes, employer demand, and individual skilling trajectories. This infrastructure can enable the continuous tracking of individual trainees, beginning with baseline profiles that capture prior education (through integration of"
+        },
+        {
+          "type": "paragraph",
+          "text": "APAAR IDs 162) and work history, and location. This profile must be followed through the training and employment cycle, including certification, placement, or apprenticeship, as well as six- and twelve-month employment and earnings outcomes. Further integration with platforms like PM Vishwakarma, EPFO, ESIC, etc, can provide greater insights into the trajectory of unorganised and traditional workers. Such integration would support evidence-based reassessment of schemes, improve targeting, and better align training supply with labour-market needs."
+        }
+      ]
+    },
+    {
+      "section_id": "12.66",
+      "title": "Mature skilling and apprenticeship systems across Europe and East Asia converge",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "on three evaluation habits that India can adapt rather than copy mechanically. First, they measure employment and wage outcomes longitudinally. In Singapore’s adult learning system, for instance, training cohorts are tracked for post-course employability and wage effects, and the publication of these indicators shapes future course design and budget allocation.163 Second, in the dual-system traditions of Germany and Switzerland, employers are structurally embedded in curriculum definition, workplace learning and assessment, which creates a natural outcome-monitoring loop because firms have direct stakes in trainee capability and retention.164 Third, in countries such as Korea, active labour-market programmes are treated as policy instruments that must continually justify scale, with periodic reviews that prune weak interventions and expand strong ones.165 The transferable lesson is not that a single institutional model guarantees success, but that systems which consistently generate value do so by linking funding, course portfolios and institutional legitimacy to measured outcomes over time."
+        }
+      ]
+    },
+    {
+      "section_id": "12.67",
+      "title": "In India, longitudinal tracking of trainees through their UAN, which can be used",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "for EPFO, ESIC, and other social security schemes, would enable the measurement of long-term impact. Outcome-linked financing could further incentivise training quality, allowing high-performing institutions to expand while phasing out those with low demand. A comprehensive data-driven scorecard system that tracks employment"
+        },
+        {
+          "type": "paragraph",
+          "text": "162 \u0007APAAR (Automated Permanent Academic Account Registry) enables students to securely store and transfer academic records, facilitating credit recognition and seamless mobility across institutions from the school level and supporting recognition of prior learning. https://apaar.education.gov.in/"
+        },
+        {
+          "type": "paragraph",
+          "text": "163 Ministry of Education, Singapore (2020): https://tinyurl.com/mssa8ruz 164 \u0007OECD (2025), Vocational Education and Training Systems in Nine Countries, OECD Reviews of Vocational"
+        },
+        {
+          "type": "paragraph",
+          "text": "Education and Training, OECD Publishing, Paris, https://doi.org/10.1787/1a86eb6c-en."
+        },
+        {
+          "type": "paragraph",
+          "text": "165 Government of Korea (2009), Framework Act on Employment Policy https://tinyurl.com/2xbze93c"
+        },
+        {
+          "type": "paragraph",
+          "text": "Employment and Skill Development outcomes, retention, earnings, and training quality can guide policy decisions and help learners make informed choices, ensuring more efficient and effective utilisation of skilling resources."
+        },
+        {
+          "type": "paragraph",
+          "text": "OUTLOOK"
+        }
+      ]
+    },
+    {
+      "section_id": "12.68",
+      "title": "India has recorded significant employment growth in recent years, supported",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "by structural reforms, tax rationalisation, and a sustained focus on skill development."
+        },
+        {
+          "type": "paragraph",
+          "text": "Measures such as deregulation, GST 2.0, and labour reforms implemented by states have contributed to rising labour force participation and employment growth across industry and services."
+        }
+      ]
+    },
+    {
+      "section_id": "12.69",
+      "title": "The employment and skilling ecosystem is being reshaped by demographic",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "shifts, technological change, and evolving industry needs, including the expansion of gig and platform work. Amid these developments, the effective implementation of"
+        },
+        {
+          "type": "paragraph",
+          "text": "Labour Codes would play a key role in supporting formal employment and improving security for women and gig workers. As definitions of work continue to evolve, dynamic labour policy and flexible regulatory frameworks would ensure employment expansion, worker security and well-being."
+        }
+      ]
+    },
+    {
+      "section_id": "12.70",
+      "title": "On the skills front, flexible vocational pathways starting at the school level will",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "be required, going forward. Recent skilling initiatives reflect a shift towards a more modular and labour-market-responsive framework, helping reduce skill mismatches and support employment generation. Targeted skilling for women and youth in high- productivity sectors will be critical for inclusive outcomes."
+        }
+      ]
+    },
+    {
+      "section_id": "12.71",
+      "title": "As India moves ahead in its growth journey, advancing institutional",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "convergence and fostering a whole-of-government approach would enable the skilling and employment initiatives to operate in a coherent manner. The development of an information system that brings together data from e-Shram on unorganised workers,"
+        },
+        {
+          "type": "paragraph",
+          "text": "NCS on job vacancies and required skills, and SIDH on training opportunities can lay the foundation for an integrated digital public infrastructure. This could set the stage for a sharper emphasis on industry-driven skilling, which remains central to building job-ready talent and strengthening skill-industry linkages."
+        },
+        {
+          "type": "paragraph",
+          "text": "***"
+        }
+      ]
+    }
+  ],
+  "references": [],
+  "metadata": {
+    "extraction_method": "mcp_raw + ai_intelligent_processing",
+    "pages": {
+      "start": 517,
+      "end": 562
+    },
+    "structure": {
+      "sections_count": 68,
+      "summary_paragraphs": 11,
+      "references": 0
+    }
+  }
+}
